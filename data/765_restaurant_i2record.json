@@ -1,0 +1,9 @@
+{
+   "0": "name sesame_restaurant_and_bar address 17_hills_road_city_centre area centre food chinese phone 01223358899 postcode cb21nw pricerange expensive type restaurant ref nefptq46",
+   "1": "name ugly_duckling address 12_st_._johns_street_city_centre area centre food chinese postcode cb21tw pricerange expensive type restaurant",
+   "2": "name ugly_duckling address 12_st_._johns_street_city_centre area centre food chinese postcode cb21tw pricerange expensive type restaurant ref nefptq46",
+   "3": "name rice_house address 88_mill_road_city_centre area centre food chinese phone 01223367755 postcode cb12bd pricerange cheap type restaurant",
+   "4": "name tang_chinese address napier_street_city_centre area centre food chinese phone 01223357187 postcode cb11hr pricerange expensive type restaurant ref nefptq46",
+   "5": "name hk_fusion address 21_burleigh_street_city_centre area centre food chinese phone 01223355909 postcode cb11dg pricerange expensive type restaurant ref nefptq46",
+   "6": "name the_good_luck_chinese_food_takeaway address 82_cherry_hinton_road_cherry_hinton area south food chinese phone 01223244149 postcode cb17ag pricerange expensive type restaurant ref nefptq46"
+}

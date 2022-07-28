@@ -1,0 +1,9 @@
+{
+   "0": "distance 3_miles traffic_info heavy_traffic poi_type friends_house address 347_alta_mesa_ave poi jills_house",
+   "1": "distance 4_miles traffic_info heavy_traffic poi_type rest_stop address 657_ames_ave poi the_clement_hotel",
+   "2": "distance 5_miles traffic_info heavy_traffic poi_type parking_garage address 270_altaire_walk poi civic_center_garage",
+   "3": "distance 5_miles traffic_info no_traffic poi_type pizza_restaurant address 528_anton_ct poi pizza_my_heart",
+   "4": "distance 6_miles traffic_info heavy_traffic poi_type rest_stop address 753_university_ave poi comfort_inn",
+   "5": "distance 2_miles traffic_info heavy_traffic poi_type chinese_restaurant address 669_el_camino_real poi p_._f_._changs",
+   "6": "distance 1_miles traffic_info moderate_traffic poi_type grocery_store address 408_university_ave poi trader_joes"
+}

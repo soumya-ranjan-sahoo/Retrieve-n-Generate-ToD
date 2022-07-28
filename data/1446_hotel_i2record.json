@@ -1,0 +1,9 @@
+{
+   "0": "name gonville_hotel address gonville_place area centre phone 01223366611 postcode cb11ly pricerange expensive stars 3_star type hotel choice 33 ref u5hxnkxo",
+   "1": "name express_by_holiday_inn_cambridge address 15-17_norman_way,_coldhams_business_park area east phone 01223866800 postcode cb13lh pricerange expensive stars 2_star type hotel choice 33 ref u5hxnkxo",
+   "2": "name huntingdon_marriott_hotel address kingfisher_way,_hinchinbrook_business_park,_huntingdon area west phone 01480446000 postcode pe296fl pricerange expensive stars 4_star type hotel",
+   "3": "name university_arms_hotel address regent_street area centre phone 01223351241 postcode cb21ad pricerange expensive stars 4_star type hotel",
+   "4": "name university_arms_hotel address regent_street area centre phone 01223351241 postcode cb21ad pricerange expensive stars 4_star type hotel choice 33 ref u5hxnkxo",
+   "5": "name huntingdon_marriott_hotel address kingfisher_way,_hinchinbrook_business_park,_huntingdon area west phone 01480446000 postcode pe296fl pricerange expensive stars 4_star type hotel choice 33 ref u5hxnkxo",
+   "6": "name the_lensfield_hotel address 53-57_lensfield_road area south phone 01223355017 postcode cb21en pricerange expensive stars 3_star type hotel choice 33 ref u5hxnkxo"
+}

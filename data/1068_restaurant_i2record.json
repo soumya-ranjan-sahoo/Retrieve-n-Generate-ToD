@@ -1,0 +1,9 @@
+{
+   "0": "name caffe_uno address 32_bridge_street_city_centre area centre food italian phone 01223448620 postcode cb21uj pricerange expensive type restaurant ref corc123e",
+   "1": "name stazione_restaurant_and_coffee_bar address market_hill_city_centre area centre food italian phone 01223352607 postcode cb23nj pricerange expensive type restaurant ref corc123e",
+   "2": "name clowns_cafe address 54_king_street_city_centre area centre food italian phone 01223355711 postcode cb11ln pricerange expensive type restaurant ref corc123e",
+   "3": "name bedouin address 100_mill_road_city_centre area centre food african phone 01223367660 postcode cb12bd pricerange expensive type restaurant",
+   "4": "name don_pasquale_pizzeria address 12_market_hill_city_centre area centre food italian phone 01223350106 postcode cb23nj pricerange expensive type restaurant",
+   "5": "name don_pasquale_pizzeria address 12_market_hill_city_centre area centre food italian phone 01223350106 postcode cb23nj pricerange expensive type restaurant ref corc123e",
+   "6": "name pizza_hut_city_centre address regent_street_city_centre area centre food italian phone 01223323737 postcode cb21ab pricerange cheap type restaurant ref corc123e"
+}

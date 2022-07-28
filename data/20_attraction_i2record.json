@@ -1,0 +1,9 @@
+{
+   "0": "name hughes_hall address wollaston_road area centre phone 01223334898 postcode cb12ew pricerange free type college choice several",
+   "1": "name corpus_christi address king_'_s_parade area centre phone 01223338000 postcode cb21rh pricerange cheap type college choice several",
+   "2": "name christ_'_s_college address saint_andrew_'_s_street area centre phone 01223334900 postcode cb23bu pricerange free type college",
+   "3": "name the_fitzwilliam_museum address trumpington_street area centre phone 01223332900 postcode cb21rb pricerange free type museum choice several",
+   "4": "name pembroke_college address trumpington_street area centre phone 01223338100 postcode cb21rf pricerange free type college choice several",
+   "5": "name castle_galleries address unit_su43_,_grande_arcade_,_saint_andrews_street area centre phone 01223307402 postcode cb23bj pricerange free type museum choice several",
+   "6": "name scudamores_punting_co address granta_place_,_mill_lane area centre phone 01223359750 postcode cb21rs pricerange <dontknow> type boat choice several"
+}

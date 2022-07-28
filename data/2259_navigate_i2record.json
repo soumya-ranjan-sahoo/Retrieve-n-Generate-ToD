@@ -1,0 +1,10 @@
+{
+   "0": "distance 2_miles traffic_info heavy_traffic poi_type parking_garage address 610_amarillo_ave poi stanford_oval_parking",
+   "1": "distance 4_miles traffic_info no_traffic poi_type parking_garage address 880_ames_ct poi webster_garage",
+   "2": "distance 3_miles traffic_info no_traffic poi_type gas_station address 783_arcadia_pl poi chevron",
+   "3": "distance 1_miles traffic_info no_traffic poi_type coffee_or_tea_place address 9981_archuleta_ave poi peets_coffee",
+   "4": "distance 5_miles traffic_info road_block_nearby poi_type friends_house address 580_van_ness_ave poi toms_house",
+   "5": "distance 8_miles traffic_info no_traffic poi_type coffee_or_tea_place address 145_amherst_st poi teavana",
+   "6": "distance 2_miles traffic_info car_collision_nearby poi_type chinese_restaurant address 113_arbol_dr poi jing_jing",
+   "7": "distance 1_miles traffic_info heavy_traffic poi_type parking_garage address 550_alester_ave poi dish_parking"
+}

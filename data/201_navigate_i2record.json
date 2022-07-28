@@ -1,0 +1,10 @@
+{
+   "0": "distance 3_miles traffic_info no_traffic poi_type home address 56_cadwell_street poi home",
+   "1": "distance 4_miles traffic_info road_block_nearby poi_type pizza_restaurant address 704_el_camino_real poi pizza_hut",
+   "2": "distance 1_miles traffic_info heavy_traffic poi_type shopping_center address 171_oak_rd poi topanga_mall",
+   "3": "distance 4_miles traffic_info car_collision_nearby poi_type gas_station address 783_arcadia_pl poi chevron",
+   "4": "distance 5_miles traffic_info no_traffic poi_type gas_station address 91_el_camino_real poi 76",
+   "5": "distance 3_miles traffic_info car_collision_nearby poi_type rest_stop address 657_ames_ave poi the_clement_hotel",
+   "6": "distance 3_miles traffic_info heavy_traffic poi_type grocery_store address 638_amherst_st poi sigona_farmers_market",
+   "7": "distance 3_miles traffic_info car_collision_nearby poi_type grocery_store address 819_alma_st poi whole_foods"
+}

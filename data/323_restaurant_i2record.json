@@ -1,0 +1,9 @@
+{
+   "0": "name la_tasca address 14_-16_bridge_street area centre food spanish phone 01223464630 postcode cb21uf pricerange moderate type restaurant choice over_20",
+   "1": "name hotel_du_vin_and_bistro address 15_-_19_trumpington_street area centre food european phone 01223227330 postcode cb21qa pricerange moderate type restaurant choice over_20",
+   "2": "name pizza_express address regent_street_city_centre area centre food italian phone 01223324033 postcode cb21db pricerange moderate type restaurant choice over_20",
+   "3": "name lan_hong_house address 12_norfolk_street_city_centre area centre food chinese phone 01223350420 postcode cb12lf pricerange moderate type restaurant choice over_20",
+   "4": "name the_varsity_restaurant address 35_saint_andrews_street_city_centre area centre food international phone 01223356060 postcode cb23ar pricerange moderate type restaurant choice over_20",
+   "5": "name galleria address 33_bridge_street area centre food european phone 01223362054 postcode cb21uw pricerange moderate type restaurant choice over_20",
+   "6": "name the_copper_kettle address 4_kings_parade_city_centre area centre food british phone 01223365068 postcode cb21sj pricerange moderate type restaurant choice over_20"
+}

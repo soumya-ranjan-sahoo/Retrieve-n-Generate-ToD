@@ -1,0 +1,9 @@
+{
+   "0": "name alexander_bed_and_breakfast address 56_saint_barnabas_road area centre phone 01223525725 postcode cb12de pricerange cheap stars 4_star type guesthouse choice many",
+   "1": "name kirkwood_house address 172_chesterton_road area north phone 01223306283 postcode cb41da pricerange moderate stars 4_star type guesthouse choice many",
+   "2": "name carolina_bed_and_breakfast address 138_perne_road area east phone 01223247015 postcode cb13nx pricerange moderate stars 4_star type guesthouse choice many",
+   "3": "name autumn_house address 710_newmarket_road area east phone 01223575122 postcode cb58rs pricerange cheap stars 4_star type guesthouse choice many",
+   "4": "name acorn_guest_house address 154_chesterton_road area north phone 01223353888 postcode cb41da pricerange moderate stars 4_star type guesthouse choice many",
+   "5": "name ashley_hotel address 74_chesterton_road area north phone 01223350059 postcode cb41er pricerange moderate stars 2_star type hotel",
+   "6": "name home_from_home address 78-80_milton_road area north phone 01223323555 postcode cb41la pricerange moderate stars 4_star type guesthouse choice many"
+}

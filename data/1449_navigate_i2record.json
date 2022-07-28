@@ -1,0 +1,9 @@
+{
+   "0": "distance 3_miles traffic_info heavy_traffic poi_type parking_garage address 880_ames_ct poi webster_garage",
+   "1": "distance 3_miles traffic_info no_traffic poi_type shopping_center address 338_alester_ave poi midtown_shopping_center",
+   "2": "distance 6_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 394_van_ness_ave poi coupa",
+   "3": "distance 5_miles traffic_info heavy_traffic poi_type chinese_restaurant address 113_arbol_dr poi jing_jing",
+   "4": "distance 4_miles traffic_info heavy_traffic poi_type shopping_center address 434_arastradero_rd poi ravenswood_shopping_center",
+   "5": "distance 5_miles traffic_info heavy_traffic poi_type parking_garage address 550_alester_ave poi dish_parking",
+   "6": "distance 2_miles traffic_info heavy_traffic poi_type grocery_store address 819_alma_st poi whole_foods"
+}

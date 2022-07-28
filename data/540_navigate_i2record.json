@@ -1,0 +1,9 @@
+{
+   "0": "distance 4_miles traffic_info moderate_traffic poi_type friends_house address 347_alta_mesa_ave poi jills_house",
+   "1": "distance 2_miles traffic_info heavy_traffic poi_type home address 10_ames_street poi home",
+   "2": "distance 4_miles traffic_info heavy_traffic poi_type coffee_or_tea_place address 394_van_ness_ave poi coupa",
+   "3": "distance 1_miles traffic_info no_traffic poi_type parking_garage address 270_altaire_walk poi civic_center_garage",
+   "4": "distance 4_miles traffic_info no_traffic poi_type parking_garage address 550_alester_ave poi dish_parking",
+   "5": "distance 3_miles traffic_info heavy_traffic poi_type home address 5671_barringer_street poi home",
+   "6": "distance 3_miles traffic_info heavy_traffic poi_type parking_garage address 880_ames_ct poi webster_garage"
+}

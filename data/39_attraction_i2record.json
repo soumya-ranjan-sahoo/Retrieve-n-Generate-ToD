@@ -1,0 +1,9 @@
+{
+   "0": "name adc_theatre address park_street area centre phone 01223300085 postcode cb58as pricerange <dontknow> type theatre choice 79",
+   "1": "name vue_cinema address the_grafton_centre_,_east_road area centre phone 08712240240 postcode cb11ps pricerange <dontknow> type cinema choice 79",
+   "2": "name broughton_house_gallery address 98_king_street area centre phone 01223314960 postcode cb11ln pricerange free type museum choice 79",
+   "3": "name vue_cinema address the_grafton_centre_,_east_road area centre phone 08712240240 postcode cb11ps pricerange <dontknow> type cinema",
+   "4": "name all_saints_church address jesus_lane area centre phone 01223452587 postcode cb58bs pricerange free type architecture choice 79",
+   "5": "name abbey_pool_and_astroturf_pitch address pool_way_,_whitehill_road_,_off_newmarket_road area east phone 01223902088 postcode cb58nt pricerange <dontknow> type swimmingpool choice 79",
+   "6": "name ballare address heidelberg_gardens_,_lion_yard area centre phone 01223364222 postcode cb23na pricerange moderate type nightclub choice 79"
+}

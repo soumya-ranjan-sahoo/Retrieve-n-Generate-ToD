@@ -1,0 +1,9 @@
+{
+   "0": "distance 6_miles traffic_info heavy_traffic poi_type parking_garage address 550_alester_ave poi dish_parking",
+   "1": "distance 4_miles traffic_info heavy_traffic poi_type grocery_store address 452_arcadia_pl poi safeway",
+   "2": "distance 3_miles traffic_info heavy_traffic poi_type pizza_restaurant address 113_anton_ct poi round_table",
+   "3": "distance 4_miles traffic_info heavy_traffic poi_type home address 10_ames_street poi home",
+   "4": "distance 4_miles traffic_info no_traffic poi_type chinese_restaurant address 842_arrowhead_way poi panda_express",
+   "5": "distance 3_miles traffic_info heavy_traffic poi_type chinese_restaurant address 669_el_camino_real poi p_._f_._changs",
+   "6": "distance 3_miles traffic_info heavy_traffic poi_type chinese_restaurant address 830_almanor_ln poi tai_pan"
+}

@@ -1,0 +1,10 @@
+{
+   "0": "distance 5_miles traffic_info car_collision_nearby poi_type gas_station address 200_alester_ave poi valero",
+   "1": "distance 6_miles traffic_info road_block_nearby poi_type rest_stop address 329_el_camino_real poi the_westin",
+   "2": "distance 3_miles traffic_info no_traffic poi_type parking_garage address 880_ames_ct poi webster_garage",
+   "3": "distance 4_miles traffic_info heavy_traffic poi_type pizza_restaurant address 110_arastradero_rd poi papa_johns",
+   "4": "distance 3_miles traffic_info moderate_traffic poi_type shopping_center address 338_alester_ave poi midtown_shopping_center",
+   "5": "distance 3_miles traffic_info moderate_traffic poi_type certain_address address 5677_springer_street poi 5677_springer_street",
+   "6": "distance 4_miles traffic_info moderate_traffic poi_type hospital address 899_ames_ct poi stanford_childrens_health",
+   "7": "distance 6_miles traffic_info moderate_traffic poi_type grocery_store address 638_amherst_st poi sigona_farmers_market"
+}

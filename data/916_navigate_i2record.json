@@ -1,0 +1,10 @@
+{
+   "0": "distance 1_miles traffic_info car_collision_nearby poi_type shopping_center address 773_alger_dr poi stanford_shopping_center",
+   "1": "distance 3_miles traffic_info road_block_nearby poi_type pizza_restaurant address 110_arastradero_rd poi papa_johns",
+   "2": "distance 5_miles traffic_info car_collision_nearby poi_type grocery_store address 638_amherst_st poi sigona_farmers_market",
+   "3": "distance 1_miles traffic_info car_collision_nearby poi_type rest_stop address 333_arbol_dr poi travelers_lodge",
+   "4": "distance 1_miles traffic_info no_traffic poi_type pizza_restaurant address 528_anton_ct poi pizza_my_heart",
+   "5": "distance 3_miles traffic_info no_traffic poi_type certain_address address 5677_springer_street poi 5677_springer_street",
+   "6": "distance 5_miles traffic_info road_block_nearby poi_type friends_house address 347_alta_mesa_ave poi jills_house",
+   "7": "distance 2_miles traffic_info heavy_traffic poi_type parking_garage address 880_ames_ct poi webster_garage"
+}

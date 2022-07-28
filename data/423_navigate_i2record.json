@@ -1,0 +1,9 @@
+{
+   "0": "distance 5_miles traffic_info no_traffic poi_type rest_stop address 657_ames_ave poi the_clement_hotel",
+   "1": "distance 1_miles traffic_info no_traffic poi_type friends_house address 580_van_ness_ave poi toms_house",
+   "2": "distance 4_miles traffic_info heavy_traffic poi_type friends_house address 347_alta_mesa_ave poi jills_house",
+   "3": "distance 3_miles traffic_info heavy_traffic poi_type pizza_restaurant address 704_el_camino_real poi pizza_hut",
+   "4": "distance 4_miles traffic_info no_traffic poi_type rest_stop address 329_el_camino_real poi the_westin",
+   "5": "distance 5_miles traffic_info heavy_traffic poi_type parking_garage address 550_alester_ave poi dish_parking",
+   "6": "distance 5_miles traffic_info no_traffic poi_type coffee_or_tea_place address 436_alger_dr poi palo_alto_cafe"
+}

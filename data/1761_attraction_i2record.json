@@ -1,0 +1,9 @@
+{
+   "0": "name the_cambridge_corn_exchange address wheeler_street area centre phone 01223357851 postcode cb23qe pricerange <dontknow> type theatre choice several",
+   "1": "name all_saints_church address jesus_lane area centre phone 01223452587 postcode cb58bs pricerange free type architecture choice several",
+   "2": "name abbey_pool_and_astroturf_pitch address pool_way_,_whitehill_road_,_off_newmarket_road area east phone 01223902088 postcode cb58nt pricerange <dontknow> type swimmingpool choice several",
+   "3": "name adc_theatre address park_street area centre phone 01223300085 postcode cb58as pricerange <dontknow> type theatre choice several",
+   "4": "name cambridge_arts_theatre address 6_saint_edward_'_s_passage area centre phone 01223503333 postcode cb23pj pricerange <dontknow> type theatre choice several",
+   "5": "name mumford_theatre address anglia_ruskin_enterprise_,_east_road area centre phone 08451962320 postcode cb11pt pricerange <dontknow> type theatre",
+   "6": "name mumford_theatre address anglia_ruskin_enterprise_,_east_road area centre phone 08451962320 postcode cb11pt pricerange <dontknow> type theatre choice several"
+}

@@ -1,0 +1,10 @@
+{
+   "0": "distance 1_miles traffic_info road_block_nearby poi_type chinese_restaurant address 113_arbol_dr poi jing_jing",
+   "1": "distance 1_miles traffic_info road_block_nearby poi_type hospital address 611_ames_ave poi palo_alto_medical_foundation",
+   "2": "distance 1_miles traffic_info road_block_nearby poi_type coffee_or_tea_place address 145_amherst_st poi teavana",
+   "3": "distance 3_miles traffic_info car_collision_nearby poi_type chinese_restaurant address 669_el_camino_real poi p_._f_._changs",
+   "4": "distance 5_miles traffic_info road_block_nearby poi_type parking_garage address 610_amarillo_ave poi stanford_oval_parking",
+   "5": "distance 6_miles traffic_info road_block_nearby poi_type shopping_center address 383_university_ave poi town_and_country",
+   "6": "distance 2_miles traffic_info no_traffic poi_type gas_station address 783_arcadia_pl poi chevron",
+   "7": "distance 5_miles traffic_info no_traffic poi_type certain_address address 5672_barringer_street poi 5672_barringer_street"
+}

@@ -1,0 +1,9 @@
+{
+   "0": "name ask_restaurant address 12_bridge_street_city_centre area centre food italian phone 01223364917 postcode cb21uf pricerange cheap type restaurant choice the_only",
+   "1": "name pizza_hut_city_centre address regent_street_city_centre area centre food italian phone 01223323737 postcode cb21ab pricerange cheap type restaurant choice the_only",
+   "2": "name the_missing_sock address finders_corner_newmarket_road area east food international phone 01223812660 postcode cb259aq pricerange cheap type restaurant choice the_only",
+   "3": "name thanh_binh address 17_magdalene_street_city_centre area west food vietnamese phone 01223362456 postcode cb30af pricerange cheap type restaurant choice the_only",
+   "4": "name charlie_chan address regent_street_city_centre area centre food chinese phone 01223361763 postcode cb21db pricerange cheap type restaurant choice the_only",
+   "5": "name la_margherita address 15_magdalene_street_city_centre area west food italian phone 01223315232 postcode cb30af pricerange cheap type restaurant choice the_only",
+   "6": "name la_margherita address 15_magdalene_street_city_centre area west food italian phone 01223315232 postcode cb30af pricerange cheap type restaurant"
+}

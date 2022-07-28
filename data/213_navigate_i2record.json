@@ -1,0 +1,9 @@
+{
+   "0": "distance 5_miles traffic_info moderate_traffic poi_type hospital address 899_ames_ct poi stanford_childrens_health",
+   "1": "distance 2_miles traffic_info heavy_traffic poi_type friends_house address 580_van_ness_ave poi toms_house",
+   "2": "distance 1_miles traffic_info no_traffic poi_type rest_stop address 657_ames_ave poi the_clement_hotel",
+   "3": "distance 3_miles traffic_info moderate_traffic poi_type hospital address 214_el_camino_real poi stanford_express_care",
+   "4": "distance 1_miles traffic_info heavy_traffic poi_type certain_address address 5677_springer_street poi 5677_springer_street",
+   "5": "distance 3_miles traffic_info moderate_traffic poi_type chinese_restaurant address 593_arrowhead_way poi chef_chu_s",
+   "6": "distance 6_miles traffic_info no_traffic poi_type chinese_restaurant address 271_springer_street poi mandarin_roots"
+}

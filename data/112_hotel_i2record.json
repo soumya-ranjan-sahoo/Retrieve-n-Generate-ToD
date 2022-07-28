@@ -1,0 +1,9 @@
+{
+   "0": "name kirkwood_house address 172_chesterton_road area north phone 01223306283 postcode cb41da pricerange moderate stars 4_star type guesthouse choice 4_different",
+   "1": "name arbury_lodge_guesthouse address 82_arbury_road area north phone 01223364319 postcode cb42je pricerange moderate stars 4_star type guesthouse choice 4_different",
+   "2": "name lovell_lodge address 365_milton_road area north phone 01223425478 postcode cb41sr pricerange moderate stars 2_star type hotel choice 4_different",
+   "3": "name ashley_hotel address 74_chesterton_road area north phone 01223350059 postcode cb41er pricerange moderate stars 2_star type hotel choice 4_different",
+   "4": "name limehouse address 78-80_milton_road area north phone 01223300552 postcode cb42je pricerange moderate stars 4_star type guesthouse choice 4_different",
+   "5": "name acorn_guest_house address 154_chesterton_road area north phone 01223353888 postcode cb41da pricerange moderate stars 4_star type guesthouse choice 4_different",
+   "6": "name acorn_guest_house address 154_chesterton_road area north phone 01223353888 postcode cb41da pricerange moderate stars 4_star type guesthouse"
+}

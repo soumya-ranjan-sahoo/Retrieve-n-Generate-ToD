@@ -1,0 +1,10 @@
+{
+   "0": "distance 6_miles traffic_info car_collision_nearby poi_type grocery_store address 819_alma_st poi whole_foods",
+   "1": "distance 5_miles traffic_info car_collision_nearby poi_type chinese_restaurant address 113_arbol_dr poi jing_jing",
+   "2": "distance 4_miles traffic_info car_collision_nearby poi_type parking_garage address 550_alester_ave poi dish_parking",
+   "3": "distance 5_miles traffic_info moderate_traffic poi_type shopping_center address 171_oak_rd poi topanga_mall",
+   "4": "distance 4_miles traffic_info no_traffic poi_type pizza_restaurant address 528_anton_ct poi pizza_my_heart",
+   "5": "distance 2_miles traffic_info car_collision_nearby poi_type rest_stop address 465_arcadia_pl poi four_seasons",
+   "6": "distance 1_miles traffic_info no_traffic poi_type coffee_or_tea_place address 792_bedoin_street poi starbucks",
+   "7": "distance 4_miles traffic_info car_collision_nearby poi_type shopping_center address 773_alger_dr poi stanford_shopping_center"
+}

@@ -1,0 +1,9 @@
+{
+   "0": "name yippee_noodle_bar address 40428_king_street_city_centre area centre food asian_oriental phone 01223518111 postcode cb11lh pricerange moderate type restaurant",
+   "1": "name kymmoy address 52_mill_road_city_centre area centre food asian_oriental phone 01223311911 postcode cb12as pricerange expensive type restaurant",
+   "2": "name the_good_luck_chinese_food_takeaway address 82_cherry_hinton_road_cherry_hinton area south food chinese phone 01223244149 postcode cb17ag pricerange expensive type restaurant ref 9a4yk0ub",
+   "3": "name curry_garden address 106_regent_street_city_centre area centre food indian phone 01223302330 postcode cb21dp pricerange expensive type restaurant ref 9a4yk0ub",
+   "4": "name kymmoy address 52_mill_road_city_centre area centre food asian_oriental phone 01223311911 postcode cb12as pricerange expensive type restaurant ref 9a4yk0ub",
+   "5": "name the_missing_sock address finders_corner_newmarket_road area east food international phone 01223812660 postcode cb259aq pricerange cheap type restaurant ref 9a4yk0ub",
+   "6": "name pizza_hut_city_centre address regent_street_city_centre area centre food italian phone 01223323737 postcode cb21ab pricerange cheap type restaurant ref 9a4yk0ub"
+}

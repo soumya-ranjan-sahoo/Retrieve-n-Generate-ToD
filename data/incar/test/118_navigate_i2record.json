@@ -1,0 +1,10 @@
+{
+   "0": "distance 4_miles traffic_info moderate_traffic poi_type hospital address 611_ames_ave poi palo_alto_medical_foundation",
+   "1": "distance 4_miles traffic_info road_block_nearby poi_type hospital address 899_ames_ct poi stanford_childrens_health",
+   "2": "distance 1_miles traffic_info no_traffic poi_type shopping_center address 338_alester_ave poi midtown_shopping_center",
+   "3": "distance 3_miles traffic_info moderate_traffic poi_type certain_address address 5677_springer_street poi 5677_springer_street",
+   "4": "distance 3_miles traffic_info road_block_nearby poi_type coffee_or_tea_place address 583_alester_ave poi philz",
+   "5": "distance 1_miles traffic_info no_traffic poi_type grocery_store address 409_bollard_st poi willows_market",
+   "6": "distance 1_miles traffic_info heavy_traffic poi_type grocery_store address 408_university_ave poi trader_joes",
+   "7": "distance 1_miles traffic_info moderate_traffic poi_type chinese_restaurant address 593_arrowhead_way poi chef_chu_s"
+}

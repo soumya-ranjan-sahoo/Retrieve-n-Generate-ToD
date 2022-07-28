@@ -1,0 +1,9 @@
+{
+   "0": "name broughton_house_gallery address 98_king_street area centre phone 01223314960 postcode cb11ln pricerange free type museum",
+   "1": "name kings_hedges_learner_pool address jedburgh_court_,_kings_hedges area north phone 01223353248 postcode cb42xh pricerange <dontknow> type swimmingpool",
+   "2": "name adc_theatre address park_street area centre phone 01223300085 postcode cb58as pricerange <dontknow> type theatre",
+   "3": "name all_saints_church address jesus_lane area centre phone 01223452587 postcode cb58bs pricerange free type architecture",
+   "4": "name abbey_pool_and_astroturf_pitch address pool_way_,_whitehill_road_,_off_newmarket_road area east phone 01223902088 postcode cb58nt pricerange <dontknow> type swimmingpool",
+   "5": "name ballare address heidelberg_gardens_,_lion_yard area centre phone 01223364222 postcode cb23na pricerange moderate type nightclub",
+   "6": "name jesus_green_outdoor_pool address between_victoria_road_and_the_river area north phone 01223302579 postcode cb43px pricerange <dontknow> type swimmingpool"
+}

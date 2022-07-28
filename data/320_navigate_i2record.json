@@ -1,0 +1,10 @@
+{
+   "0": "distance 4_miles traffic_info heavy_traffic poi_type grocery_store address 638_amherst_st poi sigona_farmers_market",
+   "1": "distance 4_miles traffic_info road_block_nearby poi_type gas_station address 53_university_av poi shell",
+   "2": "distance 1_miles traffic_info road_block_nearby poi_type pizza_restaurant address 704_el_camino_real poi pizza_hut",
+   "3": "distance 6_miles traffic_info car_collision_nearby poi_type coffee_or_tea_place address 436_alger_dr poi palo_alto_cafe",
+   "4": "distance 6_miles traffic_info no_traffic poi_type pizza_restaurant address 113_anton_ct poi round_table",
+   "5": "distance 3_miles traffic_info car_collision_nearby poi_type chinese_restaurant address 271_springer_street poi mandarin_roots",
+   "6": "distance 3_miles traffic_info no_traffic poi_type parking_garage address 481_amaranta_ave poi palo_alto_garage_r",
+   "7": "distance 3_miles traffic_info road_block_nearby poi_type chinese_restaurant address 669_el_camino_real poi p_._f_._changs"
+}

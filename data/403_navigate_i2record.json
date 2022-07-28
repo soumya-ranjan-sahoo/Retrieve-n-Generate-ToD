@@ -1,0 +1,10 @@
+{
+   "0": "distance 4_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 145_amherst_st poi teavana",
+   "1": "distance 2_miles traffic_info moderate_traffic poi_type grocery_store address 819_alma_st poi whole_foods",
+   "2": "distance 2_miles traffic_info no_traffic poi_type pizza_restaurant address 776_arastradero_rd poi dominos",
+   "3": "distance 6_miles traffic_info no_traffic poi_type rest_stop address 753_university_ave poi comfort_inn",
+   "4": "distance 6_miles traffic_info no_traffic poi_type chinese_restaurant address 593_arrowhead_way poi chef_chu_s",
+   "5": "distance 5_miles traffic_info heavy_traffic poi_type friends_house address 347_alta_mesa_ave poi jills_house",
+   "6": "distance 1_miles traffic_info road_block_nearby poi_type coffee_or_tea_place address 583_alester_ave poi philz",
+   "7": "distance 6_miles traffic_info road_block_nearby poi_type parking_garage address 481_amaranta_ave poi palo_alto_garage_r"
+}

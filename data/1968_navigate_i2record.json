@@ -1,0 +1,9 @@
+{
+   "0": "distance 6_miles traffic_info heavy_traffic poi_type parking_garage address 610_amarillo_ave poi stanford_oval_parking",
+   "1": "distance 4_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 583_alester_ave poi philz",
+   "2": "distance 2_miles traffic_info moderate_traffic poi_type gas_station address 200_alester_ave poi valero",
+   "3": "distance 2_miles traffic_info moderate_traffic poi_type hospital address 214_el_camino_real poi stanford_express_care",
+   "4": "distance 2_miles traffic_info heavy_traffic poi_type hospital address 611_ames_ave poi palo_alto_medical_foundation",
+   "5": "distance 1_miles traffic_info no_traffic poi_type certain_address address 5672_barringer_street poi 5672_barringer_street",
+   "6": "distance 3_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 436_alger_dr poi palo_alto_cafe"
+}

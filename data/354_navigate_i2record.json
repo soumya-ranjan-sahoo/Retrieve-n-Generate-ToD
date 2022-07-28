@@ -1,0 +1,9 @@
+{
+   "0": "distance 3_miles traffic_info moderate_traffic poi_type parking_garage address 270_altaire_walk poi civic_center_garage",
+   "1": "distance 2_miles traffic_info no_traffic poi_type parking_garage address 880_ames_ct poi webster_garage",
+   "2": "distance 1_miles traffic_info heavy_traffic poi_type friends_house address 864_almanor_ln poi jacks_house",
+   "3": "distance 4_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 436_alger_dr poi palo_alto_cafe",
+   "4": "distance 5_miles traffic_info heavy_traffic poi_type grocery_store address 819_alma_st poi whole_foods",
+   "5": "distance 6_miles traffic_info heavy_traffic poi_type rest_stop address 578_arbol_dr poi hotel_keen",
+   "6": "distance 4_miles traffic_info heavy_traffic poi_type friends_house address 580_van_ness_ave poi toms_house"
+}

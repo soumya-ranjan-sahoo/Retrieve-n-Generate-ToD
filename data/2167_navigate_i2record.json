@@ -1,0 +1,9 @@
+{
+   "0": "distance 3_miles traffic_info heavy_traffic poi_type rest_stop address 329_el_camino_real poi the_westin",
+   "1": "distance 4_miles traffic_info heavy_traffic poi_type coffee_or_tea_place address 145_amherst_st poi teavana",
+   "2": "distance 5_miles traffic_info no_traffic poi_type grocery_store address 408_university_ave poi trader_joes",
+   "3": "distance 5_miles traffic_info no_traffic poi_type friends_house address 347_alta_mesa_ave poi jills_house",
+   "4": "distance 4_miles traffic_info heavy_traffic poi_type certain_address address 5672_barringer_street poi 5672_barringer_street",
+   "5": "distance 3_miles traffic_info heavy_traffic poi_type certain_address address 5677_southwest_4th_street poi 5677_southwest_4th_street",
+   "6": "distance 4_miles traffic_info no_traffic poi_type parking_garage address 550_alester_ave poi dish_parking"
+}

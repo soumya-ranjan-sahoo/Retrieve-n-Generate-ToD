@@ -1,0 +1,10 @@
+{
+   "0": "distance 3_miles traffic_info heavy_traffic poi_type pizza_restaurant address 776_arastradero_rd poi dominos",
+   "1": "distance 4_miles traffic_info no_traffic poi_type chinese_restaurant address 842_arrowhead_way poi panda_express",
+   "2": "distance 3_miles traffic_info no_traffic poi_type shopping_center address 383_university_ave poi town_and_country",
+   "3": "distance 2_miles traffic_info no_traffic poi_type home address 56_cadwell_street poi home",
+   "4": "distance 7_miles traffic_info no_traffic poi_type gas_station address 91_el_camino_real poi 76",
+   "5": "distance 6_miles traffic_info car_collision_nearby poi_type gas_station address 783_arcadia_pl poi chevron",
+   "6": "distance 1_miles traffic_info road_block_nearby poi_type grocery_store address 638_amherst_st poi sigona_farmers_market",
+   "7": "distance 2_miles traffic_info road_block_nearby poi_type certain_address address 5677_springer_street poi 5677_springer_street"
+}

@@ -1,0 +1,9 @@
+{
+   "0": "name adc_theatre address park_street area centre phone 01223300085 postcode cb58as pricerange <dontknow> type theatre choice four",
+   "1": "name abbey_pool_and_astroturf_pitch address pool_way_,_whitehill_road_,_off_newmarket_road area east phone 01223902088 postcode cb58nt pricerange <dontknow> type swimmingpool choice four",
+   "2": "name all_saints_church address jesus_lane area centre phone 01223452587 postcode cb58bs pricerange free type architecture choice four",
+   "3": "name jesus_green_outdoor_pool address between_victoria_road_and_the_river area north phone 01223302579 postcode cb43px pricerange <dontknow> type swimmingpool choice four",
+   "4": "name parkside_pools address gonville_place area centre phone 01223446100 postcode cb11ly pricerange <dontknow> type swimmingpool",
+   "5": "name kings_hedges_learner_pool address jedburgh_court_,_kings_hedges area north phone 01223353248 postcode cb42xh pricerange <dontknow> type swimmingpool choice four",
+   "6": "name parkside_pools address gonville_place area centre phone 01223446100 postcode cb11ly pricerange <dontknow> type swimmingpool choice four"
+}

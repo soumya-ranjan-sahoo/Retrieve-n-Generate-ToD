@@ -1,0 +1,9 @@
+{
+   "0": "distance 1_miles traffic_info no_traffic poi_type certain_address address 5672_barringer_street poi 5672_barringer_street",
+   "1": "distance 1_miles traffic_info heavy_traffic poi_type coffee_or_tea_place address 145_amherst_st poi teavana",
+   "2": "distance 4_miles traffic_info heavy_traffic poi_type parking_garage address 481_amaranta_ave poi palo_alto_garage_r",
+   "3": "distance 2_miles traffic_info heavy_traffic poi_type shopping_center address 338_alester_ave poi midtown_shopping_center",
+   "4": "distance 4_miles traffic_info no_traffic poi_type rest_stop address 578_arbol_dr poi hotel_keen",
+   "5": "distance 1_miles traffic_info no_traffic poi_type home address 10_ames_street poi home",
+   "6": "distance 5_miles traffic_info no_traffic poi_type home address 10_ames_street poi home"
+}

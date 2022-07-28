@@ -1,0 +1,10 @@
+{
+   "0": "distance 6_miles traffic_info car_collision_nearby poi_type shopping_center address 383_university_ave poi town_and_country",
+   "1": "distance 5_miles traffic_info moderate_traffic poi_type friends_house address 347_alta_mesa_ave poi jills_house",
+   "2": "distance 6_miles traffic_info heavy_traffic poi_type rest_stop address 753_university_ave poi comfort_inn",
+   "3": "distance 4_miles traffic_info heavy_traffic poi_type gas_station address 91_el_camino_real poi 76",
+   "4": "distance 2_miles traffic_info road_block_nearby poi_type home address 5671_barringer_street poi home",
+   "5": "distance 6_miles traffic_info moderate_traffic poi_type gas_station address 783_arcadia_pl poi chevron",
+   "6": "distance 2_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 269_alger_dr poi cafe_venetia",
+   "7": "distance 1_miles traffic_info heavy_traffic poi_type rest_stop address 329_el_camino_real poi the_westin"
+}

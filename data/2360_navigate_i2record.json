@@ -1,0 +1,9 @@
+{
+   "0": "distance 5_miles traffic_info no_traffic poi_type chinese_restaurant address 842_arrowhead_way poi panda_express",
+   "1": "distance 4_miles traffic_info no_traffic poi_type chinese_restaurant address 271_springer_street poi mandarin_roots",
+   "2": "distance 4_miles traffic_info heavy_traffic poi_type pizza_restaurant address 704_el_camino_real poi pizza_hut",
+   "3": "distance 6_miles traffic_info no_traffic poi_type grocery_store address 819_alma_st poi whole_foods",
+   "4": "distance 1_miles traffic_info heavy_traffic poi_type pizza_restaurant address 528_anton_ct poi pizza_my_heart",
+   "5": "distance 5_miles traffic_info heavy_traffic poi_type hospital address 899_ames_ct poi stanford_childrens_health",
+   "6": "distance 5_miles traffic_info no_traffic poi_type rest_stop address 657_ames_ave poi the_clement_hotel"
+}

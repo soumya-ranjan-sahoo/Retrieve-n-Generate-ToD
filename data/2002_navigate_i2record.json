@@ -1,0 +1,10 @@
+{
+   "0": "distance 1_miles traffic_info heavy_traffic poi_type pizza_restaurant address 113_anton_ct poi round_table",
+   "1": "distance 7_miles traffic_info car_collision_nearby poi_type parking_garage address 880_ames_ct poi webster_garage",
+   "2": "distance 2_miles traffic_info moderate_traffic poi_type grocery_store address 638_amherst_st poi sigona_farmers_market",
+   "3": "distance 3_miles traffic_info car_collision_nearby poi_type grocery_store address 452_arcadia_pl poi safeway",
+   "4": "distance 4_miles traffic_info car_collision_nearby poi_type gas_station address 783_arcadia_pl poi chevron",
+   "5": "distance 1_miles traffic_info car_collision_nearby poi_type pizza_restaurant address 915_arbol_dr poi pizza_chicago",
+   "6": "distance 6_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 269_alger_dr poi cafe_venetia",
+   "7": "distance 1_miles traffic_info no_traffic poi_type home address 5671_barringer_street poi home"
+}

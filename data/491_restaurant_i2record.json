@@ -1,0 +1,9 @@
+{
+   "0": "name backstreet_bistro address 2_sturton_street_city_centre area centre food gastropub phone 01223306306 postcode cb12qa pricerange expensive type restaurant",
+   "1": "name pipasha_restaurant address newmarket_road_fen_ditton area east food indian phone 01223577786 postcode cb58pa pricerange expensive type restaurant choice quite_a_few",
+   "2": "name royal_standard address 290_mill_road_city_centre area east food gastropub phone 01223247877 postcode cb13nl pricerange expensive type restaurant choice quite_a_few",
+   "3": "name yu_garden address 529_newmarket_road_fen_ditton area east food chinese phone 01223248882 postcode cb58pa pricerange expensive type restaurant choice quite_a_few",
+   "4": "name pipasha_restaurant address newmarket_road_fen_ditton area east food indian phone 01223577786 postcode cb58pa pricerange expensive type restaurant",
+   "5": "name grafton_hotel_restaurant address grafton_hotel_619_newmarket_road_fen_ditton area east food british phone 01223241387 postcode cb58pa pricerange expensive type restaurant",
+   "6": "name grafton_hotel_restaurant address grafton_hotel_619_newmarket_road_fen_ditton area east food british phone 01223241387 postcode cb58pa pricerange expensive type restaurant choice quite_a_few"
+}

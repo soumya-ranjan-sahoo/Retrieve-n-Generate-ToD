@@ -1,0 +1,9 @@
+{
+   "0": "name j_restaurant address 86_regent_street_city_centre area centre food asian_oriental phone 01223307581 postcode cb21dp pricerange cheap type restaurant",
+   "1": "name golden_house address 12_lensfield_road_city_centre area centre food chinese phone 01842753771 postcode cb21eg pricerange cheap type restaurant choice 69 ref uwvrjc3m",
+   "2": "name mahal_of_cambridge address 3_-_5_millers_yard_mill_lane area centre food indian phone 01223360409 postcode cb21rq pricerange cheap type restaurant choice 69 ref uwvrjc3m",
+   "3": "name ask_restaurant address 12_bridge_street_city_centre area centre food italian phone 01223364917 postcode cb21uf pricerange cheap type restaurant choice 69 ref uwvrjc3m",
+   "4": "name pizza_hut_city_centre address regent_street_city_centre area centre food italian phone 01223323737 postcode cb21ab pricerange cheap type restaurant choice 69 ref uwvrjc3m",
+   "5": "name la_raza address 4_-_6_rose_crescent area centre food spanish phone 01223464550 postcode cb23ll pricerange cheap type restaurant choice 69 ref uwvrjc3m",
+   "6": "name dojo_noodle_bar address 40210_millers_yard_city_centre area centre food asian_oriental phone 01223363471 postcode cb21rq pricerange cheap type restaurant choice 69 ref uwvrjc3m"
+}

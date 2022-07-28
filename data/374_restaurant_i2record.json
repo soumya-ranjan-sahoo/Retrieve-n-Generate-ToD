@@ -1,0 +1,9 @@
+{
+   "0": "name darrys_cookhouse_and_wine_shop address 40270_king_street_city_centre area centre food modern_european phone 01223505015 postcode cb11ln pricerange expensive type restaurant",
+   "1": "name michaelhouse_cafe address st_._michael_'_s_church_trinity_street_city_centre area centre food european phone 01223309147 postcode cb21su pricerange expensive type restaurant",
+   "2": "name eraina address free_school_lane_city_centre area centre food european phone 01223368786 postcode cb23rh pricerange expensive type restaurant",
+   "3": "name eraina address free_school_lane_city_centre area centre food european phone 01223368786 postcode cb23rh pricerange expensive type restaurant choice 5 ref rc9wctwx",
+   "4": "name city_stop_restaurant address cambridge_city_football_club_milton_road_chesterton area north phone 01223363270 postcode cb41uy pricerange expensive food european type restaurant",
+   "5": "name darrys_cookhouse_and_wine_shop address 40270_king_street_city_centre area centre food modern_european phone 01223505015 postcode cb11ln pricerange expensive type restaurant choice 5 ref rc9wctwx",
+   "6": "name cambridge_lodge_restaurant address cambridge_lodge_hotel_139_huntingdon_road_city_centre area west food european phone 01223355166 postcode cb30dq pricerange expensive type restaurant"
+}

@@ -1,0 +1,9 @@
+{
+   "0": "name pizza_express address regent_street_city_centre area centre food italian phone 01223324033 postcode cb21db pricerange moderate type restaurant",
+   "1": "name curry_prince address 451_newmarket_road_fen_ditton area east food indian phone 01223566388 postcode cb58jj pricerange moderate type restaurant",
+   "2": "name prezzo address 21_-_24_northampton_road area west food italian phone 01799521260 postcode cb30ad pricerange moderate type restaurant",
+   "3": "name meghna address 205_victoria_road_chesterton area west food indian phone 01223727410 postcode cb43lf pricerange moderate type restaurant",
+   "4": "name saint_johns_chop_house address 21_-_24_northampton_street area west food british phone 01223353110 postcode cb30ad pricerange moderate type restaurant",
+   "5": "name pizza_hut_cherry_hinton address g4_cambridge_leisure_park_clifton_way_cherry_hinton area south food italian phone 01223323737 postcode cb17dy pricerange moderate type restaurant",
+   "6": "name restaurant_alimentum address 152_-_154_hills_road area south food modern_european phone 01223413000 postcode cb28pb pricerange moderate type restaurant"
+}

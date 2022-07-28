@@ -1,0 +1,9 @@
+{
+   "0": "name restaurant_alimentum address 152_-_154_hills_road area south food modern_european phone 01223413000 postcode cb28pb pricerange moderate type restaurant choice ten",
+   "1": "name cambridge_lodge_restaurant address cambridge_lodge_hotel_139_huntingdon_road_city_centre area west food european phone 01223355166 postcode cb30dq pricerange expensive type restaurant",
+   "2": "name riverside_brasserie address doubletree_by_hilton_cambridge_granta_place_mill_lane area centre food modern_european phone 01223259988 postcode cb21rt pricerange moderate type restaurant choice ten",
+   "3": "name eraina address free_school_lane_city_centre area centre food european phone 01223368786 postcode cb23rh pricerange expensive type restaurant choice ten",
+   "4": "name the_river_bar_steakhouse_and_grill address quayside_off_bridge_street area centre food modern_european phone 01223307030 postcode cb58aq pricerange cheap type restaurant choice ten",
+   "5": "name de_luca_cucina_and_bar address 83_regent_street area centre food modern_european phone 01223356666 postcode cb21aw pricerange moderate type restaurant choice ten",
+   "6": "name darrys_cookhouse_and_wine_shop address 40270_king_street_city_centre area centre food modern_european phone 01223505015 postcode cb11ln pricerange expensive type restaurant choice ten"
+}

@@ -1,0 +1,9 @@
+{
+   "0": "name university_arms_hotel address regent_street area centre phone 01223351241 postcode cb21ad pricerange expensive stars 4_star type hotel",
+   "1": "name alexander_bed_and_breakfast address 56_saint_barnabas_road area centre phone 01223525725 postcode cb12de pricerange cheap stars 4_star type guesthouse ref pfyqxylu",
+   "2": "name allenbell address 517a_coldham_lane area east phone 01223210353 postcode cb13js pricerange cheap stars 4_star type guesthouse ref pfyqxylu",
+   "3": "name acorn_guest_house address 154_chesterton_road area north phone 01223353888 postcode cb41da pricerange moderate stars 4_star type guesthouse ref pfyqxylu",
+   "4": "name huntingdon_marriott_hotel address kingfisher_way,_hinchinbrook_business_park,_huntingdon area west phone 01480446000 postcode pe296fl pricerange expensive stars 4_star type hotel",
+   "5": "name huntingdon_marriott_hotel address kingfisher_way,_hinchinbrook_business_park,_huntingdon area west phone 01480446000 postcode pe296fl pricerange expensive stars 4_star type hotel ref pfyqxylu",
+   "6": "name a_and_b_guest_house address 124_tenison_road area east phone 01223315702 postcode cb12dp pricerange moderate stars 4_star type guesthouse ref pfyqxylu"
+}

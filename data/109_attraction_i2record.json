@@ -1,0 +1,9 @@
+{
+   "0": "name cambridge_contemporary_art address 6_trinity_street area centre phone 01223324222 postcode cb21su pricerange free type museum",
+   "1": "name ruskin_gallery address anglia_ruskin_university_,_east_road area centre phone 01245493131 postcode cb11pt pricerange free type museum",
+   "2": "name broughton_house_gallery address 98_king_street area centre phone 01223314960 postcode cb11ln pricerange free type museum",
+   "3": "name museum_of_archaelogy_and_anthropology address university_of_cambridge_,_downing_street area centre phone 01223333516 postcode cb23dz pricerange free type museum",
+   "4": "name primavera address 10_king_s_parade area centre phone 01223357708 postcode cb21sj pricerange free type museum",
+   "5": "name regency_gallery address 39_fitzroy_street area centre phone 01223365454 postcode cb11er pricerange free type museum",
+   "6": "name castle_galleries address unit_su43_,_grande_arcade_,_saint_andrews_street area centre phone 01223307402 postcode cb23bj pricerange free type museum"
+}

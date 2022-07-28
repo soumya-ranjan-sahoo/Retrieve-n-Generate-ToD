@@ -1,0 +1,9 @@
+{
+   "0": "name cambridge_book_and_print_gallery address 49_newnham_road area west phone 01223694264 postcode cb39ey pricerange free type museum",
+   "1": "name gallery_at_twelve_a_high_street address fulbourn area east phone 01223295264 postcode cb15dh pricerange free type museum",
+   "2": "name people_'_s_portraits_exhibition_at_girton_college address girton_college_,_huntingdon_road area west phone 01223338901 postcode cb3ojg pricerange free type museum",
+   "3": "name byard_art address 14_king_'_s_parade area south phone 01223464646 postcode cb21sj pricerange free type museum",
+   "4": "name williams_art_and_antiques address gwydir_street_,_no._5_dale_'_s_brewery area centre phone 01223311687 postcode cb12lj pricerange free type museum",
+   "5": "name cambridge_museum_of_technology address the_old_pumping_station_,_cheddars_lane area east phone 01223368650 postcode cb58ld pricerange expensive type museum",
+   "6": "name cafe_jello_gallery address cafe_jello_gallery_,_13_magdalene_street area west phone 01223312112 postcode cb30af pricerange free type museum"
+}

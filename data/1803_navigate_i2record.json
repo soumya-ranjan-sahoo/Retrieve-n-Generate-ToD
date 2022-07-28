@@ -1,0 +1,9 @@
+{
+   "0": "distance 4_miles traffic_info heavy_traffic poi_type home address 5671_barringer_street poi home",
+   "1": "distance 6_miles traffic_info heavy_traffic poi_type coffee_or_tea_place address 145_amherst_st poi teavana",
+   "2": "distance 3_miles traffic_info moderate_traffic poi_type grocery_store address 638_amherst_st poi sigona_farmers_market",
+   "3": "distance 3_miles traffic_info no_traffic poi_type home address 56_cadwell_street poi home",
+   "4": "distance 2_miles traffic_info moderate_traffic poi_type parking_garage address 610_amarillo_ave poi stanford_oval_parking",
+   "5": "distance 6_miles traffic_info heavy_traffic poi_type parking_garage address 880_ames_ct poi webster_garage",
+   "6": "distance 1_miles traffic_info moderate_traffic poi_type grocery_store address 819_alma_st poi whole_foods"
+}

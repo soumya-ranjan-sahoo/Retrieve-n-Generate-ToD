@@ -1,0 +1,9 @@
+{
+   "0": "name golden_house address 12_lensfield_road_city_centre area centre food chinese phone 01842753771 postcode cb21eg pricerange cheap type restaurant",
+   "1": "name pizza_hut_city_centre address regent_street_city_centre area centre food italian phone 01223323737 postcode cb21ab pricerange cheap type restaurant",
+   "2": "name zizzi_cambridge address 47-53_regent_street area centre food italian phone 01223365599 postcode cb21ab pricerange cheap type restaurant choice some ref 97aaf776",
+   "3": "name pizza_hut_cherry_hinton address g4_cambridge_leisure_park_clifton_way_cherry_hinton area south food italian phone 01223323737 postcode cb17dy pricerange moderate type restaurant choice some ref 97aaf776",
+   "4": "name pizza_hut_city_centre address regent_street_city_centre area centre food italian phone 01223323737 postcode cb21ab pricerange cheap type restaurant choice some ref 97aaf776",
+   "5": "name ask_restaurant address 12_bridge_street_city_centre area centre food italian phone 01223364917 postcode cb21uf pricerange cheap type restaurant choice some ref 97aaf776",
+   "6": "name stazione_restaurant_and_coffee_bar address market_hill_city_centre area centre food italian phone 01223352607 postcode cb23nj pricerange expensive type restaurant choice some ref 97aaf776"
+}

@@ -1,0 +1,9 @@
+{
+   "0": "distance 2_miles traffic_info heavy_traffic poi_type coffee_or_tea_place address 145_amherst_st poi teavana",
+   "1": "distance 5_miles traffic_info heavy_traffic poi_type chinese_restaurant address 113_arbol_dr poi jing_jing",
+   "2": "distance 5_miles traffic_info no_traffic poi_type hospital address 611_ames_ave poi palo_alto_medical_foundation",
+   "3": "distance 6_miles traffic_info heavy_traffic poi_type pizza_restaurant address 915_arbol_dr poi pizza_chicago",
+   "4": "distance 6_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 394_van_ness_ave poi coupa",
+   "5": "distance 4_miles traffic_info no_traffic poi_type coffee_or_tea_place address 269_alger_dr poi cafe_venetia",
+   "6": "distance 4_miles traffic_info no_traffic poi_type rest_stop address 329_el_camino_real poi the_westin"
+}

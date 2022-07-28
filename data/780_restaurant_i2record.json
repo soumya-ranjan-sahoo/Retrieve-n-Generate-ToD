@@ -1,0 +1,9 @@
+{
+   "0": "name backstreet_bistro address 2_sturton_street_city_centre area centre food gastropub phone 01223306306 postcode cb12qa pricerange expensive type restaurant",
+   "1": "name royal_standard address 290_mill_road_city_centre area east food gastropub phone 01223247877 postcode cb13nl pricerange expensive type restaurant choice 3 ref pgv6hf9f",
+   "2": "name pizza_hut_city_centre address regent_street_city_centre area centre food italian phone 01223323737 postcode cb21ab pricerange cheap type restaurant choice 3 ref pgv6hf9f",
+   "3": "name backstreet_bistro address 2_sturton_street_city_centre area centre food gastropub phone 01223306306 postcode cb12qa pricerange expensive type restaurant choice 3 ref pgv6hf9f",
+   "4": "name the_slug_and_lettuce address 34_-_35_green_street area centre food gastropub postcode cb23ju pricerange expensive type restaurant choice 3 ref pgv6hf9f",
+   "5": "name the_missing_sock address finders_corner_newmarket_road area east food international phone 01223812660 postcode cb259aq pricerange cheap type restaurant choice 3 ref pgv6hf9f",
+   "6": "name the_slug_and_lettuce address 34_-_35_green_street area centre food gastropub postcode cb23ju pricerange expensive type restaurant"
+}

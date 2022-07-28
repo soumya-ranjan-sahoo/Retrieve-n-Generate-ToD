@@ -1,0 +1,9 @@
+{
+   "0": "distance 4_miles traffic_info moderate_traffic poi_type pizza_restaurant address 113_anton_ct poi round_table",
+   "1": "distance 4_miles traffic_info heavy_traffic poi_type friends_house address 864_almanor_ln poi jacks_house",
+   "2": "distance 1_miles traffic_info moderate_traffic poi_type pizza_restaurant address 776_arastradero_rd poi dominos",
+   "3": "distance 6_miles traffic_info moderate_traffic poi_type rest_stop address 329_el_camino_real poi the_westin",
+   "4": "distance 1_miles traffic_info moderate_traffic poi_type grocery_store address 452_arcadia_pl poi safeway",
+   "5": "distance 1_miles traffic_info moderate_traffic poi_type hospital address 214_el_camino_real poi stanford_express_care",
+   "6": "distance 5_miles traffic_info no_traffic poi_type gas_station address 200_alester_ave poi valero"
+}

@@ -1,0 +1,9 @@
+{
+   "0": "name pizza_express_fen_ditton address jesus_lane_fen_ditton area centre food italian phone 01223324033 postcode cb58ba pricerange moderate type restaurant choice a_few ref zm5sfsmh",
+   "1": "name ask_restaurant address 12_bridge_street_city_centre area centre food italian phone 01223364917 postcode cb21uf pricerange cheap type restaurant choice a_few ref zm5sfsmh",
+   "2": "name stazione_restaurant_and_coffee_bar address market_hill_city_centre area centre food italian phone 01223352607 postcode cb23nj pricerange expensive type restaurant choice a_few ref zm5sfsmh",
+   "3": "name caffe_uno address 32_bridge_street_city_centre area centre food italian phone 01223448620 postcode cb21uj pricerange expensive type restaurant choice a_few ref zm5sfsmh",
+   "4": "name stazione_restaurant_and_coffee_bar address market_hill_city_centre area centre food italian phone 01223352607 postcode cb23nj pricerange expensive type restaurant",
+   "5": "name pizza_hut_city_centre address regent_street_city_centre area centre food italian phone 01223323737 postcode cb21ab pricerange cheap type restaurant choice a_few ref zm5sfsmh",
+   "6": "name clowns_cafe address 54_king_street_city_centre area centre food italian phone 01223355711 postcode cb11ln pricerange expensive type restaurant choice a_few ref zm5sfsmh"
+}

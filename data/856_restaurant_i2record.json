@@ -1,0 +1,9 @@
+{
+   "0": "name charlie_chan address regent_street_city_centre area centre food chinese phone 01223361763 postcode cb21db pricerange cheap type restaurant",
+   "1": "name charlie_chan address regent_street_city_centre area centre food chinese phone 01223361763 postcode cb21db pricerange cheap type restaurant ref csl3v245",
+   "2": "name shanghai_family_restaurant address 39_burleigh_street_city_centre area centre food chinese phone 01223301761 postcode cb11dg pricerange moderate type restaurant ref csl3v245",
+   "3": "name rice_house address 88_mill_road_city_centre area centre food chinese phone 01223367755 postcode cb12bd pricerange cheap type restaurant ref csl3v245",
+   "4": "name rice_house address 88_mill_road_city_centre area centre food chinese phone 01223367755 postcode cb12bd pricerange cheap type restaurant",
+   "5": "name tang_chinese address napier_street_city_centre area centre food chinese phone 01223357187 postcode cb11hr pricerange expensive type restaurant ref csl3v245",
+   "6": "name ugly_duckling address 12_st_._johns_street_city_centre area centre food chinese postcode cb21tw pricerange expensive type restaurant ref csl3v245"
+}

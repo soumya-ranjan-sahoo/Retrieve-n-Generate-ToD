@@ -1,0 +1,9 @@
+{
+   "0": "distance 6_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 145_amherst_st poi teavana",
+   "1": "distance 3_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 583_alester_ave poi philz",
+   "2": "distance 1_miles traffic_info heavy_traffic poi_type shopping_center address 338_alester_ave poi midtown_shopping_center",
+   "3": "distance 1_miles traffic_info no_traffic poi_type home address 5671_barringer_street poi home",
+   "4": "distance 4_miles traffic_info moderate_traffic poi_type gas_station address 783_arcadia_pl poi chevron",
+   "5": "distance 2_miles traffic_info moderate_traffic poi_type pizza_restaurant address 915_arbol_dr poi pizza_chicago",
+   "6": "distance 5_miles traffic_info no_traffic poi_type rest_stop address 465_arcadia_pl poi four_seasons"
+}

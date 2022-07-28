@@ -1,0 +1,10 @@
+{
+   "0": "distance 2_miles traffic_info moderate_traffic poi_type rest_stop address 465_arcadia_pl poi four_seasons",
+   "1": "distance 3_miles traffic_info car_collision_nearby poi_type parking_garage address 610_amarillo_ave poi stanford_oval_parking",
+   "2": "distance 1_miles traffic_info moderate_traffic poi_type certain_address address 5677_springer_street poi 5677_springer_street",
+   "3": "distance 6_miles traffic_info moderate_traffic poi_type shopping_center address 383_university_ave poi town_and_country",
+   "4": "distance 6_miles traffic_info no_traffic poi_type parking_garage address 481_amaranta_ave poi palo_alto_garage_r",
+   "5": "distance 3_miles traffic_info no_traffic poi_type shopping_center address 171_oak_rd poi topanga_mall",
+   "6": "distance 6_miles traffic_info no_traffic poi_type gas_station address 53_university_av poi shell",
+   "7": "distance 7_miles traffic_info no_traffic poi_type rest_stop address 329_el_camino_real poi the_westin"
+}

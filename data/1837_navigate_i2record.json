@@ -1,0 +1,9 @@
+{
+   "0": "distance 5_miles traffic_info no_traffic poi_type pizza_restaurant address 915_arbol_dr poi pizza_chicago",
+   "1": "distance 5_miles traffic_info no_traffic poi_type coffee_or_tea_place address 269_alger_dr poi cafe_venetia",
+   "2": "distance 6_miles traffic_info heavy_traffic poi_type certain_address address 5672_barringer_street poi 5672_barringer_street",
+   "3": "distance 6_miles traffic_info heavy_traffic poi_type grocery_store address 638_amherst_st poi sigona_farmers_market",
+   "4": "distance 1_miles traffic_info heavy_traffic poi_type grocery_store address 452_arcadia_pl poi safeway",
+   "5": "distance 3_miles traffic_info heavy_traffic poi_type rest_stop address 753_university_ave poi comfort_inn",
+   "6": "distance 2_miles traffic_info moderate_traffic poi_type home address 10_ames_street poi home"
+}

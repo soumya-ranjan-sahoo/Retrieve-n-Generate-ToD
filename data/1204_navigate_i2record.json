@@ -1,0 +1,10 @@
+{
+   "0": "distance 4_miles traffic_info car_collision_nearby poi_type hospital address 611_ames_ave poi palo_alto_medical_foundation",
+   "1": "distance 6_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 436_alger_dr poi palo_alto_cafe",
+   "2": "distance 1_miles traffic_info heavy_traffic poi_type coffee_or_tea_place address 269_alger_dr poi cafe_venetia",
+   "3": "distance 2_miles traffic_info road_block_nearby poi_type home address 5671_barringer_street poi home",
+   "4": "distance 3_miles traffic_info car_collision_nearby poi_type coffee_or_tea_place address 583_alester_ave poi philz",
+   "5": "distance 5_miles traffic_info heavy_traffic poi_type grocery_store address 408_university_ave poi trader_joes",
+   "6": "distance 3_miles traffic_info no_traffic poi_type rest_stop address 657_ames_ave poi the_clement_hotel",
+   "7": "distance 6_miles traffic_info road_block_nearby poi_type shopping_center address 171_oak_rd poi topanga_mall"
+}

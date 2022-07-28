@@ -1,0 +1,9 @@
+{
+   "0": "distance 2_miles traffic_info no_traffic poi_type gas_station address 783_arcadia_pl poi chevron",
+   "1": "distance 1_miles traffic_info no_traffic poi_type pizza_restaurant address 113_anton_ct poi round_table",
+   "2": "distance 6_miles traffic_info moderate_traffic poi_type grocery_store address 452_arcadia_pl poi safeway",
+   "3": "distance 2_miles traffic_info no_traffic poi_type grocery_store address 638_amherst_st poi sigona_farmers_market",
+   "4": "distance 6_miles traffic_info heavy_traffic poi_type home address 56_cadwell_street poi home",
+   "5": "distance 5_miles traffic_info heavy_traffic poi_type shopping_center address 773_alger_dr poi stanford_shopping_center",
+   "6": "distance 4_miles traffic_info heavy_traffic poi_type rest_stop address 657_ames_ave poi the_clement_hotel"
+}

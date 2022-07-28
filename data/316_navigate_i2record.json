@@ -1,0 +1,10 @@
+{
+   "0": "distance 4_miles traffic_info no_traffic poi_type certain_address address 5677_southwest_4th_street poi 5677_southwest_4th_street",
+   "1": "distance 2_miles traffic_info heavy_traffic poi_type rest_stop address 578_arbol_dr poi hotel_keen",
+   "2": "distance 4_miles traffic_info car_collision_nearby poi_type rest_stop address 657_ames_ave poi the_clement_hotel",
+   "3": "distance 6_miles traffic_info road_block_nearby poi_type rest_stop address 329_el_camino_real poi the_westin",
+   "4": "distance 8_miles traffic_info heavy_traffic poi_type coffee_or_tea_place address 269_alger_dr poi cafe_venetia",
+   "5": "distance 6_miles traffic_info heavy_traffic poi_type pizza_restaurant address 528_anton_ct poi pizza_my_heart",
+   "6": "distance 1_miles traffic_info car_collision_nearby poi_type coffee_or_tea_place address 394_van_ness_ave poi coupa",
+   "7": "distance 1_miles traffic_info car_collision_nearby poi_type pizza_restaurant address 915_arbol_dr poi pizza_chicago"
+}

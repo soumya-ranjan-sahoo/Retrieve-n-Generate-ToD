@@ -1,0 +1,10 @@
+{
+   "0": "distance 4_miles traffic_info road_block_nearby poi_type pizza_restaurant address 110_arastradero_rd poi papa_johns",
+   "1": "distance 4_miles traffic_info car_collision_nearby poi_type pizza_restaurant address 704_el_camino_real poi pizza_hut",
+   "2": "distance 3_miles traffic_info heavy_traffic poi_type grocery_store address 409_bollard_st poi willows_market",
+   "3": "distance 5_miles traffic_info road_block_nearby poi_type shopping_center address 171_oak_rd poi topanga_mall",
+   "4": "distance 1_miles traffic_info moderate_traffic poi_type parking_garage address 880_ames_ct poi webster_garage",
+   "5": "distance 1_miles traffic_info moderate_traffic poi_type friends_house address 580_van_ness_ave poi toms_house",
+   "6": "distance 4_miles traffic_info road_block_nearby poi_type coffee_or_tea_place address 583_alester_ave poi philz",
+   "7": "distance 1_miles traffic_info car_collision_nearby poi_type grocery_store address 819_alma_st poi whole_foods"
+}

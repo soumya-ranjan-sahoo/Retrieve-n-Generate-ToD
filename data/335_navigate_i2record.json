@@ -1,0 +1,10 @@
+{
+   "0": "distance 5_miles traffic_info car_collision_nearby poi_type certain_address address 5677_southwest_4th_street poi 5677_southwest_4th_street",
+   "1": "distance 1_miles traffic_info road_block_nearby poi_type grocery_store address 638_amherst_st poi sigona_farmers_market",
+   "2": "distance 4_miles traffic_info car_collision_nearby poi_type parking_garage address 880_ames_ct poi webster_garage",
+   "3": "distance 5_miles traffic_info no_traffic poi_type shopping_center address 338_alester_ave poi midtown_shopping_center",
+   "4": "distance 6_miles traffic_info road_block_nearby poi_type rest_stop address 329_el_camino_real poi the_westin",
+   "5": "distance 2_miles traffic_info car_collision_nearby poi_type coffee_or_tea_place address 269_alger_dr poi cafe_venetia",
+   "6": "distance 5_miles traffic_info heavy_traffic poi_type parking_garage address 550_alester_ave poi dish_parking",
+   "7": "distance 3_miles traffic_info road_block_nearby poi_type gas_station address 200_alester_ave poi valero"
+}

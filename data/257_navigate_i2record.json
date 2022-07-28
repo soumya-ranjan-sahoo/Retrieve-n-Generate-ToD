@@ -1,0 +1,9 @@
+{
+   "0": "distance 5_miles traffic_info no_traffic poi_type grocery_store address 408_university_ave poi trader_joes",
+   "1": "distance 5_miles traffic_info no_traffic poi_type coffee_or_tea_place address 436_alger_dr poi palo_alto_cafe",
+   "2": "distance 5_miles traffic_info no_traffic poi_type hospital address 611_ames_ave poi palo_alto_medical_foundation",
+   "3": "distance 4_miles traffic_info no_traffic poi_type parking_garage address 270_altaire_walk poi civic_center_garage",
+   "4": "distance 3_miles traffic_info no_traffic poi_type hospital address 214_el_camino_real poi stanford_express_care",
+   "5": "distance 4_miles traffic_info heavy_traffic poi_type friends_house address 347_alta_mesa_ave poi jills_house",
+   "6": "distance 4_miles traffic_info no_traffic poi_type rest_stop address 329_el_camino_real poi the_westin"
+}

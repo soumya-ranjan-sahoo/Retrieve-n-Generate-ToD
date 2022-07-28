@@ -1,0 +1,10 @@
+{
+   "0": "distance 3_miles traffic_info no_traffic poi_type chinese_restaurant address 113_arbol_dr poi jing_jing",
+   "1": "distance 2_miles traffic_info no_traffic poi_type pizza_restaurant address 528_anton_ct poi pizza_my_heart",
+   "2": "distance 1_miles traffic_info heavy_traffic poi_type coffee_or_tea_place address 269_alger_dr poi cafe_venetia",
+   "3": "distance 6_miles traffic_info heavy_traffic poi_type certain_address address 5677_southwest_4th_street poi 5677_southwest_4th_street",
+   "4": "distance 1_miles traffic_info road_block_nearby poi_type hospital address 611_ames_ave poi palo_alto_medical_foundation",
+   "5": "distance 3_miles traffic_info heavy_traffic poi_type hospital address 899_ames_ct poi stanford_childrens_health",
+   "6": "distance 1_miles traffic_info no_traffic poi_type parking_garage address 610_amarillo_ave poi stanford_oval_parking",
+   "7": "distance 5_miles traffic_info moderate_traffic poi_type rest_stop address 465_arcadia_pl poi four_seasons"
+}

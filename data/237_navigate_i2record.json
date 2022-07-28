@@ -1,0 +1,9 @@
+{
+   "0": "distance 2_miles traffic_info no_traffic poi_type rest_stop address 753_university_ave poi comfort_inn",
+   "1": "distance 4_miles traffic_info heavy_traffic poi_type hospital address 214_el_camino_real poi stanford_express_care",
+   "2": "distance 5_miles traffic_info heavy_traffic poi_type chinese_restaurant address 830_almanor_ln poi tai_pan",
+   "3": "distance 4_miles traffic_info heavy_traffic poi_type coffee_or_tea_place address 792_bedoin_street poi starbucks",
+   "4": "distance 1_miles traffic_info no_traffic poi_type hospital address 899_ames_ct poi stanford_childrens_health",
+   "5": "distance 3_miles traffic_info no_traffic poi_type chinese_restaurant address 842_arrowhead_way poi panda_express",
+   "6": "distance 3_miles traffic_info moderate_traffic poi_type grocery_store address 408_university_ave poi trader_joes"
+}

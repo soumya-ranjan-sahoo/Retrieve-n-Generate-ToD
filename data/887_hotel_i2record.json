@@ -1,0 +1,9 @@
+{
+   "0": "name a_and_b_guest_house address 124_tenison_road area east phone 01223315702 postcode cb12dp pricerange moderate stars 4_star type guesthouse choice several",
+   "1": "name allenbell address 517a_coldham_lane area east phone 01223210353 postcode cb13js pricerange cheap stars 4_star type guesthouse choice several",
+   "2": "name alpha-milton_guest_house address 63_milton_road area north phone 01223311625 postcode cb41xa pricerange moderate stars 3_star type guesthouse choice several",
+   "3": "name avalon address 62_gilbert_road area north phone 01223353071 postcode cb43pd pricerange moderate stars 4_star type guesthouse choice several",
+   "4": "name acorn_guest_house address 154_chesterton_road area north phone 01223353888 postcode cb41da pricerange moderate stars 4_star type guesthouse choice several",
+   "5": "name university_arms_hotel address regent_street area centre phone 01223351241 postcode cb21ad pricerange expensive stars 4_star type hotel",
+   "6": "name alexander_bed_and_breakfast address 56_saint_barnabas_road area centre phone 01223525725 postcode cb12de pricerange cheap stars 4_star type guesthouse choice several"
+}

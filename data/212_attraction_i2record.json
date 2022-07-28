@@ -1,0 +1,9 @@
+{
+   "0": "name all_saints_church address jesus_lane area centre phone 01223452587 postcode cb58bs pricerange free type architecture choice some",
+   "1": "name sheep_'_s_green_and_lammas_land_park_fen_causeway address fen_causeway_,_newnham_road, area south phone 01223302580 postcode cb22ad pricerange free type park choice some",
+   "2": "name ballare address heidelberg_gardens_,_lion_yard area centre phone 01223364222 postcode cb23na pricerange moderate type nightclub choice some",
+   "3": "name wandlebury_country_park address wandlebury_ring_,_gog_magog_hills_,_babraham area south phone 01223243830 postcode cb223ae pricerange free type park choice some",
+   "4": "name wandlebury_country_park address wandlebury_ring_,_gog_magog_hills_,_babraham area south phone 01223243830 postcode cb223ae pricerange free type park",
+   "5": "name abbey_pool_and_astroturf_pitch address pool_way_,_whitehill_road_,_off_newmarket_road area east phone 01223902088 postcode cb58nt pricerange <dontknow> type swimmingpool choice some",
+   "6": "name adc_theatre address park_street area centre phone 01223300085 postcode cb58as pricerange <dontknow> type theatre choice some"
+}

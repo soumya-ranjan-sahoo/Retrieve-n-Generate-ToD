@@ -1,0 +1,9 @@
+{
+   "0": "distance 2_miles traffic_info moderate_traffic poi_type parking_garage address 481_amaranta_ave poi palo_alto_garage_r",
+   "1": "distance 1_miles traffic_info heavy_traffic poi_type rest_stop address 329_el_camino_real poi the_westin",
+   "2": "distance 3_miles traffic_info moderate_traffic poi_type gas_station address 200_alester_ave poi valero",
+   "3": "distance 4_miles traffic_info heavy_traffic poi_type parking_garage address 880_ames_ct poi webster_garage",
+   "4": "distance 6_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 394_van_ness_ave poi coupa",
+   "5": "distance 3_miles traffic_info heavy_traffic poi_type shopping_center address 773_alger_dr poi stanford_shopping_center",
+   "6": "distance 5_miles traffic_info moderate_traffic poi_type home address 10_ames_street poi home"
+}

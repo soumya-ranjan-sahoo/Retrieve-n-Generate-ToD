@@ -1,0 +1,9 @@
+{
+   "0": "distance 4_miles traffic_info heavy_traffic poi_type shopping_center address 383_university_ave poi town_and_country",
+   "1": "distance 5_miles traffic_info heavy_traffic poi_type chinese_restaurant address 113_arbol_dr poi jing_jing",
+   "2": "distance 4_miles traffic_info no_traffic poi_type coffee_or_tea_place address 269_alger_dr poi cafe_venetia",
+   "3": "distance 3_miles traffic_info no_traffic poi_type shopping_center address 338_alester_ave poi midtown_shopping_center",
+   "4": "distance 5_miles traffic_info no_traffic poi_type parking_garage address 610_amarillo_ave poi stanford_oval_parking",
+   "5": "distance 5_miles traffic_info heavy_traffic poi_type certain_address address 5672_barringer_street poi 5672_barringer_street",
+   "6": "distance 3_miles traffic_info no_traffic poi_type hospital address 214_el_camino_real poi stanford_express_care"
+}

@@ -1,0 +1,9 @@
+{
+   "0": "distance 5_miles traffic_info no_traffic poi_type hospital address 611_ames_ave poi palo_alto_medical_foundation",
+   "1": "distance 5_miles traffic_info heavy_traffic poi_type parking_garage address 550_alester_ave poi dish_parking",
+   "2": "distance 2_miles traffic_info heavy_traffic poi_type grocery_store address 819_alma_st poi whole_foods",
+   "3": "distance 2_miles traffic_info heavy_traffic poi_type pizza_restaurant address 113_anton_ct poi round_table",
+   "4": "distance 2_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 583_alester_ave poi philz",
+   "5": "distance 5_miles traffic_info heavy_traffic poi_type rest_stop address 578_arbol_dr poi hotel_keen",
+   "6": "distance 4_miles traffic_info heavy_traffic poi_type home address 5671_barringer_street poi home"
+}

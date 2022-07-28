@@ -1,0 +1,9 @@
+{
+   "0": "name bridge_guest_house address 151_hills_road area south phone 01223247942 postcode cb28rj pricerange moderate stars 3_star type guesthouse choice 8",
+   "1": "name hobsons_house address 96_barton_road area west phone 01223304906 postcode cb39lh pricerange moderate stars 3_star type guesthouse choice 8",
+   "2": "name hamilton_lodge address 156_chesterton_road area north phone 01223365664 postcode cb41da pricerange moderate stars 3_star type guesthouse",
+   "3": "name hamilton_lodge address 156_chesterton_road area north phone 01223365664 postcode cb41da pricerange moderate stars 3_star type guesthouse choice 8",
+   "4": "name a_and_b_guest_house address 124_tenison_road area east phone 01223315702 postcode cb12dp pricerange moderate stars 4_star type guesthouse choice 8",
+   "5": "name lovell_lodge address 365_milton_road area north phone 01223425478 postcode cb41sr pricerange moderate stars 2_star type hotel",
+   "6": "name ashley_hotel address 74_chesterton_road area north phone 01223350059 postcode cb41er pricerange moderate stars 2_star type hotel"
+}

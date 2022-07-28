@@ -1,0 +1,10 @@
+{
+   "0": "distance 1_miles traffic_info moderate_traffic poi_type gas_station address 53_university_av poi shell",
+   "1": "distance 2_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 792_bedoin_street poi starbucks",
+   "2": "distance 4_miles traffic_info car_collision_nearby poi_type chinese_restaurant address 669_el_camino_real poi p_._f_._changs",
+   "3": "distance 2_miles traffic_info heavy_traffic poi_type grocery_store address 1313_chester_ave poi hacienda_market",
+   "4": "distance 5_miles traffic_info car_collision_nearby poi_type pizza_restaurant address 528_anton_ct poi pizza_my_heart",
+   "5": "distance 2_miles traffic_info car_collision_nearby poi_type pizza_restaurant address 776_arastradero_rd poi dominos",
+   "6": "distance 5_miles traffic_info moderate_traffic poi_type pizza_restaurant address 113_anton_ct poi round_table",
+   "7": "distance 3_miles traffic_info no_traffic poi_type grocery_store address 408_university_ave poi trader_joes"
+}

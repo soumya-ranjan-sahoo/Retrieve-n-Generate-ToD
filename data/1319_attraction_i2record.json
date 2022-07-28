@@ -1,0 +1,9 @@
+{
+   "0": "name cineworld_cinema address cambridge_leisure_park_,_clifton_way area south phone 00872208000 postcode cb17dy pricerange <dontknow> type cinema",
+   "1": "name byard_art address 14_king_'_s_parade area south phone 01223464646 postcode cb21sj pricerange free type museum",
+   "2": "name the_place address 22_sidney_street area south phone 01223324600 postcode cb23hg pricerange moderate type nightclub",
+   "3": "name the_junction address clifton_way area south phone 01223511511 postcode cb17gx pricerange <dontknow> type theatre",
+   "4": "name wandlebury_country_park address wandlebury_ring_,_gog_magog_hills_,_babraham area south phone 01223243830 postcode cb223ae pricerange free type park",
+   "5": "name whipple_museum_of_the_history_of_science address free_school_lane area centre phone 01223330906 postcode cb23rh pricerange free type museum",
+   "6": "name nusha address unit_g6_,_cambridge_leisure_park_,_clifton_road area south phone 01223902158 postcode cb17dy pricerange <dontknow> type entertainment"
+}

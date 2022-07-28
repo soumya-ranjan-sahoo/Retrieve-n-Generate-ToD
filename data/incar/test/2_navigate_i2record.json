@@ -1,0 +1,9 @@
+{
+   "0": "distance 5_miles traffic_info moderate_traffic poi_type gas_station address 783_arcadia_pl poi chevron",
+   "1": "distance 5_miles traffic_info no_traffic poi_type shopping_center address 383_university_ave poi town_and_country",
+   "2": "distance 5_miles traffic_info no_traffic poi_type friends_house address 864_almanor_ln poi jacks_house",
+   "3": "distance 6_miles traffic_info heavy_traffic poi_type home address 5671_barringer_street poi home",
+   "4": "distance 4_miles traffic_info no_traffic poi_type rest_stop address 657_ames_ave poi the_clement_hotel",
+   "5": "distance 1_miles traffic_info heavy_traffic poi_type grocery_store address 638_amherst_st poi sigona_farmers_market",
+   "6": "distance 6_miles traffic_info no_traffic poi_type chinese_restaurant address 830_almanor_ln poi tai_pan"
+}

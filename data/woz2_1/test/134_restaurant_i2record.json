@@ -1,0 +1,9 @@
+{
+   "0": "name lan_hong_house address 12_norfolk_street_city_centre area centre food chinese phone 01223350420 postcode cb12lf pricerange moderate type restaurant choice a_variety",
+   "1": "name rice_house address 88_mill_road_city_centre area centre food chinese phone 01223367755 postcode cb12bd pricerange cheap type restaurant choice a_variety",
+   "2": "name golden_house address 12_lensfield_road_city_centre area centre food chinese phone 01842753771 postcode cb21eg pricerange cheap type restaurant choice a_variety",
+   "3": "name sesame_restaurant_and_bar address 17_hills_road_city_centre area centre food chinese phone 01223358899 postcode cb21nw pricerange expensive type restaurant choice a_variety",
+   "4": "name lan_hong_house address 12_norfolk_street_city_centre area centre food chinese phone 01223350420 postcode cb12lf pricerange moderate type restaurant",
+   "5": "name ugly_duckling address 12_st_._johns_street_city_centre area centre food chinese postcode cb21tw pricerange expensive type restaurant choice a_variety",
+   "6": "name hk_fusion address 21_burleigh_street_city_centre area centre food chinese phone 01223355909 postcode cb11dg pricerange expensive type restaurant choice a_variety"
+}

@@ -1,0 +1,9 @@
+{
+   "0": "distance 5_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 436_alger_dr poi palo_alto_cafe",
+   "1": "distance 1_miles traffic_info heavy_traffic poi_type hospital address 214_el_camino_real poi stanford_express_care",
+   "2": "distance 1_miles traffic_info no_traffic poi_type pizza_restaurant address 915_arbol_dr poi pizza_chicago",
+   "3": "distance 4_miles traffic_info heavy_traffic poi_type certain_address address 5677_southwest_4th_street poi 5677_southwest_4th_street",
+   "4": "distance 3_miles traffic_info moderate_traffic poi_type grocery_store address 638_amherst_st poi sigona_farmers_market",
+   "5": "distance 4_miles traffic_info heavy_traffic poi_type coffee_or_tea_place address 269_alger_dr poi cafe_venetia",
+   "6": "distance 2_miles traffic_info no_traffic poi_type chinese_restaurant address 113_arbol_dr poi jing_jing"
+}

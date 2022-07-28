@@ -1,0 +1,10 @@
+{
+   "0": "distance 6_miles traffic_info moderate_traffic poi_type parking_garage address 550_alester_ave poi dish_parking",
+   "1": "distance 3_miles traffic_info moderate_traffic poi_type pizza_restaurant address 704_el_camino_real poi pizza_hut",
+   "2": "distance 1_miles traffic_info no_traffic poi_type coffee_or_tea_place address 9981_archuleta_ave poi peets_coffee",
+   "3": "distance 6_miles traffic_info no_traffic poi_type parking_garage address 270_altaire_walk poi civic_center_garage",
+   "4": "distance 3_miles traffic_info car_collision_nearby poi_type hospital address 214_el_camino_real poi stanford_express_care",
+   "5": "distance 4_miles traffic_info car_collision_nearby poi_type coffee_or_tea_place address 583_alester_ave poi philz",
+   "6": "distance 1_miles traffic_info heavy_traffic poi_type rest_stop address 657_ames_ave poi the_clement_hotel",
+   "7": "distance 2_miles traffic_info heavy_traffic poi_type grocery_store address 408_university_ave poi trader_joes"
+}

@@ -1,0 +1,10 @@
+{
+   "0": "distance 5_miles traffic_info road_block_nearby poi_type chinese_restaurant address 669_el_camino_real poi p_._f_._changs",
+   "1": "distance 1_miles traffic_info car_collision_nearby poi_type home address 5671_barringer_street poi home",
+   "2": "distance 4_miles traffic_info no_traffic poi_type chinese_restaurant address 842_arrowhead_way poi panda_express",
+   "3": "distance 1_miles traffic_info heavy_traffic poi_type hospital address 214_el_camino_real poi stanford_express_care",
+   "4": "distance 3_miles traffic_info car_collision_nearby poi_type rest_stop address 333_arbol_dr poi travelers_lodge",
+   "5": "distance 4_miles traffic_info no_traffic poi_type shopping_center address 383_university_ave poi town_and_country",
+   "6": "distance 3_miles traffic_info road_block_nearby poi_type friends_house address 580_van_ness_ave poi toms_house",
+   "7": "distance 1_miles traffic_info no_traffic poi_type coffee_or_tea_place address 145_amherst_st poi teavana"
+}

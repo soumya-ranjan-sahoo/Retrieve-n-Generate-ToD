@@ -1,0 +1,10 @@
+{
+   "0": "distance 6_miles traffic_info car_collision_nearby poi_type home address 10_ames_street poi home",
+   "1": "distance 4_miles traffic_info no_traffic poi_type rest_stop address 578_arbol_dr poi hotel_keen",
+   "2": "distance 3_miles traffic_info road_block_nearby poi_type parking_garage address 481_amaranta_ave poi palo_alto_garage_r",
+   "3": "distance 1_miles traffic_info moderate_traffic poi_type chinese_restaurant address 271_springer_street poi mandarin_roots",
+   "4": "distance 3_miles traffic_info car_collision_nearby poi_type hospital address 214_el_camino_real poi stanford_express_care",
+   "5": "distance 3_miles traffic_info moderate_traffic poi_type shopping_center address 434_arastradero_rd poi ravenswood_shopping_center",
+   "6": "distance 3_miles traffic_info car_collision_nearby poi_type pizza_restaurant address 110_arastradero_rd poi papa_johns",
+   "7": "distance 2_miles traffic_info no_traffic poi_type coffee_or_tea_place address 436_alger_dr poi palo_alto_cafe"
+}

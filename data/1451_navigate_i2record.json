@@ -1,0 +1,10 @@
+{
+   "0": "distance 3_miles traffic_info heavy_traffic poi_type grocery_store address 638_amherst_st poi sigona_farmers_market",
+   "1": "distance 1_miles traffic_info car_collision_nearby poi_type rest_stop address 753_university_ave poi comfort_inn",
+   "2": "distance 5_miles traffic_info moderate_traffic poi_type rest_stop address 329_el_camino_real poi the_westin",
+   "3": "distance 1_miles traffic_info car_collision_nearby poi_type chinese_restaurant address 593_arrowhead_way poi chef_chu_s",
+   "4": "distance 6_miles traffic_info road_block_nearby poi_type pizza_restaurant address 776_arastradero_rd poi dominos",
+   "5": "distance 3_miles traffic_info moderate_traffic poi_type grocery_store address 452_arcadia_pl poi safeway",
+   "6": "distance 6_miles traffic_info road_block_nearby poi_type parking_garage address 270_altaire_walk poi civic_center_garage",
+   "7": "distance 4_miles traffic_info moderate_traffic poi_type chinese_restaurant address 113_arbol_dr poi jing_jing"
+}

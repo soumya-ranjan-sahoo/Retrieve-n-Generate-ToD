@@ -1,0 +1,10 @@
+{
+   "0": "distance 4_miles traffic_info no_traffic poi_type hospital address 214_el_camino_real poi stanford_express_care",
+   "1": "distance 5_miles traffic_info moderate_traffic poi_type grocery_store address 819_alma_st poi whole_foods",
+   "2": "distance 5_miles traffic_info road_block_nearby poi_type grocery_store address 452_arcadia_pl poi safeway",
+   "3": "distance 4_miles traffic_info car_collision_nearby poi_type rest_stop address 329_el_camino_real poi the_westin",
+   "4": "distance 1_miles traffic_info car_collision_nearby poi_type coffee_or_tea_place address 394_van_ness_ave poi coupa",
+   "5": "distance 2_miles traffic_info moderate_traffic poi_type chinese_restaurant address 271_springer_street poi mandarin_roots",
+   "6": "distance 1_miles traffic_info road_block_nearby poi_type pizza_restaurant address 528_anton_ct poi pizza_my_heart",
+   "7": "distance 3_miles traffic_info heavy_traffic poi_type home address 56_cadwell_street poi home"
+}

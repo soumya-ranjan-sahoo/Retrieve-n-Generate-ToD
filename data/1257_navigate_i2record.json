@@ -1,0 +1,10 @@
+{
+   "0": "distance 3_miles traffic_info road_block_nearby poi_type friends_house address 347_alta_mesa_ave poi jills_house",
+   "1": "distance 2_miles traffic_info car_collision_nearby poi_type certain_address address 5672_barringer_street poi 5672_barringer_street",
+   "2": "distance 3_miles traffic_info moderate_traffic poi_type home address 56_cadwell_street poi home",
+   "3": "distance 2_miles traffic_info car_collision_nearby poi_type shopping_center address 434_arastradero_rd poi ravenswood_shopping_center",
+   "4": "distance 6_miles traffic_info road_block_nearby poi_type shopping_center address 171_oak_rd poi topanga_mall",
+   "5": "distance 5_miles traffic_info car_collision_nearby poi_type parking_garage address 481_amaranta_ave poi palo_alto_garage_r",
+   "6": "distance 4_miles traffic_info road_block_nearby poi_type coffee_or_tea_place address 394_van_ness_ave poi coupa",
+   "7": "distance 3_miles traffic_info no_traffic poi_type coffee_or_tea_place address 436_alger_dr poi palo_alto_cafe"
+}

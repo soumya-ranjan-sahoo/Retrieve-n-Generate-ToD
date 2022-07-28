@@ -1,0 +1,9 @@
+{
+   "0": "name restaurant_alimentum address 152_-_154_hills_road area south food modern_european phone 01223413000 postcode cb28pb pricerange moderate type restaurant choice 3",
+   "1": "name golden_house address 12_lensfield_road_city_centre area centre food chinese phone 01842753771 postcode cb21eg pricerange cheap type restaurant",
+   "2": "name rice_house address 88_mill_road_city_centre area centre food chinese phone 01223367755 postcode cb12bd pricerange cheap type restaurant",
+   "3": "name curry_prince address 451_newmarket_road_fen_ditton area east food indian phone 01223566388 postcode cb58jj pricerange moderate type restaurant choice 3",
+   "4": "name pizza_express address regent_street_city_centre area centre food italian phone 01223324033 postcode cb21db pricerange moderate type restaurant choice 3",
+   "5": "name charlie_chan address regent_street_city_centre area centre food chinese phone 01223361763 postcode cb21db pricerange cheap type restaurant",
+   "6": "name pizza_hut_cherry_hinton address g4_cambridge_leisure_park_clifton_way_cherry_hinton area south food italian phone 01223323737 postcode cb17dy pricerange moderate type restaurant choice 3"
+}

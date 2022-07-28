@@ -1,0 +1,9 @@
+{
+   "0": "name alexander_bed_and_breakfast address 56_saint_barnabas_road area centre phone 01223525725 postcode cb12de pricerange cheap stars 4_star type guesthouse choice 5 ref bq60jngd",
+   "1": "name a_and_b_guest_house address 124_tenison_road area east phone 01223315702 postcode cb12dp pricerange moderate stars 4_star type guesthouse choice 5 ref bq60jngd",
+   "2": "name gonville_hotel address gonville_place area centre phone 01223366611 postcode cb11ly pricerange expensive stars 3_star type hotel choice 5 ref bq60jngd",
+   "3": "name gonville_hotel address gonville_place area centre phone 01223366611 postcode cb11ly pricerange expensive stars 3_star type hotel",
+   "4": "name acorn_guest_house address 154_chesterton_road area north phone 01223353888 postcode cb41da pricerange moderate stars 4_star type guesthouse choice 5 ref bq60jngd",
+   "5": "name university_arms_hotel address regent_street area centre phone 01223351241 postcode cb21ad pricerange expensive stars 4_star type hotel choice 5 ref bq60jngd",
+   "6": "name university_arms_hotel address regent_street area centre phone 01223351241 postcode cb21ad pricerange expensive stars 4_star type hotel"
+}

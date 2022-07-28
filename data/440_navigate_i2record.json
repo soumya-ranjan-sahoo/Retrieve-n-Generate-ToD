@@ -1,0 +1,10 @@
+{
+   "0": "distance 4_miles traffic_info no_traffic poi_type hospital address 611_ames_ave poi palo_alto_medical_foundation",
+   "1": "distance 5_miles traffic_info no_traffic poi_type chinese_restaurant address 271_springer_street poi mandarin_roots",
+   "2": "distance 8_miles traffic_info car_collision_nearby poi_type friends_house address 580_van_ness_ave poi toms_house",
+   "3": "distance 5_miles traffic_info car_collision_nearby poi_type pizza_restaurant address 915_arbol_dr poi pizza_chicago",
+   "4": "distance 4_miles traffic_info road_block_nearby poi_type gas_station address 53_university_av poi shell",
+   "5": "distance 1_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 436_alger_dr poi palo_alto_cafe",
+   "6": "distance 5_miles traffic_info no_traffic poi_type parking_garage address 550_alester_ave poi dish_parking",
+   "7": "distance 4_miles traffic_info road_block_nearby poi_type certain_address address 5677_springer_street poi 5677_springer_street"
+}

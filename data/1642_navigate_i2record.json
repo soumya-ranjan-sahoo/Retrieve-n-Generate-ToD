@@ -1,0 +1,10 @@
+{
+   "0": "distance 4_miles traffic_info no_traffic poi_type parking_garage address 550_alester_ave poi dish_parking",
+   "1": "distance 1_miles traffic_info moderate_traffic poi_type gas_station address 53_university_av poi shell",
+   "2": "distance 1_miles traffic_info moderate_traffic poi_type parking_garage address 880_ames_ct poi webster_garage",
+   "3": "distance 4_miles traffic_info car_collision_nearby poi_type friends_house address 580_van_ness_ave poi toms_house",
+   "4": "distance 6_miles traffic_info no_traffic poi_type rest_stop address 657_ames_ave poi the_clement_hotel",
+   "5": "distance 4_miles traffic_info road_block_nearby poi_type rest_stop address 465_arcadia_pl poi four_seasons",
+   "6": "distance 1_miles traffic_info road_block_nearby poi_type certain_address address 5672_barringer_street poi 5672_barringer_street",
+   "7": "distance 5_miles traffic_info moderate_traffic poi_type shopping_center address 434_arastradero_rd poi ravenswood_shopping_center"
+}

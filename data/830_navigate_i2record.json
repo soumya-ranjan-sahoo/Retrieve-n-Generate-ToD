@@ -1,0 +1,10 @@
+{
+   "0": "distance 8_miles traffic_info no_traffic poi_type friends_house address 347_alta_mesa_ave poi jills_house",
+   "1": "distance 3_miles traffic_info no_traffic poi_type chinese_restaurant address 593_arrowhead_way poi chef_chu_s",
+   "2": "distance 1_miles traffic_info car_collision_nearby poi_type grocery_store address 819_alma_st poi whole_foods",
+   "3": "distance 3_miles traffic_info heavy_traffic poi_type hospital address 899_ames_ct poi stanford_childrens_health",
+   "4": "distance 4_miles traffic_info heavy_traffic poi_type hospital address 214_el_camino_real poi stanford_express_care",
+   "5": "distance 2_miles traffic_info no_traffic poi_type chinese_restaurant address 842_arrowhead_way poi panda_express",
+   "6": "distance 3_miles traffic_info road_block_nearby poi_type certain_address address 5677_southwest_4th_street poi 5677_southwest_4th_street",
+   "7": "distance 5_miles traffic_info moderate_traffic poi_type pizza_restaurant address 113_anton_ct poi round_table"
+}

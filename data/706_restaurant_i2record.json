@@ -1,0 +1,9 @@
+{
+   "0": "name stazione_restaurant_and_coffee_bar address market_hill_city_centre area centre food italian phone 01223352607 postcode cb23nj pricerange expensive type restaurant choice several",
+   "1": "name don_pasquale_pizzeria address 12_market_hill_city_centre area centre food italian phone 01223350106 postcode cb23nj pricerange expensive type restaurant choice several",
+   "2": "name pizza_express address regent_street_city_centre area centre food italian phone 01223324033 postcode cb21db pricerange moderate type restaurant",
+   "3": "name yippee_noodle_bar address 40428_king_street_city_centre area centre food asian_oriental phone 01223518111 postcode cb11lh pricerange moderate type restaurant",
+   "4": "name pizza_express address regent_street_city_centre area centre food italian phone 01223324033 postcode cb21db pricerange moderate type restaurant choice several",
+   "5": "name zizzi_cambridge address 47-53_regent_street area centre food italian phone 01223365599 postcode cb21ab pricerange cheap type restaurant choice several",
+   "6": "name caffe_uno address 32_bridge_street_city_centre area centre food italian phone 01223448620 postcode cb21uj pricerange expensive type restaurant choice several"
+}

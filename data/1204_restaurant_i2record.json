@@ -1,0 +1,9 @@
+{
+   "0": "name la_margherita address 15_magdalene_street_city_centre area west food italian phone 01223315232 postcode cb30af pricerange cheap type restaurant",
+   "1": "name da_vinci_pizzeria address 20_milton_road_chesterton area north food italian phone 01223351707 postcode cb41jy pricerange cheap type restaurant",
+   "2": "name ask_restaurant address 12_bridge_street_city_centre area centre food italian phone 01223364917 postcode cb21uf pricerange cheap type restaurant",
+   "3": "name pizza_hut_city_centre address regent_street_city_centre area centre food italian phone 01223323737 postcode cb21ab pricerange cheap type restaurant",
+   "4": "name zizzi_cambridge address 47-53_regent_street area centre food italian phone 01223365599 postcode cb21ab pricerange cheap type restaurant",
+   "5": "name stazione_restaurant_and_coffee_bar address market_hill_city_centre area centre food italian phone 01223352607 postcode cb23nj pricerange expensive type restaurant",
+   "6": "name pizza_hut_cherry_hinton address g4_cambridge_leisure_park_clifton_way_cherry_hinton area south food italian phone 01223323737 postcode cb17dy pricerange moderate type restaurant"
+}

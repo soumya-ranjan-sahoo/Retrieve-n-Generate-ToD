@@ -1,0 +1,10 @@
+{
+   "0": "distance 4_miles traffic_info car_collision_nearby poi_type grocery_store address 408_university_ave poi trader_joes",
+   "1": "distance 4_miles traffic_info moderate_traffic poi_type home address 56_cadwell_street poi home",
+   "2": "distance 1_miles traffic_info heavy_traffic poi_type grocery_store address 1313_chester_ave poi hacienda_market",
+   "3": "distance 4_miles traffic_info road_block_nearby poi_type hospital address 899_ames_ct poi stanford_childrens_health",
+   "4": "distance 1_miles traffic_info no_traffic poi_type rest_stop address 657_ames_ave poi the_clement_hotel",
+   "5": "distance 2_miles traffic_info car_collision_nearby poi_type pizza_restaurant address 113_anton_ct poi round_table",
+   "6": "distance 6_miles traffic_info car_collision_nearby poi_type parking_garage address 880_ames_ct poi webster_garage",
+   "7": "distance 1_miles traffic_info road_block_nearby poi_type rest_stop address 329_el_camino_real poi the_westin"
+}

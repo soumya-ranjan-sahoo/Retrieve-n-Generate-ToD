@@ -1,0 +1,10 @@
+{
+   "0": "distance 2_miles traffic_info heavy_traffic poi_type friends_house address 864_almanor_ln poi jacks_house",
+   "1": "distance 6_miles traffic_info car_collision_nearby poi_type gas_station address 783_arcadia_pl poi chevron",
+   "2": "distance 6_miles traffic_info moderate_traffic poi_type home address 5671_barringer_street poi home",
+   "3": "distance 4_miles traffic_info moderate_traffic poi_type gas_station address 200_alester_ave poi valero",
+   "4": "distance 5_miles traffic_info no_traffic poi_type pizza_restaurant address 776_arastradero_rd poi dominos",
+   "5": "distance 3_miles traffic_info car_collision_nearby poi_type shopping_center address 338_alester_ave poi midtown_shopping_center",
+   "6": "distance 2_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 269_alger_dr poi cafe_venetia",
+   "7": "distance 2_miles traffic_info moderate_traffic poi_type shopping_center address 383_university_ave poi town_and_country"
+}

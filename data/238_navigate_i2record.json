@@ -1,0 +1,10 @@
+{
+   "0": "distance 6_miles traffic_info car_collision_nearby poi_type grocery_store address 452_arcadia_pl poi safeway",
+   "1": "distance 2_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 792_bedoin_street poi starbucks",
+   "2": "distance 2_miles traffic_info road_block_nearby poi_type gas_station address 200_alester_ave poi valero",
+   "3": "distance 2_miles traffic_info road_block_nearby poi_type coffee_or_tea_place address 269_alger_dr poi cafe_venetia",
+   "4": "distance 3_miles traffic_info no_traffic poi_type rest_stop address 465_arcadia_pl poi four_seasons",
+   "5": "distance 4_miles traffic_info heavy_traffic poi_type grocery_store address 638_amherst_st poi sigona_farmers_market",
+   "6": "distance 2_miles traffic_info moderate_traffic poi_type parking_garage address 481_amaranta_ave poi palo_alto_garage_r",
+   "7": "distance 1_miles traffic_info road_block_nearby poi_type rest_stop address 329_el_camino_real poi the_westin"
+}

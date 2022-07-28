@@ -1,0 +1,9 @@
+{
+   "0": "name museum_of_classical_archaeology address sidgwick_avenue area west phone 01223335153 postcode cb39da pricerange free type museum choice 13",
+   "1": "name whale_of_a_time address unit_8_,_viking_way_,_bar_hill area west phone 01954781018 postcode cb238el pricerange <dontknow> type entertainment choice 13",
+   "2": "name churchill_college address storey_'_s_way area west phone 01223336233 postcode cb30ds pricerange free type college choice 13",
+   "3": "name cambridge_book_and_print_gallery address 49_newnham_road area west phone 01223694264 postcode cb39ey pricerange free type museum choice 13",
+   "4": "name people_'_s_portraits_exhibition_at_girton_college address girton_college_,_huntingdon_road area west phone 01223338901 postcode cb3ojg pricerange free type museum choice 13",
+   "5": "name queens_'_college address silver_street area west phone 01223335511 postcode cb39et pricerange moderate type college choice 13",
+   "6": "name whale_of_a_time address unit_8_,_viking_way_,_bar_hill area west phone 01954781018 postcode cb238el pricerange <dontknow> type entertainment"
+}

@@ -1,0 +1,9 @@
+{
+   "0": "distance 3_miles traffic_info no_traffic poi_type rest_stop address 578_arbol_dr poi hotel_keen",
+   "1": "distance 1_miles traffic_info moderate_traffic poi_type pizza_restaurant address 776_arastradero_rd poi dominos",
+   "2": "distance 5_miles traffic_info no_traffic poi_type home address 10_ames_street poi home",
+   "3": "distance 5_miles traffic_info moderate_traffic poi_type chinese_restaurant address 669_el_camino_real poi p_._f_._changs",
+   "4": "distance 6_miles traffic_info no_traffic poi_type coffee_or_tea_place address 269_alger_dr poi cafe_venetia",
+   "5": "distance 1_miles traffic_info heavy_traffic poi_type shopping_center address 773_alger_dr poi stanford_shopping_center",
+   "6": "distance 5_miles traffic_info no_traffic poi_type chinese_restaurant address 842_arrowhead_way poi panda_express"
+}

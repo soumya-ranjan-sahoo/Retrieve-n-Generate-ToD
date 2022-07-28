@@ -1,0 +1,10 @@
+{
+   "0": "distance 2_miles traffic_info no_traffic poi_type gas_station address 91_el_camino_real poi 76",
+   "1": "distance 2_miles traffic_info road_block_nearby poi_type pizza_restaurant address 776_arastradero_rd poi dominos",
+   "2": "distance 2_miles traffic_info road_block_nearby poi_type grocery_store address 819_alma_st poi whole_foods",
+   "3": "distance 1_miles traffic_info no_traffic poi_type hospital address 899_ames_ct poi stanford_childrens_health",
+   "4": "distance 1_miles traffic_info car_collision_nearby poi_type friends_house address 580_van_ness_ave poi toms_house",
+   "5": "distance 3_miles traffic_info car_collision_nearby poi_type rest_stop address 578_arbol_dr poi hotel_keen",
+   "6": "distance 5_miles traffic_info no_traffic poi_type rest_stop address 657_ames_ave poi the_clement_hotel",
+   "7": "distance 3_miles traffic_info road_block_nearby poi_type pizza_restaurant address 915_arbol_dr poi pizza_chicago"
+}

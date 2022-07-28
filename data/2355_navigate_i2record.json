@@ -1,0 +1,10 @@
+{
+   "0": "distance 6_miles traffic_info heavy_traffic poi_type certain_address address 5677_springer_street poi 5677_springer_street",
+   "1": "distance 3_miles traffic_info car_collision_nearby poi_type grocery_store address 408_university_ave poi trader_joes",
+   "2": "distance 1_miles traffic_info heavy_traffic poi_type hospital address 611_ames_ave poi palo_alto_medical_foundation",
+   "3": "distance 4_miles traffic_info road_block_nearby poi_type pizza_restaurant address 110_arastradero_rd poi papa_johns",
+   "4": "distance 6_miles traffic_info moderate_traffic poi_type shopping_center address 383_university_ave poi town_and_country",
+   "5": "distance 1_miles traffic_info moderate_traffic poi_type shopping_center address 773_alger_dr poi stanford_shopping_center",
+   "6": "distance 6_miles traffic_info heavy_traffic poi_type coffee_or_tea_place address 269_alger_dr poi cafe_venetia",
+   "7": "distance 6_miles traffic_info moderate_traffic poi_type friends_house address 347_alta_mesa_ave poi jills_house"
+}

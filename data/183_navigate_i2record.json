@@ -1,0 +1,9 @@
+{
+   "0": "distance 5_miles traffic_info moderate_traffic poi_type parking_garage address 481_amaranta_ave poi palo_alto_garage_r",
+   "1": "distance 2_miles traffic_info heavy_traffic poi_type chinese_restaurant address 593_arrowhead_way poi chef_chu_s",
+   "2": "distance 5_miles traffic_info heavy_traffic poi_type rest_stop address 578_arbol_dr poi hotel_keen",
+   "3": "distance 5_miles traffic_info moderate_traffic poi_type friends_house address 347_alta_mesa_ave poi jills_house",
+   "4": "distance 3_miles traffic_info no_traffic poi_type rest_stop address 465_arcadia_pl poi four_seasons",
+   "5": "distance 1_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 394_van_ness_ave poi coupa",
+   "6": "distance 3_miles traffic_info no_traffic poi_type pizza_restaurant address 915_arbol_dr poi pizza_chicago"
+}

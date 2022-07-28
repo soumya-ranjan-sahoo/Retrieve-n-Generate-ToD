@@ -1,0 +1,9 @@
+{
+   "0": "name pizza_hut_city_centre address regent_street_city_centre area centre food italian phone 01223323737 postcode cb21ab pricerange cheap type restaurant choice 4 ref q7r6zvre",
+   "1": "name bedouin address 100_mill_road_city_centre area centre food african phone 01223367660 postcode cb12bd pricerange expensive type restaurant",
+   "2": "name curry_garden address 106_regent_street_city_centre area centre food indian phone 01223302330 postcode cb21dp pricerange expensive type restaurant choice 4 ref q7r6zvre",
+   "3": "name pizza_hut_cherry_hinton address g4_cambridge_leisure_park_clifton_way_cherry_hinton area south food italian phone 01223323737 postcode cb17dy pricerange moderate type restaurant choice 4 ref q7r6zvre",
+   "4": "name the_good_luck_chinese_food_takeaway address 82_cherry_hinton_road_cherry_hinton area south food chinese phone 01223244149 postcode cb17ag pricerange expensive type restaurant choice 4 ref q7r6zvre",
+   "5": "name the_missing_sock address finders_corner_newmarket_road area east food international phone 01223812660 postcode cb259aq pricerange cheap type restaurant choice 4 ref q7r6zvre",
+   "6": "name darrys_cookhouse_and_wine_shop address 40270_king_street_city_centre area centre food modern_european phone 01223505015 postcode cb11ln pricerange expensive type restaurant choice 4 ref q7r6zvre"
+}

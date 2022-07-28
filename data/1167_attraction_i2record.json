@@ -1,0 +1,9 @@
+{
+   "0": "name the_fitzwilliam_museum address trumpington_street area centre phone 01223332900 postcode cb21rb pricerange free type museum choice many",
+   "1": "name cafe_jello_gallery address cafe_jello_gallery_,_13_magdalene_street area west phone 01223312112 postcode cb30af pricerange free type museum choice many",
+   "2": "name whipple_museum_of_the_history_of_science address free_school_lane area centre phone 01223330906 postcode cb23rh pricerange free type museum choice many",
+   "3": "name byard_art address 14_king_'_s_parade area south phone 01223464646 postcode cb21sj pricerange free type museum",
+   "4": "name saint_barnabas_press_gallery address the_belfast_yard_,_coldham_'_s_road area east phone 01223902116 postcode cb13ew pricerange free type museum choice many",
+   "5": "name williams_art_and_antiques address gwydir_street_,_no._5_dale_'_s_brewery area centre phone 01223311687 postcode cb12lj pricerange free type museum choice many",
+   "6": "name museum_of_classical_archaeology address sidgwick_avenue area west phone 01223335153 postcode cb39da pricerange free type museum choice many"
+}

@@ -1,0 +1,10 @@
+{
+   "0": "distance 2_miles traffic_info road_block_nearby poi_type coffee_or_tea_place address 269_alger_dr poi cafe_venetia",
+   "1": "distance 2_miles traffic_info road_block_nearby poi_type grocery_store address 408_university_ave poi trader_joes",
+   "2": "distance 1_miles traffic_info moderate_traffic poi_type hospital address 899_ames_ct poi stanford_childrens_health",
+   "3": "distance 2_miles traffic_info moderate_traffic poi_type gas_station address 783_arcadia_pl poi chevron",
+   "4": "distance 2_miles traffic_info heavy_traffic poi_type rest_stop address 657_ames_ave poi the_clement_hotel",
+   "5": "distance 2_miles traffic_info road_block_nearby poi_type certain_address address 5677_southwest_4th_street poi 5677_southwest_4th_street",
+   "6": "distance 2_miles traffic_info moderate_traffic poi_type home address 10_ames_street poi home",
+   "7": "distance 6_miles traffic_info no_traffic poi_type shopping_center address 338_alester_ave poi midtown_shopping_center"
+}

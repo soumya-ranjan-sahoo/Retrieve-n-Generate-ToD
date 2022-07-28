@@ -1,0 +1,10 @@
+{
+   "0": "distance 1_miles traffic_info car_collision_nearby poi_type shopping_center address 338_alester_ave poi midtown_shopping_center",
+   "1": "distance 2_miles traffic_info heavy_traffic poi_type parking_garage address 610_amarillo_ave poi stanford_oval_parking",
+   "2": "distance 3_miles traffic_info car_collision_nearby poi_type coffee_or_tea_place address 583_alester_ave poi philz",
+   "3": "distance 4_miles traffic_info road_block_nearby poi_type grocery_store address 1313_chester_ave poi hacienda_market",
+   "4": "distance 2_miles traffic_info no_traffic poi_type certain_address address 5677_southwest_4th_street poi 5677_southwest_4th_street",
+   "5": "distance 4_miles traffic_info no_traffic poi_type shopping_center address 383_university_ave poi town_and_country",
+   "6": "distance 1_miles traffic_info no_traffic poi_type hospital address 611_ames_ave poi palo_alto_medical_foundation",
+   "7": "distance 7_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 269_alger_dr poi cafe_venetia"
+}

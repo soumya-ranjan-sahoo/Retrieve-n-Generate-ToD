@@ -1,0 +1,10 @@
+{
+   "0": "distance 3_miles traffic_info road_block_nearby poi_type pizza_restaurant address 113_anton_ct poi round_table",
+   "1": "distance 2_miles traffic_info car_collision_nearby poi_type rest_stop address 657_ames_ave poi the_clement_hotel",
+   "2": "distance 4_miles traffic_info heavy_traffic poi_type rest_stop address 465_arcadia_pl poi four_seasons",
+   "3": "distance 2_miles traffic_info heavy_traffic poi_type chinese_restaurant address 842_arrowhead_way poi panda_express",
+   "4": "distance 4_miles traffic_info moderate_traffic poi_type rest_stop address 333_arbol_dr poi travelers_lodge",
+   "5": "distance 2_miles traffic_info heavy_traffic poi_type pizza_restaurant address 704_el_camino_real poi pizza_hut",
+   "6": "distance 2_miles traffic_info car_collision_nearby poi_type shopping_center address 171_oak_rd poi topanga_mall",
+   "7": "distance 4_miles traffic_info car_collision_nearby poi_type shopping_center address 434_arastradero_rd poi ravenswood_shopping_center"
+}

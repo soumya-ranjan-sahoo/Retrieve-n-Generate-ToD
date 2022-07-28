@@ -1,0 +1,9 @@
+{
+   "0": "name pizza_express address regent_street_city_centre area centre food italian phone 01223324033 postcode cb21db pricerange moderate type restaurant choice one",
+   "1": "name pizza_hut_cherry_hinton address g4_cambridge_leisure_park_clifton_way_cherry_hinton area south food italian phone 01223323737 postcode cb17dy pricerange moderate type restaurant choice one",
+   "2": "name prezzo address 21_-_24_northampton_road area west food italian phone 01799521260 postcode cb30ad pricerange moderate type restaurant",
+   "3": "name stazione_restaurant_and_coffee_bar address market_hill_city_centre area centre food italian phone 01223352607 postcode cb23nj pricerange expensive type restaurant choice one",
+   "4": "name prezzo address 21_-_24_northampton_road area west food italian phone 01799521260 postcode cb30ad pricerange moderate type restaurant choice one",
+   "5": "name ask_restaurant address 12_bridge_street_city_centre area centre food italian phone 01223364917 postcode cb21uf pricerange cheap type restaurant choice one",
+   "6": "name pizza_hut_city_centre address regent_street_city_centre area centre food italian phone 01223323737 postcode cb21ab pricerange cheap type restaurant choice one"
+}

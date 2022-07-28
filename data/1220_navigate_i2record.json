@@ -1,0 +1,9 @@
+{
+   "0": "distance 3_miles traffic_info heavy_traffic poi_type parking_garage address 610_amarillo_ave poi stanford_oval_parking",
+   "1": "distance 2_miles traffic_info moderate_traffic poi_type chinese_restaurant address 593_arrowhead_way poi chef_chu_s",
+   "2": "distance 2_miles traffic_info no_traffic poi_type certain_address address 5672_barringer_street poi 5672_barringer_street",
+   "3": "distance 2_miles traffic_info moderate_traffic poi_type hospital address 611_ames_ave poi palo_alto_medical_foundation",
+   "4": "distance 3_miles traffic_info moderate_traffic poi_type home address 10_ames_street poi home",
+   "5": "distance 5_miles traffic_info no_traffic poi_type gas_station address 783_arcadia_pl poi chevron",
+   "6": "distance 3_miles traffic_info moderate_traffic poi_type friends_house address 580_van_ness_ave poi toms_house"
+}

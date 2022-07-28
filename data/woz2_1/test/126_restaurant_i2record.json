@@ -1,0 +1,9 @@
+{
+   "0": "name curry_garden address 106_regent_street_city_centre area centre food indian phone 01223302330 postcode cb21dp pricerange expensive type restaurant choice both ref wc1zy82v",
+   "1": "name the_missing_sock address finders_corner_newmarket_road area east food international phone 01223812660 postcode cb259aq pricerange cheap type restaurant choice both ref wc1zy82v",
+   "2": "name pizza_hut_city_centre address regent_street_city_centre area centre food italian phone 01223323737 postcode cb21ab pricerange cheap type restaurant choice both ref wc1zy82v",
+   "3": "name the_varsity_restaurant address 35_saint_andrews_street_city_centre area centre food international phone 01223356060 postcode cb23ar pricerange moderate type restaurant",
+   "4": "name bloomsbury_restaurant address crowne_plaza_hotel_20_downing_street area centre food international phone 08719429180 postcode cb23dt pricerange moderate type restaurant",
+   "5": "name bloomsbury_restaurant address crowne_plaza_hotel_20_downing_street area centre food international phone 08719429180 postcode cb23dt pricerange moderate type restaurant choice both ref wc1zy82v",
+   "6": "name the_varsity_restaurant address 35_saint_andrews_street_city_centre area centre food international phone 01223356060 postcode cb23ar pricerange moderate type restaurant choice both ref wc1zy82v"
+}

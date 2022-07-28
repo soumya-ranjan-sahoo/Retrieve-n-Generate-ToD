@@ -1,0 +1,9 @@
+{
+   "0": "name pizza_hut_cherry_hinton address g4_cambridge_leisure_park_clifton_way_cherry_hinton area south food italian phone 01223323737 postcode cb17dy pricerange moderate type restaurant",
+   "1": "name frankie_and_bennys address cambridge_leisure_park_clifton_way_cherry_hinton area south food italian phone 01223412430 postcode cb17dy pricerange expensive type restaurant ref c6eu44qq",
+   "2": "name pizza_hut_cherry_hinton address g4_cambridge_leisure_park_clifton_way_cherry_hinton area south food italian phone 01223323737 postcode cb17dy pricerange moderate type restaurant ref c6eu44qq",
+   "3": "name pizza_hut_city_centre address regent_street_city_centre area centre food italian phone 01223323737 postcode cb21ab pricerange cheap type restaurant ref c6eu44qq",
+   "4": "name frankie_and_bennys address cambridge_leisure_park_clifton_way_cherry_hinton area south food italian phone 01223412430 postcode cb17dy pricerange expensive type restaurant",
+   "5": "name pizza_express address regent_street_city_centre area centre food italian phone 01223324033 postcode cb21db pricerange moderate type restaurant ref c6eu44qq",
+   "6": "name stazione_restaurant_and_coffee_bar address market_hill_city_centre area centre food italian phone 01223352607 postcode cb23nj pricerange expensive type restaurant ref c6eu44qq"
+}

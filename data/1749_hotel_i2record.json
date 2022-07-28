@@ -1,0 +1,9 @@
+{
+   "0": "name a_and_b_guest_house address 124_tenison_road area east phone 01223315702 postcode cb12dp pricerange moderate stars 4_star type guesthouse choice many",
+   "1": "name acorn_guest_house address 154_chesterton_road area north phone 01223353888 postcode cb41da pricerange moderate stars 4_star type guesthouse choice many",
+   "2": "name avalon address 62_gilbert_road area north phone 01223353071 postcode cb43pd pricerange moderate stars 4_star type guesthouse choice many",
+   "3": "name ashley_hotel address 74_chesterton_road area north phone 01223350059 postcode cb41er pricerange moderate stars 2_star type hotel",
+   "4": "name alexander_bed_and_breakfast address 56_saint_barnabas_road area centre phone 01223525725 postcode cb12de pricerange cheap stars 4_star type guesthouse choice many",
+   "5": "name lovell_lodge address 365_milton_road area north phone 01223425478 postcode cb41sr pricerange moderate stars 2_star type hotel",
+   "6": "name avalon address 62_gilbert_road area north phone 01223353071 postcode cb43pd pricerange moderate stars 4_star type guesthouse"
+}

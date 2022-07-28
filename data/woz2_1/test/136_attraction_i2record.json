@@ -1,0 +1,9 @@
+{
+   "0": "name holy_trinity_church address market_street area centre phone 01223355397 postcode cb23nz pricerange free type architecture",
+   "1": "name adc_theatre address park_street area centre phone 01223300085 postcode cb58as pricerange <dontknow> type theatre",
+   "2": "name ballare address heidelberg_gardens_,_lion_yard area centre phone 01223364222 postcode cb23na pricerange moderate type nightclub",
+   "3": "name broughton_house_gallery address 98_king_street area centre phone 01223314960 postcode cb11ln pricerange free type museum",
+   "4": "name abbey_pool_and_astroturf_pitch address pool_way_,_whitehill_road_,_off_newmarket_road area east phone 01223902088 postcode cb58nt pricerange <dontknow> type swimmingpool",
+   "5": "name byard_art address 14_king_'_s_parade area south phone 01223464646 postcode cb21sj pricerange free type museum",
+   "6": "name all_saints_church address jesus_lane area centre phone 01223452587 postcode cb58bs pricerange free type architecture"
+}

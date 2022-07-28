@@ -1,0 +1,9 @@
+{
+   "0": "name the_fitzwilliam_museum address trumpington_street area centre phone 01223332900 postcode cb21rb pricerange free type museum choice 79",
+   "1": "name scott_polar_museum address lensfield_road area centre phone 01223336540 postcode cb21er pricerange free type museum choice 79",
+   "2": "name the_man_on_the_moon address 2_norfolk_street area centre phone 01223474144 postcode cb12lf pricerange <dontknow> type concerthall choice 79",
+   "3": "name broughton_house_gallery address 98_king_street area centre phone 01223314960 postcode cb11ln pricerange free type museum",
+   "4": "name little_saint_mary_'_s_church address little_saint_mary_'_s_lane area centre phone 01223366202 postcode cb21qy pricerange free type architecture choice 79",
+   "5": "name primavera address 10_king_s_parade area centre phone 01223357708 postcode cb21sj pricerange free type museum choice 79",
+   "6": "name adc_theatre address park_street area centre phone 01223300085 postcode cb58as pricerange <dontknow> type theatre choice 79"
+}

@@ -1,0 +1,10 @@
+{
+   "0": "distance 6_miles traffic_info car_collision_nearby poi_type coffee_or_tea_place address 394_van_ness_ave poi coupa",
+   "1": "distance 1_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 9981_archuleta_ave poi peets_coffee",
+   "2": "distance 1_miles traffic_info no_traffic poi_type rest_stop address 333_arbol_dr poi travelers_lodge",
+   "3": "distance 6_miles traffic_info car_collision_nearby poi_type hospital address 899_ames_ct poi stanford_childrens_health",
+   "4": "distance 6_miles traffic_info no_traffic poi_type grocery_store address 452_arcadia_pl poi safeway",
+   "5": "distance 2_miles traffic_info no_traffic poi_type parking_garage address 880_ames_ct poi webster_garage",
+   "6": "distance 2_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 583_alester_ave poi philz",
+   "7": "distance 2_miles traffic_info heavy_traffic poi_type rest_stop address 657_ames_ave poi the_clement_hotel"
+}

@@ -1,0 +1,9 @@
+{
+   "0": "name grafton_hotel_restaurant address grafton_hotel_619_newmarket_road_fen_ditton area east food british phone 01223241387 postcode cb58pa pricerange expensive type restaurant choice 6",
+   "1": "name the_cambridge_chop_house address 1_kings_parade area centre food british phone 01223359506 postcode cb21sj pricerange expensive type restaurant choice 6",
+   "2": "name fitzbillies_restaurant address 51_trumpington_street_city_centre area centre food british phone 01223352500 postcode cb21rg pricerange expensive type restaurant choice 6",
+   "3": "name travellers_rest address huntingdon_road_city_centre area west food british phone 01223276182 postcode cb30df pricerange expensive type restaurant choice 6",
+   "4": "name graffiti address hotel_felix_whitehouse_lane_huntingdon_road area west food british phone 01223277977 postcode cb30lx pricerange expensive type restaurant",
+   "5": "name graffiti address hotel_felix_whitehouse_lane_huntingdon_road area west food british phone 01223277977 postcode cb30lx pricerange expensive type restaurant choice 6",
+   "6": "name midsummer_house_restaurant address midsummer_common area centre food british phone 01223369299 postcode cb41ha pricerange expensive type restaurant choice 6"
+}

@@ -1,0 +1,9 @@
+{
+   "0": "distance 5_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 394_van_ness_ave poi coupa",
+   "1": "distance 6_miles traffic_info heavy_traffic poi_type pizza_restaurant address 113_anton_ct poi round_table",
+   "2": "distance 4_miles traffic_info no_traffic poi_type coffee_or_tea_place address 436_alger_dr poi palo_alto_cafe",
+   "3": "distance 1_miles traffic_info heavy_traffic poi_type friends_house address 580_van_ness_ave poi toms_house",
+   "4": "distance 1_miles traffic_info heavy_traffic poi_type grocery_store address 819_alma_st poi whole_foods",
+   "5": "distance 2_miles traffic_info moderate_traffic poi_type certain_address address 5672_barringer_street poi 5672_barringer_street",
+   "6": "distance 4_miles traffic_info heavy_traffic poi_type shopping_center address 434_arastradero_rd poi ravenswood_shopping_center"
+}

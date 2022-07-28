@@ -1,0 +1,10 @@
+{
+   "0": "distance 4_miles traffic_info car_collision_nearby poi_type friends_house address 864_almanor_ln poi jacks_house",
+   "1": "distance 2_miles traffic_info heavy_traffic poi_type parking_garage address 880_ames_ct poi webster_garage",
+   "2": "distance 6_miles traffic_info car_collision_nearby poi_type home address 56_cadwell_street poi home",
+   "3": "distance 4_miles traffic_info no_traffic poi_type certain_address address 5677_southwest_4th_street poi 5677_southwest_4th_street",
+   "4": "distance 3_miles traffic_info road_block_nearby poi_type shopping_center address 773_alger_dr poi stanford_shopping_center",
+   "5": "distance 6_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 269_alger_dr poi cafe_venetia",
+   "6": "distance 2_miles traffic_info moderate_traffic poi_type certain_address address 5677_springer_street poi 5677_springer_street",
+   "7": "distance 4_miles traffic_info no_traffic poi_type shopping_center address 434_arastradero_rd poi ravenswood_shopping_center"
+}

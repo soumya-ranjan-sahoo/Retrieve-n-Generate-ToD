@@ -1,0 +1,9 @@
+{
+   "0": "name gourmet_burger_kitchen address regent_street_city_centre area centre food north_american phone 01223312598 postcode cb21ab pricerange expensive type restaurant",
+   "1": "name little_seoul address 108_regent_street_city_centre area centre food korean phone 01223308681 postcode cb21dp pricerange expensive type restaurant",
+   "2": "name ugly_duckling address 12_st_._johns_street_city_centre area centre food chinese postcode cb21tw pricerange expensive type restaurant",
+   "3": "name curry_king address 5_jordans_yard_bridge_street_city_centre area centre food indian phone 01223324351 postcode cb21ug pricerange expensive type restaurant",
+   "4": "name shiraz_restaurant address 84_regent_street_city_centre area centre food mediterranean phone 01223307581 postcode cb21dp pricerange expensive type restaurant",
+   "5": "name kymmoy address 52_mill_road_city_centre area centre food asian_oriental phone 01223311911 postcode cb12as pricerange expensive type restaurant",
+   "6": "name the_golden_curry address mill_road_city_centre area centre food indian phone 01223329432 postcode cb12az pricerange expensive type restaurant"
+}

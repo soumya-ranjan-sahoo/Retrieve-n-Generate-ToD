@@ -1,0 +1,9 @@
+{
+   "0": "name the_fitzwilliam_museum address trumpington_street area centre phone 01223332900 postcode cb21rb pricerange free type museum",
+   "1": "name broughton_house_gallery address 98_king_street area centre phone 01223314960 postcode cb11ln pricerange free type museum",
+   "2": "name holy_trinity_church address market_street area centre phone 01223355397 postcode cb23nz pricerange free type architecture",
+   "3": "name primavera address 10_king_s_parade area centre phone 01223357708 postcode cb21sj pricerange free type museum",
+   "4": "name parkside_pools address gonville_place area centre phone 01223446100 postcode cb11ly pricerange <dontknow> type swimmingpool",
+   "5": "name adc_theatre address park_street area centre phone 01223300085 postcode cb58as pricerange <dontknow> type theatre",
+   "6": "name mumford_theatre address anglia_ruskin_enterprise_,_east_road area centre phone 08451962320 postcode cb11pt pricerange <dontknow> type theatre"
+}

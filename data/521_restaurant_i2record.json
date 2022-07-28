@@ -1,0 +1,9 @@
+{
+   "0": "name midsummer_house_restaurant address midsummer_common area centre food british phone 01223369299 postcode cb41ha pricerange expensive type restaurant choice a_variety ref x651if9f",
+   "1": "name fitzbillies_restaurant address 51_trumpington_street_city_centre area centre food british phone 01223352500 postcode cb21rg pricerange expensive type restaurant choice a_variety ref x651if9f",
+   "2": "name kymmoy address 52_mill_road_city_centre area centre food asian_oriental phone 01223311911 postcode cb12as pricerange expensive type restaurant",
+   "3": "name bedouin address 100_mill_road_city_centre area centre food african phone 01223367660 postcode cb12bd pricerange expensive type restaurant",
+   "4": "name saffron_brasserie address hills_road_city_centre area centre food indian phone 01223354679 postcode cb21la pricerange expensive type restaurant choice a_variety ref x651if9f",
+   "5": "name the_slug_and_lettuce address 34_-_35_green_street area centre food gastropub postcode cb23ju pricerange expensive type restaurant choice a_variety ref x651if9f",
+   "6": "name little_seoul address 108_regent_street_city_centre area centre food korean phone 01223308681 postcode cb21dp pricerange expensive type restaurant choice a_variety ref x651if9f"
+}

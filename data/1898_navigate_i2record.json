@@ -1,0 +1,9 @@
+{
+   "0": "distance 5_miles traffic_info no_traffic poi_type coffee_or_tea_place address 436_alger_dr poi palo_alto_cafe",
+   "1": "distance 5_miles traffic_info no_traffic poi_type parking_garage address 610_amarillo_ave poi stanford_oval_parking",
+   "2": "distance 5_miles traffic_info heavy_traffic poi_type certain_address address 5672_barringer_street poi 5672_barringer_street",
+   "3": "distance 2_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 583_alester_ave poi philz",
+   "4": "distance 3_miles traffic_info no_traffic poi_type hospital address 214_el_camino_real poi stanford_express_care",
+   "5": "distance 4_miles traffic_info heavy_traffic poi_type friends_house address 347_alta_mesa_ave poi jills_house",
+   "6": "distance 4_miles traffic_info no_traffic poi_type rest_stop address 329_el_camino_real poi the_westin"
+}

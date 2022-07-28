@@ -1,0 +1,9 @@
+{
+   "0": "name gonville_hotel address gonville_place area centre phone 01223366611 postcode cb11ly pricerange expensive stars 3_star type hotel choice 2 ref o8vh7vl6",
+   "1": "name the_lensfield_hotel address 53-57_lensfield_road area south phone 01223355017 postcode cb21en pricerange expensive stars 3_star type hotel choice 2 ref o8vh7vl6",
+   "2": "name allenbell address 517a_coldham_lane area east phone 01223210353 postcode cb13js pricerange cheap stars 4_star type guesthouse choice 2 ref o8vh7vl6",
+   "3": "name a_and_b_guest_house address 124_tenison_road area east phone 01223315702 postcode cb12dp pricerange moderate stars 4_star type guesthouse choice 2 ref o8vh7vl6",
+   "4": "name acorn_guest_house address 154_chesterton_road area north phone 01223353888 postcode cb41da pricerange moderate stars 4_star type guesthouse choice 2 ref o8vh7vl6",
+   "5": "name alexander_bed_and_breakfast address 56_saint_barnabas_road area centre phone 01223525725 postcode cb12de pricerange cheap stars 4_star type guesthouse choice 2 ref o8vh7vl6",
+   "6": "name gonville_hotel address gonville_place area centre phone 01223366611 postcode cb11ly pricerange expensive stars 3_star type hotel"
+}

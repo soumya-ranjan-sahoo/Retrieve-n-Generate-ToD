@@ -1,0 +1,10 @@
+{
+   "0": "distance 5_miles traffic_info car_collision_nearby poi_type pizza_restaurant address 113_anton_ct poi round_table",
+   "1": "distance 5_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 583_alester_ave poi philz",
+   "2": "distance 2_miles traffic_info no_traffic poi_type pizza_restaurant address 110_arastradero_rd poi papa_johns",
+   "3": "distance 5_miles traffic_info heavy_traffic poi_type rest_stop address 578_arbol_dr poi hotel_keen",
+   "4": "distance 6_miles traffic_info heavy_traffic poi_type pizza_restaurant address 915_arbol_dr poi pizza_chicago",
+   "5": "distance 6_miles traffic_info car_collision_nearby poi_type rest_stop address 465_arcadia_pl poi four_seasons",
+   "6": "distance 4_miles traffic_info road_block_nearby poi_type parking_garage address 550_alester_ave poi dish_parking",
+   "7": "distance 3_miles traffic_info moderate_traffic poi_type grocery_store address 409_bollard_st poi willows_market"
+}

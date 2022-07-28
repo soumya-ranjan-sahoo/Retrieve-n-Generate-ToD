@@ -1,0 +1,10 @@
+{
+   "0": "distance 5_miles traffic_info car_collision_nearby poi_type home address 5671_barringer_street poi home",
+   "1": "distance 6_miles traffic_info car_collision_nearby poi_type pizza_restaurant address 528_anton_ct poi pizza_my_heart",
+   "2": "distance 6_miles traffic_info moderate_traffic poi_type hospital address 214_el_camino_real poi stanford_express_care",
+   "3": "distance 4_miles traffic_info heavy_traffic poi_type gas_station address 91_el_camino_real poi 76",
+   "4": "distance 7_miles traffic_info moderate_traffic poi_type shopping_center address 773_alger_dr poi stanford_shopping_center",
+   "5": "distance 2_miles traffic_info heavy_traffic poi_type pizza_restaurant address 110_arastradero_rd poi papa_johns",
+   "6": "distance 2_miles traffic_info road_block_nearby poi_type coffee_or_tea_place address 436_alger_dr poi palo_alto_cafe",
+   "7": "distance 6_miles traffic_info heavy_traffic poi_type certain_address address 5677_southwest_4th_street poi 5677_southwest_4th_street"
+}

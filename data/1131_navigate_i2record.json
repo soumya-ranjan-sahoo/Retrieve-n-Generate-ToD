@@ -1,0 +1,9 @@
+{
+   "0": "distance 5_miles traffic_info no_traffic poi_type rest_stop address 578_arbol_dr poi hotel_keen",
+   "1": "distance 4_miles traffic_info heavy_traffic poi_type parking_garage address 550_alester_ave poi dish_parking",
+   "2": "distance 5_miles traffic_info moderate_traffic poi_type home address 10_ames_street poi home",
+   "3": "distance 5_miles traffic_info moderate_traffic poi_type hospital address 214_el_camino_real poi stanford_express_care",
+   "4": "distance 5_miles traffic_info no_traffic poi_type friends_house address 864_almanor_ln poi jacks_house",
+   "5": "distance 6_miles traffic_info moderate_traffic poi_type chinese_restaurant address 669_el_camino_real poi p_._f_._changs",
+   "6": "distance 5_miles traffic_info heavy_traffic poi_type hospital address 611_ames_ave poi palo_alto_medical_foundation"
+}

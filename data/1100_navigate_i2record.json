@@ -1,0 +1,10 @@
+{
+   "0": "distance 4_miles traffic_info road_block_nearby poi_type parking_garage address 270_altaire_walk poi civic_center_garage",
+   "1": "distance 2_miles traffic_info car_collision_nearby poi_type gas_station address 53_university_av poi shell",
+   "2": "distance 6_miles traffic_info moderate_traffic poi_type certain_address address 5677_southwest_4th_street poi 5677_southwest_4th_street",
+   "3": "distance 6_miles traffic_info no_traffic poi_type hospital address 899_ames_ct poi stanford_childrens_health",
+   "4": "distance 1_miles traffic_info no_traffic poi_type home address 10_ames_street poi home",
+   "5": "distance 5_miles traffic_info moderate_traffic poi_type friends_house address 347_alta_mesa_ave poi jills_house",
+   "6": "distance 4_miles traffic_info car_collision_nearby poi_type pizza_restaurant address 704_el_camino_real poi pizza_hut",
+   "7": "distance 1_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 583_alester_ave poi philz"
+}

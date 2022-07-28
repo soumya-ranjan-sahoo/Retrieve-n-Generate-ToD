@@ -1,0 +1,10 @@
+{
+   "0": "distance 1_miles traffic_info road_block_nearby poi_type coffee_or_tea_place address 583_alester_ave poi philz",
+   "1": "distance 6_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 269_alger_dr poi cafe_venetia",
+   "2": "distance 6_miles traffic_info road_block_nearby poi_type pizza_restaurant address 110_arastradero_rd poi papa_johns",
+   "3": "distance 4_miles traffic_info no_traffic poi_type home address 5671_barringer_street poi home",
+   "4": "distance 6_miles traffic_info road_block_nearby poi_type grocery_store address 819_alma_st poi whole_foods",
+   "5": "distance 1_miles traffic_info heavy_traffic poi_type pizza_restaurant address 915_arbol_dr poi pizza_chicago",
+   "6": "distance 7_miles traffic_info car_collision_nearby poi_type chinese_restaurant address 842_arrowhead_way poi panda_express",
+   "7": "distance 2_miles traffic_info car_collision_nearby poi_type home address 10_ames_street poi home"
+}

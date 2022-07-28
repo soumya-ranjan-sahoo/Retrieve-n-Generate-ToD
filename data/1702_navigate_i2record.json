@@ -1,0 +1,9 @@
+{
+   "0": "distance 3_miles traffic_info heavy_traffic poi_type coffee_or_tea_place address 583_alester_ave poi philz",
+   "1": "distance 4_miles traffic_info moderate_traffic poi_type grocery_store address 452_arcadia_pl poi safeway",
+   "2": "distance 3_miles traffic_info moderate_traffic poi_type certain_address address 5672_barringer_street poi 5672_barringer_street",
+   "3": "distance 6_miles traffic_info moderate_traffic poi_type home address 5671_barringer_street poi home",
+   "4": "distance 2_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 145_amherst_st poi teavana",
+   "5": "distance 4_miles traffic_info no_traffic poi_type chinese_restaurant address 830_almanor_ln poi tai_pan",
+   "6": "distance 5_miles traffic_info no_traffic poi_type hospital address 899_ames_ct poi stanford_childrens_health"
+}

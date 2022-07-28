@@ -1,0 +1,9 @@
+{
+   "0": "name golden_house address 12_lensfield_road_city_centre area centre food chinese phone 01842753771 postcode cb21eg pricerange cheap type restaurant",
+   "1": "name la_raza address 4_-_6_rose_crescent area centre food spanish phone 01223464550 postcode cb23ll pricerange cheap type restaurant",
+   "2": "name pizza_hut_city_centre address regent_street_city_centre area centre food italian phone 01223323737 postcode cb21ab pricerange cheap type restaurant choice two ref c3nr2dw2",
+   "3": "name charlie_chan address regent_street_city_centre area centre food chinese phone 01223361763 postcode cb21db pricerange cheap type restaurant",
+   "4": "name the_missing_sock address finders_corner_newmarket_road area east food international phone 01223812660 postcode cb259aq pricerange cheap type restaurant choice two ref c3nr2dw2",
+   "5": "name rice_house address 88_mill_road_city_centre area centre food chinese phone 01223367755 postcode cb12bd pricerange cheap type restaurant",
+   "6": "name la_raza address 4_-_6_rose_crescent area centre food spanish phone 01223464550 postcode cb23ll pricerange cheap type restaurant choice two ref c3nr2dw2"
+}

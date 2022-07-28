@@ -1,0 +1,10 @@
+{
+   "0": "distance 6_miles traffic_info heavy_traffic poi_type hospital address 899_ames_ct poi stanford_childrens_health",
+   "1": "distance 8_miles traffic_info no_traffic poi_type coffee_or_tea_place address 145_amherst_st poi teavana",
+   "2": "distance 3_miles traffic_info moderate_traffic poi_type parking_garage address 610_amarillo_ave poi stanford_oval_parking",
+   "3": "distance 4_miles traffic_info car_collision_nearby poi_type pizza_restaurant address 915_arbol_dr poi pizza_chicago",
+   "4": "distance 6_miles traffic_info car_collision_nearby poi_type parking_garage address 550_alester_ave poi dish_parking",
+   "5": "distance 2_miles traffic_info heavy_traffic poi_type rest_stop address 465_arcadia_pl poi four_seasons",
+   "6": "distance 1_miles traffic_info heavy_traffic poi_type chinese_restaurant address 593_arrowhead_way poi chef_chu_s",
+   "7": "distance 2_miles traffic_info car_collision_nearby poi_type pizza_restaurant address 110_arastradero_rd poi papa_johns"
+}

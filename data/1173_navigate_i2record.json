@@ -1,0 +1,10 @@
+{
+   "0": "distance 1_miles traffic_info moderate_traffic poi_type rest_stop address 333_arbol_dr poi travelers_lodge",
+   "1": "distance 4_miles traffic_info moderate_traffic poi_type pizza_restaurant address 110_arastradero_rd poi papa_johns",
+   "2": "distance 2_miles traffic_info road_block_nearby poi_type shopping_center address 338_alester_ave poi midtown_shopping_center",
+   "3": "distance 2_miles traffic_info car_collision_nearby poi_type pizza_restaurant address 704_el_camino_real poi pizza_hut",
+   "4": "distance 5_miles traffic_info heavy_traffic poi_type chinese_restaurant address 271_springer_street poi mandarin_roots",
+   "5": "distance 2_miles traffic_info heavy_traffic poi_type rest_stop address 753_university_ave poi comfort_inn",
+   "6": "distance 5_miles traffic_info heavy_traffic poi_type shopping_center address 434_arastradero_rd poi ravenswood_shopping_center",
+   "7": "distance 5_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 145_amherst_st poi teavana"
+}

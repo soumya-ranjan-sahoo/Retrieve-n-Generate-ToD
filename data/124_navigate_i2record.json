@@ -1,0 +1,10 @@
+{
+   "0": "distance 2_miles traffic_info moderate_traffic poi_type shopping_center address 171_oak_rd poi topanga_mall",
+   "1": "distance 6_miles traffic_info moderate_traffic poi_type shopping_center address 773_alger_dr poi stanford_shopping_center",
+   "2": "distance 1_miles traffic_info moderate_traffic poi_type rest_stop address 578_arbol_dr poi hotel_keen",
+   "3": "distance 1_miles traffic_info heavy_traffic poi_type certain_address address 5677_southwest_4th_street poi 5677_southwest_4th_street",
+   "4": "distance 6_miles traffic_info no_traffic poi_type coffee_or_tea_place address 269_alger_dr poi cafe_venetia",
+   "5": "distance 5_miles traffic_info no_traffic poi_type shopping_center address 338_alester_ave poi midtown_shopping_center",
+   "6": "distance 6_miles traffic_info no_traffic poi_type shopping_center address 383_university_ave poi town_and_country",
+   "7": "distance 3_miles traffic_info heavy_traffic poi_type home address 56_cadwell_street poi home"
+}

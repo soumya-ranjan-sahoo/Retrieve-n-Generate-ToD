@@ -1,0 +1,9 @@
+{
+   "0": "name the_fitzwilliam_museum address trumpington_street area centre phone 01223332900 postcode cb21rb pricerange free type museum choice 11",
+   "1": "name ruskin_gallery address anglia_ruskin_university_,_east_road area centre phone 01245493131 postcode cb11pt pricerange free type museum choice 11",
+   "2": "name broughton_house_gallery address 98_king_street area centre phone 01223314960 postcode cb11ln pricerange free type museum",
+   "3": "name cambridge_contemporary_art address 6_trinity_street area centre phone 01223324222 postcode cb21su pricerange free type museum choice 11",
+   "4": "name broughton_house_gallery address 98_king_street area centre phone 01223314960 postcode cb11ln pricerange free type museum choice 11",
+   "5": "name regency_gallery address 39_fitzroy_street area centre phone 01223365454 postcode cb11er pricerange free type museum choice 11",
+   "6": "name museum_of_archaelogy_and_anthropology address university_of_cambridge_,_downing_street area centre phone 01223333516 postcode cb23dz pricerange free type museum choice 11"
+}

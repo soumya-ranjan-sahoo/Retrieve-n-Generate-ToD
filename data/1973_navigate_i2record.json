@@ -1,0 +1,10 @@
+{
+   "0": "distance 6_miles traffic_info road_block_nearby poi_type shopping_center address 171_oak_rd poi topanga_mall",
+   "1": "distance 4_miles traffic_info heavy_traffic poi_type chinese_restaurant address 842_arrowhead_way poi panda_express",
+   "2": "distance 2_miles traffic_info car_collision_nearby poi_type chinese_restaurant address 593_arrowhead_way poi chef_chu_s",
+   "3": "distance 2_miles traffic_info car_collision_nearby poi_type grocery_store address 408_university_ave poi trader_joes",
+   "4": "distance 5_miles traffic_info heavy_traffic poi_type pizza_restaurant address 776_arastradero_rd poi dominos",
+   "5": "distance 4_miles traffic_info car_collision_nearby poi_type grocery_store address 452_arcadia_pl poi safeway",
+   "6": "distance 4_miles traffic_info road_block_nearby poi_type parking_garage address 610_amarillo_ave poi stanford_oval_parking",
+   "7": "distance 1_miles traffic_info car_collision_nearby poi_type parking_garage address 270_altaire_walk poi civic_center_garage"
+}

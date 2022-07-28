@@ -1,0 +1,9 @@
+{
+   "0": "name cambridge_arts_theatre address 6_saint_edward_'_s_passage area centre phone 01223503333 postcode cb23pj pricerange <dontknow> type theatre choice many",
+   "1": "name the_cambridge_corn_exchange address wheeler_street area centre phone 01223357851 postcode cb23qe pricerange <dontknow> type theatre choice many",
+   "2": "name all_saints_church address jesus_lane area centre phone 01223452587 postcode cb58bs pricerange free type architecture choice many",
+   "3": "name castle_galleries address unit_su43_,_grande_arcade_,_saint_andrews_street area centre phone 01223307402 postcode cb23bj pricerange free type museum",
+   "4": "name old_schools address trinity_lane area centre phone 01223332320 postcode cb21tt pricerange free type architecture choice many",
+   "5": "name cambridge_contemporary_art address 6_trinity_street area centre phone 01223324222 postcode cb21su pricerange free type museum choice many",
+   "6": "name saint_catharine_'_s_college address king_'_s_parade area centre phone 01223338300 postcode cb21rl pricerange free type college choice many"
+}

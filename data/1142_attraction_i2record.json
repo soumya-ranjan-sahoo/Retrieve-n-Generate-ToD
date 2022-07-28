@@ -1,0 +1,9 @@
+{
+   "0": "name great_saint_mary_'_s_church address market_square area centre phone 01223350914 postcode cb23pq pricerange cheap type architecture",
+   "1": "name emmanuel_college address saint_andrew_'_s_street area centre phone 01223334200 postcode cb23ap pricerange free type college choice 44",
+   "2": "name little_saint_mary_'_s_church address little_saint_mary_'_s_lane area centre phone 01223366202 postcode cb21qy pricerange free type architecture choice 44",
+   "3": "name parkside_pools address gonville_place area centre phone 01223446100 postcode cb11ly pricerange <dontknow> type swimmingpool choice 44",
+   "4": "name mumford_theatre address anglia_ruskin_enterprise_,_east_road area centre phone 08451962320 postcode cb11pt pricerange <dontknow> type theatre choice 44",
+   "5": "name club_salsa address 1_station_road area centre phone 07782218745 postcode cb12jb pricerange moderate type nightclub choice 44",
+   "6": "name great_saint_mary_'_s_church address market_square area centre phone 01223350914 postcode cb23pq pricerange cheap type architecture choice 44"
+}

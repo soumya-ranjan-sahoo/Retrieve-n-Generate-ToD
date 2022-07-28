@@ -1,0 +1,10 @@
+{
+   "0": "distance 5_miles traffic_info moderate_traffic poi_type parking_garage address 610_amarillo_ave poi stanford_oval_parking",
+   "1": "distance 3_miles traffic_info car_collision_nearby poi_type coffee_or_tea_place address 269_alger_dr poi cafe_venetia",
+   "2": "distance 1_miles traffic_info road_block_nearby poi_type gas_station address 200_alester_ave poi valero",
+   "3": "distance 7_miles traffic_info road_block_nearby poi_type gas_station address 91_el_camino_real poi 76",
+   "4": "distance 1_miles traffic_info car_collision_nearby poi_type pizza_restaurant address 110_arastradero_rd poi papa_johns",
+   "5": "distance 3_miles traffic_info heavy_traffic poi_type friends_house address 347_alta_mesa_ave poi jills_house",
+   "6": "distance 6_miles traffic_info car_collision_nearby poi_type pizza_restaurant address 776_arastradero_rd poi dominos",
+   "7": "distance 4_miles traffic_info road_block_nearby poi_type grocery_store address 1313_chester_ave poi hacienda_market"
+}

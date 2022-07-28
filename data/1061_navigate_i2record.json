@@ -1,0 +1,10 @@
+{
+   "0": "distance 6_miles traffic_info car_collision_nearby poi_type parking_garage address 550_alester_ave poi dish_parking",
+   "1": "distance 4_miles traffic_info heavy_traffic poi_type shopping_center address 773_alger_dr poi stanford_shopping_center",
+   "2": "distance 6_miles traffic_info road_block_nearby poi_type pizza_restaurant address 110_arastradero_rd poi papa_johns",
+   "3": "distance 1_miles traffic_info road_block_nearby poi_type grocery_store address 452_arcadia_pl poi safeway",
+   "4": "distance 1_miles traffic_info no_traffic poi_type certain_address address 5672_barringer_street poi 5672_barringer_street",
+   "5": "distance 3_miles traffic_info no_traffic poi_type home address 10_ames_street poi home",
+   "6": "distance 3_miles traffic_info car_collision_nearby poi_type chinese_restaurant address 271_springer_street poi mandarin_roots",
+   "7": "distance 3_miles traffic_info road_block_nearby poi_type coffee_or_tea_place address 436_alger_dr poi palo_alto_cafe"
+}

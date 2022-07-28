@@ -1,0 +1,9 @@
+{
+   "0": "name darrys_cookhouse_and_wine_shop address 40270_king_street_city_centre area centre food modern_european phone 01223505015 postcode cb11ln pricerange expensive type restaurant",
+   "1": "name de_luca_cucina_and_bar address 83_regent_street area centre food modern_european phone 01223356666 postcode cb21aw pricerange moderate type restaurant choice several",
+   "2": "name restaurant_alimentum address 152_-_154_hills_road area south food modern_european phone 01223413000 postcode cb28pb pricerange moderate type restaurant choice several",
+   "3": "name pizza_hut_city_centre address regent_street_city_centre area centre food italian phone 01223323737 postcode cb21ab pricerange cheap type restaurant choice several",
+   "4": "name riverside_brasserie address doubletree_by_hilton_cambridge_granta_place_mill_lane area centre food modern_european phone 01223259988 postcode cb21rt pricerange moderate type restaurant choice several",
+   "5": "name the_river_bar_steakhouse_and_grill address quayside_off_bridge_street area centre food modern_european phone 01223307030 postcode cb58aq pricerange cheap type restaurant choice several",
+   "6": "name darrys_cookhouse_and_wine_shop address 40270_king_street_city_centre area centre food modern_european phone 01223505015 postcode cb11ln pricerange expensive type restaurant choice several"
+}

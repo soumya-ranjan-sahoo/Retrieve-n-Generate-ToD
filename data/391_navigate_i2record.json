@@ -1,0 +1,10 @@
+{
+   "0": "distance 2_miles traffic_info no_traffic poi_type chinese_restaurant address 113_arbol_dr poi jing_jing",
+   "1": "distance 6_miles traffic_info road_block_nearby poi_type chinese_restaurant address 271_springer_street poi mandarin_roots",
+   "2": "distance 4_miles traffic_info heavy_traffic poi_type rest_stop address 578_arbol_dr poi hotel_keen",
+   "3": "distance 7_miles traffic_info road_block_nearby poi_type shopping_center address 434_arastradero_rd poi ravenswood_shopping_center",
+   "4": "distance 3_miles traffic_info car_collision_nearby poi_type coffee_or_tea_place address 394_van_ness_ave poi coupa",
+   "5": "distance 2_miles traffic_info heavy_traffic poi_type pizza_restaurant address 528_anton_ct poi pizza_my_heart",
+   "6": "distance 4_miles traffic_info no_traffic poi_type parking_garage address 550_alester_ave poi dish_parking",
+   "7": "distance 3_miles traffic_info car_collision_nearby poi_type rest_stop address 333_arbol_dr poi travelers_lodge"
+}

@@ -1,0 +1,10 @@
+{
+   "0": "distance 6_miles traffic_info heavy_traffic poi_type parking_garage address 610_amarillo_ave poi stanford_oval_parking",
+   "1": "distance 5_miles traffic_info no_traffic poi_type pizza_restaurant address 113_anton_ct poi round_table",
+   "2": "distance 3_miles traffic_info moderate_traffic poi_type rest_stop address 333_arbol_dr poi travelers_lodge",
+   "3": "distance 5_miles traffic_info no_traffic poi_type grocery_store address 819_alma_st poi whole_foods",
+   "4": "distance 4_miles traffic_info car_collision_nearby poi_type coffee_or_tea_place address 9981_archuleta_ave poi peets_coffee",
+   "5": "distance 2_miles traffic_info moderate_traffic poi_type parking_garage address 481_amaranta_ave poi palo_alto_garage_r",
+   "6": "distance 5_miles traffic_info road_block_nearby poi_type coffee_or_tea_place address 436_alger_dr poi palo_alto_cafe",
+   "7": "distance 5_miles traffic_info moderate_traffic poi_type friends_house address 347_alta_mesa_ave poi jills_house"
+}

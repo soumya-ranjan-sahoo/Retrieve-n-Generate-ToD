@@ -1,0 +1,9 @@
+{
+   "0": "distance 6_miles traffic_info heavy_traffic poi_type gas_station address 783_arcadia_pl poi chevron",
+   "1": "distance 6_miles traffic_info no_traffic poi_type rest_stop address 578_arbol_dr poi hotel_keen",
+   "2": "distance 5_miles traffic_info heavy_traffic poi_type shopping_center address 773_alger_dr poi stanford_shopping_center",
+   "3": "distance 4_miles traffic_info moderate_traffic poi_type grocery_store address 819_alma_st poi whole_foods",
+   "4": "distance 6_miles traffic_info moderate_traffic poi_type friends_house address 580_van_ness_ave poi toms_house",
+   "5": "distance 4_miles traffic_info heavy_traffic poi_type parking_garage address 610_amarillo_ave poi stanford_oval_parking",
+   "6": "distance 5_miles traffic_info no_traffic poi_type grocery_store address 408_university_ave poi trader_joes"
+}

@@ -1,0 +1,9 @@
+{
+   "0": "distance 6_miles traffic_info no_traffic poi_type chinese_restaurant address 669_el_camino_real poi p_._f_._changs",
+   "1": "distance 6_miles traffic_info moderate_traffic poi_type shopping_center address 383_university_ave poi town_and_country",
+   "2": "distance 5_miles traffic_info no_traffic poi_type home address 5671_barringer_street poi home",
+   "3": "distance 4_miles traffic_info moderate_traffic poi_type chinese_restaurant address 113_arbol_dr poi jing_jing",
+   "4": "distance 6_miles traffic_info moderate_traffic poi_type shopping_center address 434_arastradero_rd poi ravenswood_shopping_center",
+   "5": "distance 2_miles traffic_info no_traffic poi_type hospital address 899_ames_ct poi stanford_childrens_health",
+   "6": "distance 4_miles traffic_info no_traffic poi_type chinese_restaurant address 830_almanor_ln poi tai_pan"
+}

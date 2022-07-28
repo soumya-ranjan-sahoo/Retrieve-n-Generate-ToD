@@ -10,7 +10,7 @@ pip install -r requirements.txt
 
 ## Pre-processing
 ### IR (indexing):
-Generate indices (pkl) files by running:
+Generate indices (.pkl files) by running:
 ```
 python generate_denseidx.py
 ```

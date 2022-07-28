@@ -1,6 +1,6 @@
 # Retrieval-Augmented-Generative-ToDs
 
-## This work is carried out as part of the MSc thesis at the faculty of Mathematics and Computer Science, Saarland University and Fraunhofer IAIS.
+## This work is carried out as part of the Master's thesis at the faculty of Mathematics and Computer Science, Saarland University and Fraunhofer IAIS.
 
 ### Installation
 ```
@@ -32,7 +32,7 @@ python eval.py --generate runs/gpt2/incar --dataset incar --generation_params_fi
 ```
 The program will automatically pick the best model from the directory for the evaluation.
 
-### Refactored structure of each dialogue
+### Refactored structure of dialogues
 ```
  {
       "task": "hotel",

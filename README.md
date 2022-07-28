@@ -25,8 +25,6 @@ For single GPU run:
 python train.py
 ```
 
-Training parameters:
-- To be added
 
 ### Evaluation
 ```
@@ -102,8 +100,5 @@ The program will automatically pick the best model from the directory for the ev
    }
    
 ```
-###  Interactive IR
-```
-python ir_indexing.py --interactive
-```
+
 

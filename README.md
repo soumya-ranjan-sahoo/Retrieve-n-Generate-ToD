@@ -85,7 +85,7 @@ The program will automatically pick the best model from the directory for the ev
             "type": "guesthouse",
             "choice": "13",
             "ref": "2asa82vj"
-         }
+         }]}
 ```
 
 

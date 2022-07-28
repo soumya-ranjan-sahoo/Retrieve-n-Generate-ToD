@@ -1,0 +1,10 @@
+{
+   "0": "distance 2_miles traffic_info no_traffic poi_type coffee_or_tea_place address 394_van_ness_ave poi coupa",
+   "1": "distance 4_miles traffic_info heavy_traffic poi_type parking_garage address 270_altaire_walk poi civic_center_garage",
+   "2": "distance 5_miles traffic_info no_traffic poi_type coffee_or_tea_place address 269_alger_dr poi cafe_venetia",
+   "3": "distance 6_miles traffic_info car_collision_nearby poi_type parking_garage address 610_amarillo_ave poi stanford_oval_parking",
+   "4": "distance 4_miles traffic_info no_traffic poi_type shopping_center address 338_alester_ave poi midtown_shopping_center",
+   "5": "distance 5_miles traffic_info moderate_traffic poi_type rest_stop address 465_arcadia_pl poi four_seasons",
+   "6": "distance 6_miles traffic_info heavy_traffic poi_type hospital address 899_ames_ct poi stanford_childrens_health",
+   "7": "distance 2_miles traffic_info moderate_traffic poi_type friends_house address 347_alta_mesa_ave poi jills_house"
+}

@@ -1,0 +1,9 @@
+{
+   "0": "name a_and_b_guest_house address 124_tenison_road area east phone 01223315702 postcode cb12dp pricerange moderate stars 4_star type guesthouse",
+   "1": "name cityroomz address sleeperz_hotel,_station_road area centre phone 01223304050 postcode cb12tz pricerange moderate stars 0_star type hotel choice a_few ref 0j08kugq",
+   "2": "name university_arms_hotel address regent_street area centre phone 01223351241 postcode cb21ad pricerange expensive stars 4_star type hotel choice a_few ref 0j08kugq",
+   "3": "name express_by_holiday_inn_cambridge address 15-17_norman_way,_coldhams_business_park area east phone 01223866800 postcode cb13lh pricerange expensive stars 2_star type hotel choice a_few ref 0j08kugq",
+   "4": "name huntingdon_marriott_hotel address kingfisher_way,_hinchinbrook_business_park,_huntingdon area west phone 01480446000 postcode pe296fl pricerange expensive stars 4_star type hotel choice a_few ref 0j08kugq",
+   "5": "name ashley_hotel address 74_chesterton_road area north phone 01223350059 postcode cb41er pricerange moderate stars 2_star type hotel choice a_few ref 0j08kugq",
+   "6": "name the_cambridge_belfry address back_lane,_cambourne area west phone 01954714600 postcode cb236bw pricerange cheap stars 4_star type hotel choice a_few ref 0j08kugq"
+}

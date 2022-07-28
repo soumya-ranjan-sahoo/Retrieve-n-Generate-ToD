@@ -1,0 +1,9 @@
+{
+   "0": "name sidney_sussex_college address sidney_street area centre phone 01223338800 postcode cb23hu pricerange free type college choice many",
+   "1": "name downing_college address regent_street area centre phone 01223334860 postcode cb21dq pricerange free type college",
+   "2": "name king_'_s_college address king_'_s_parade area centre phone 01223331100 postcode cb21st pricerange free type college choice many",
+   "3": "name christ_'_s_college address saint_andrew_'_s_street area centre phone 01223334900 postcode cb23bu pricerange free type college choice many",
+   "4": "name saint_catharine_'_s_college address king_'_s_parade area centre phone 01223338300 postcode cb21rl pricerange free type college choice many",
+   "5": "name saint_john_'_s_college address saint_john_'_s_street area centre phone 01223338600 postcode cb21tp pricerange moderate type college choice many",
+   "6": "name pembroke_college address trumpington_street area centre phone 01223338100 postcode cb21rf pricerange free type college choice many"
+}

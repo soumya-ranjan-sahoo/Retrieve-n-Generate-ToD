@@ -1,0 +1,9 @@
+{
+   "0": "name the_cambridge_punter address 251a_chesterton_road area centre phone 07807718591 postcode cb41as pricerange <dontknow> type boat choice plenty",
+   "1": "name trinity_college address trinity_street area centre phone 01223338400 postcode cb21tq pricerange cheap type college choice plenty",
+   "2": "name club_salsa address 1_station_road area centre phone 07782218745 postcode cb12jb pricerange moderate type nightclub",
+   "3": "name ballare address heidelberg_gardens_,_lion_yard area centre phone 01223364222 postcode cb23na pricerange moderate type nightclub choice plenty",
+   "4": "name mumford_theatre address anglia_ruskin_enterprise_,_east_road area centre phone 08451962320 postcode cb11pt pricerange <dontknow> type theatre choice plenty",
+   "5": "name the_fez_club address 8_market_passage area centre phone 01223519224 postcode cb23hx pricerange moderate type nightclub choice plenty",
+   "6": "name cambridge_university_botanic_gardens address bateman_street area centre phone 01223336265 postcode cb21jf pricerange moderate type park choice plenty"
+}

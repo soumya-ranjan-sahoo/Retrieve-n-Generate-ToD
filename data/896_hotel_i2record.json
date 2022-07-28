@@ -1,0 +1,9 @@
+{
+   "0": "name bridge_guest_house address 151_hills_road area south phone 01223247942 postcode cb28rj pricerange moderate stars 3_star type guesthouse",
+   "1": "name alpha-milton_guest_house address 63_milton_road area north phone 01223311625 postcode cb41xa pricerange moderate stars 3_star type guesthouse choice 3 ref bwmdvcv1",
+   "2": "name a_and_b_guest_house address 124_tenison_road area east phone 01223315702 postcode cb12dp pricerange moderate stars 4_star type guesthouse choice 3 ref bwmdvcv1",
+   "3": "name acorn_guest_house address 154_chesterton_road area north phone 01223353888 postcode cb41da pricerange moderate stars 4_star type guesthouse choice 3 ref bwmdvcv1",
+   "4": "name archway_house address 52_gilbert_road area north phone 01223575314 postcode cb43pe pricerange moderate stars 4_star type guesthouse choice 3 ref bwmdvcv1",
+   "5": "name hobsons_house address 96_barton_road area west phone 01223304906 postcode cb39lh pricerange moderate stars 3_star type guesthouse choice 3 ref bwmdvcv1",
+   "6": "name arbury_lodge_guesthouse address 82_arbury_road area north phone 01223364319 postcode cb42je pricerange moderate stars 4_star type guesthouse choice 3 ref bwmdvcv1"
+}

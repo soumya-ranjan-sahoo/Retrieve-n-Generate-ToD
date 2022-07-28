@@ -1,0 +1,10 @@
+{
+   "0": "distance 3_miles traffic_info no_traffic poi_type chinese_restaurant address 593_arrowhead_way poi chef_chu_s",
+   "1": "distance 1_miles traffic_info no_traffic poi_type chinese_restaurant address 669_el_camino_real poi p_._f_._changs",
+   "2": "distance 5_miles traffic_info road_block_nearby poi_type gas_station address 200_alester_ave poi valero",
+   "3": "distance 3_miles traffic_info no_traffic poi_type pizza_restaurant address 528_anton_ct poi pizza_my_heart",
+   "4": "distance 4_miles traffic_info heavy_traffic poi_type rest_stop address 753_university_ave poi comfort_inn",
+   "5": "distance 5_miles traffic_info heavy_traffic poi_type chinese_restaurant address 842_arrowhead_way poi panda_express",
+   "6": "distance 2_miles traffic_info heavy_traffic poi_type pizza_restaurant address 704_el_camino_real poi pizza_hut",
+   "7": "distance 6_miles traffic_info no_traffic poi_type friends_house address 864_almanor_ln poi jacks_house"
+}

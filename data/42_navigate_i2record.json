@@ -1,0 +1,10 @@
+{
+   "0": "distance 1_miles traffic_info heavy_traffic poi_type certain_address address 5677_southwest_4th_street poi 5677_southwest_4th_street",
+   "1": "distance 5_miles traffic_info heavy_traffic poi_type pizza_restaurant address 704_el_camino_real poi pizza_hut",
+   "2": "distance 3_miles traffic_info car_collision_nearby poi_type grocery_store address 408_university_ave poi trader_joes",
+   "3": "distance 5_miles traffic_info no_traffic poi_type hospital address 899_ames_ct poi stanford_childrens_health",
+   "4": "distance 2_miles traffic_info car_collision_nearby poi_type friends_house address 347_alta_mesa_ave poi jills_house",
+   "5": "distance 2_miles traffic_info no_traffic poi_type home address 56_cadwell_street poi home",
+   "6": "distance 3_miles traffic_info heavy_traffic poi_type chinese_restaurant address 271_springer_street poi mandarin_roots",
+   "7": "distance 6_miles traffic_info moderate_traffic poi_type pizza_restaurant address 110_arastradero_rd poi papa_johns"
+}

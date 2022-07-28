@@ -1,0 +1,9 @@
+{
+   "0": "distance 3_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 145_amherst_st poi teavana",
+   "1": "distance 3_miles traffic_info moderate_traffic poi_type pizza_restaurant address 776_arastradero_rd poi dominos",
+   "2": "distance 6_miles traffic_info heavy_traffic poi_type pizza_restaurant address 113_anton_ct poi round_table",
+   "3": "distance 4_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 394_van_ness_ave poi coupa",
+   "4": "distance 2_miles traffic_info no_traffic poi_type pizza_restaurant address 528_anton_ct poi pizza_my_heart",
+   "5": "distance 4_miles traffic_info heavy_traffic poi_type hospital address 611_ames_ave poi palo_alto_medical_foundation",
+   "6": "distance 6_miles traffic_info no_traffic poi_type coffee_or_tea_place address 436_alger_dr poi palo_alto_cafe"
+}

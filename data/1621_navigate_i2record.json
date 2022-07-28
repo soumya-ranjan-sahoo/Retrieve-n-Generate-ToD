@@ -1,0 +1,9 @@
+{
+   "0": "distance 3_miles traffic_info no_traffic poi_type parking_garage address 880_ames_ct poi webster_garage",
+   "1": "distance 2_miles traffic_info no_traffic poi_type parking_garage address 610_amarillo_ave poi stanford_oval_parking",
+   "2": "distance 1_miles traffic_info heavy_traffic poi_type grocery_store address 408_university_ave poi trader_joes",
+   "3": "distance 1_miles traffic_info no_traffic poi_type coffee_or_tea_place address 145_amherst_st poi teavana",
+   "4": "distance 1_miles traffic_info moderate_traffic poi_type gas_station address 783_arcadia_pl poi chevron",
+   "5": "distance 2_miles traffic_info no_traffic poi_type shopping_center address 338_alester_ave poi midtown_shopping_center",
+   "6": "distance 6_miles traffic_info heavy_traffic poi_type coffee_or_tea_place address 269_alger_dr poi cafe_venetia"
+}

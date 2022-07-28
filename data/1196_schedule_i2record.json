@@ -1,0 +1,10 @@
+{
+   "0": "room conference_room_50 agenda sign_the_nda time 3pm date tuesday party hr event meeting",
+   "1": "room conference_room_100 agenda go_over_budget time 11am date the_20th party executive_team event meeting",
+   "2": "room 100_conference_room agenda onboard_new_members time 5pm date thursday party hr event conference",
+   "3": "date the_2nd party tom event swimming_activity time 9am",
+   "4": "date the_4th party martha event optometrist_appointment time 4pm",
+   "5": "date the_11th party marie event taking_medicine time 11am",
+   "6": "date the_3rd party marie event taking_medicine time 3pm",
+   "7": "date the_4th party tom event taking_medicine time 4pm"
+}

@@ -1,0 +1,9 @@
+{
+   "0": "distance 2_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 792_bedoin_street poi starbucks",
+   "1": "distance 2_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 269_alger_dr poi cafe_venetia",
+   "2": "distance 1_miles traffic_info moderate_traffic poi_type rest_stop address 465_arcadia_pl poi four_seasons",
+   "3": "distance 5_miles traffic_info no_traffic poi_type grocery_store address 452_arcadia_pl poi safeway",
+   "4": "distance 1_miles traffic_info no_traffic poi_type home address 5671_barringer_street poi home",
+   "5": "distance 6_miles traffic_info no_traffic poi_type certain_address address 5677_southwest_4th_street poi 5677_southwest_4th_street",
+   "6": "distance 2_miles traffic_info no_traffic poi_type chinese_restaurant address 830_almanor_ln poi tai_pan"
+}

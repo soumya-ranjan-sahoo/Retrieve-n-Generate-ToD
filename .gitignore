@@ -1,0 +1,8 @@
+data/wiki.simple.bin
+.idea/
+.DS_Store
+utils/__pycache__/
+scripts/__pycache__/
+runs/
+output/
+outputs/

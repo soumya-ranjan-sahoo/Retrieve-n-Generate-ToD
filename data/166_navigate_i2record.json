@@ -1,0 +1,9 @@
+{
+   "0": "distance 2_miles traffic_info heavy_traffic poi_type coffee_or_tea_place address 583_alester_ave poi philz",
+   "1": "distance 6_miles traffic_info heavy_traffic poi_type home address 56_cadwell_street poi home",
+   "2": "distance 6_miles traffic_info no_traffic poi_type rest_stop address 329_el_camino_real poi the_westin",
+   "3": "distance 5_miles traffic_info heavy_traffic poi_type chinese_restaurant address 842_arrowhead_way poi panda_express",
+   "4": "distance 2_miles traffic_info heavy_traffic poi_type certain_address address 5677_southwest_4th_street poi 5677_southwest_4th_street",
+   "5": "distance 5_miles traffic_info no_traffic poi_type parking_garage address 610_amarillo_ave poi stanford_oval_parking",
+   "6": "distance 5_miles traffic_info moderate_traffic poi_type certain_address address 5677_springer_street poi 5677_springer_street"
+}

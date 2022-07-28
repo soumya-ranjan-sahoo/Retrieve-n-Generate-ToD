@@ -1,0 +1,10 @@
+{
+   "0": "distance 3_miles traffic_info road_block_nearby poi_type rest_stop address 657_ames_ave poi the_clement_hotel",
+   "1": "distance 1_miles traffic_info moderate_traffic poi_type chinese_restaurant address 669_el_camino_real poi p_._f_._changs",
+   "2": "distance 3_miles traffic_info no_traffic poi_type rest_stop address 333_arbol_dr poi travelers_lodge",
+   "3": "distance 6_miles traffic_info heavy_traffic poi_type pizza_restaurant address 110_arastradero_rd poi papa_johns",
+   "4": "distance 4_miles traffic_info heavy_traffic poi_type home address 56_cadwell_street poi home",
+   "5": "distance 3_miles traffic_info road_block_nearby poi_type home address 10_ames_street poi home",
+   "6": "distance 6_miles traffic_info no_traffic poi_type shopping_center address 171_oak_rd poi topanga_mall",
+   "7": "distance 4_miles traffic_info moderate_traffic poi_type certain_address address 5677_southwest_4th_street poi 5677_southwest_4th_street"
+}

@@ -1,0 +1,9 @@
+{
+   "0": "distance 6_miles traffic_info moderate_traffic poi_type shopping_center address 773_alger_dr poi stanford_shopping_center",
+   "1": "distance 1_miles traffic_info moderate_traffic poi_type rest_stop address 657_ames_ave poi the_clement_hotel",
+   "2": "distance 1_miles traffic_info moderate_traffic poi_type certain_address address 5672_barringer_street poi 5672_barringer_street",
+   "3": "distance 5_miles traffic_info no_traffic poi_type shopping_center address 383_university_ave poi town_and_country",
+   "4": "distance 5_miles traffic_info heavy_traffic poi_type shopping_center address 434_arastradero_rd poi ravenswood_shopping_center",
+   "5": "distance 6_miles traffic_info no_traffic poi_type coffee_or_tea_place address 269_alger_dr poi cafe_venetia",
+   "6": "distance 4_miles traffic_info heavy_traffic poi_type home address 5671_barringer_street poi home"
+}

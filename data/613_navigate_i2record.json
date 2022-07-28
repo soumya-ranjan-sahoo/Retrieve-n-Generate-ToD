@@ -1,0 +1,9 @@
+{
+   "0": "distance 4_miles traffic_info moderate_traffic poi_type shopping_center address 383_university_ave poi town_and_country",
+   "1": "distance 4_miles traffic_info moderate_traffic poi_type friends_house address 864_almanor_ln poi jacks_house",
+   "2": "distance 6_miles traffic_info heavy_traffic poi_type friends_house address 580_van_ness_ave poi toms_house",
+   "3": "distance 1_miles traffic_info no_traffic poi_type pizza_restaurant address 528_anton_ct poi pizza_my_heart",
+   "4": "distance 6_miles traffic_info no_traffic poi_type hospital address 214_el_camino_real poi stanford_express_care",
+   "5": "distance 3_miles traffic_info moderate_traffic poi_type shopping_center address 338_alester_ave poi midtown_shopping_center",
+   "6": "distance 4_miles traffic_info heavy_traffic poi_type parking_garage address 481_amaranta_ave poi palo_alto_garage_r"
+}

@@ -1,0 +1,10 @@
+{
+   "0": "distance 4_miles traffic_info heavy_traffic poi_type grocery_store address 1313_chester_ave poi hacienda_market",
+   "1": "distance 6_miles traffic_info no_traffic poi_type rest_stop address 753_university_ave poi comfort_inn",
+   "2": "distance 2_miles traffic_info no_traffic poi_type parking_garage address 270_altaire_walk poi civic_center_garage",
+   "3": "distance 5_miles traffic_info no_traffic poi_type shopping_center address 383_university_ave poi town_and_country",
+   "4": "distance 4_miles traffic_info car_collision_nearby poi_type home address 10_ames_street poi home",
+   "5": "distance 6_miles traffic_info no_traffic poi_type pizza_restaurant address 704_el_camino_real poi pizza_hut",
+   "6": "distance 7_miles traffic_info heavy_traffic poi_type rest_stop address 333_arbol_dr poi travelers_lodge",
+   "7": "distance 3_miles traffic_info road_block_nearby poi_type chinese_restaurant address 593_arrowhead_way poi chef_chu_s"
+}

@@ -1,0 +1,9 @@
+{
+   "0": "name ugly_duckling address 12_st_._johns_street_city_centre area centre food chinese postcode cb21tw pricerange expensive type restaurant",
+   "1": "name bangkok_city address 24_green_street_city_centre area centre food thai phone 01223354382 postcode cb23jx pricerange expensive type restaurant",
+   "2": "name hk_fusion address 21_burleigh_street_city_centre area centre food chinese phone 01223355909 postcode cb11dg pricerange expensive type restaurant choice several ref sag9pai9",
+   "3": "name sesame_restaurant_and_bar address 17_hills_road_city_centre area centre food chinese phone 01223358899 postcode cb21nw pricerange expensive type restaurant choice several ref sag9pai9",
+   "4": "name tang_chinese address napier_street_city_centre area centre food chinese phone 01223357187 postcode cb11hr pricerange expensive type restaurant",
+   "5": "name ugly_duckling address 12_st_._johns_street_city_centre area centre food chinese postcode cb21tw pricerange expensive type restaurant choice several ref sag9pai9",
+   "6": "name tang_chinese address napier_street_city_centre area centre food chinese phone 01223357187 postcode cb11hr pricerange expensive type restaurant choice several ref sag9pai9"
+}

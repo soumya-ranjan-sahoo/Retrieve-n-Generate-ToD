@@ -1,0 +1,9 @@
+{
+   "0": "distance 4_miles traffic_info heavy_traffic poi_type shopping_center address 434_arastradero_rd poi ravenswood_shopping_center",
+   "1": "distance 4_miles traffic_info no_traffic poi_type parking_garage address 270_altaire_walk poi civic_center_garage",
+   "2": "distance 4_miles traffic_info heavy_traffic poi_type friends_house address 347_alta_mesa_ave poi jills_house",
+   "3": "distance 4_miles traffic_info no_traffic poi_type grocery_store address 638_amherst_st poi sigona_farmers_market",
+   "4": "distance 5_miles traffic_info no_traffic poi_type grocery_store address 408_university_ave poi trader_joes",
+   "5": "distance 4_miles traffic_info moderate_traffic poi_type chinese_restaurant address 271_springer_street poi mandarin_roots",
+   "6": "distance 3_miles traffic_info moderate_traffic poi_type gas_station address 783_arcadia_pl poi chevron"
+}

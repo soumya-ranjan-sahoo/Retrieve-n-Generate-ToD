@@ -1,0 +1,10 @@
+{
+   "0": "distance 2_miles traffic_info road_block_nearby poi_type parking_garage address 550_alester_ave poi dish_parking",
+   "1": "distance 6_miles traffic_info no_traffic poi_type parking_garage address 610_amarillo_ave poi stanford_oval_parking",
+   "2": "distance 4_miles traffic_info car_collision_nearby poi_type grocery_store address 409_bollard_st poi willows_market",
+   "3": "distance 2_miles traffic_info moderate_traffic poi_type rest_stop address 329_el_camino_real poi the_westin",
+   "4": "distance 1_miles traffic_info heavy_traffic poi_type friends_house address 580_van_ness_ave poi toms_house",
+   "5": "distance 4_miles traffic_info heavy_traffic poi_type pizza_restaurant address 915_arbol_dr poi pizza_chicago",
+   "6": "distance 6_miles traffic_info car_collision_nearby poi_type gas_station address 200_alester_ave poi valero",
+   "7": "distance 2_miles traffic_info no_traffic poi_type chinese_restaurant address 271_springer_street poi mandarin_roots"
+}

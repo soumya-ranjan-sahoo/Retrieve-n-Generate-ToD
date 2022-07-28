@@ -1,0 +1,10 @@
+{
+   "0": "distance 1_miles traffic_info no_traffic poi_type rest_stop address 329_el_camino_real poi the_westin",
+   "1": "distance 2_miles traffic_info road_block_nearby poi_type hospital address 611_ames_ave poi palo_alto_medical_foundation",
+   "2": "distance 1_miles traffic_info heavy_traffic poi_type grocery_store address 1313_chester_ave poi hacienda_market",
+   "3": "distance 3_miles traffic_info no_traffic poi_type parking_garage address 270_altaire_walk poi civic_center_garage",
+   "4": "distance 4_miles traffic_info moderate_traffic poi_type grocery_store address 409_bollard_st poi willows_market",
+   "5": "distance 3_miles traffic_info no_traffic poi_type chinese_restaurant address 593_arrowhead_way poi chef_chu_s",
+   "6": "distance 1_miles traffic_info car_collision_nearby poi_type friends_house address 347_alta_mesa_ave poi jills_house",
+   "7": "distance 3_miles traffic_info no_traffic poi_type pizza_restaurant address 704_el_camino_real poi pizza_hut"
+}

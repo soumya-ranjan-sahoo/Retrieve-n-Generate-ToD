@@ -1,0 +1,9 @@
+{
+   "0": "distance 4_miles traffic_info heavy_traffic poi_type home address 5671_barringer_street poi home",
+   "1": "distance 2_miles traffic_info heavy_traffic poi_type pizza_restaurant address 113_anton_ct poi round_table",
+   "2": "distance 5_miles traffic_info no_traffic poi_type hospital address 611_ames_ave poi palo_alto_medical_foundation",
+   "3": "distance 5_miles traffic_info heavy_traffic poi_type chinese_restaurant address 593_arrowhead_way poi chef_chu_s",
+   "4": "distance 4_miles traffic_info no_traffic poi_type rest_stop address 329_el_camino_real poi the_westin",
+   "5": "distance 5_miles traffic_info heavy_traffic poi_type rest_stop address 578_arbol_dr poi hotel_keen",
+   "6": "distance 6_miles traffic_info no_traffic poi_type friends_house address 864_almanor_ln poi jacks_house"
+}

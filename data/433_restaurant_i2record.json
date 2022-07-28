@@ -1,0 +1,9 @@
+{
+   "0": "name efes_restaurant address king_street_city_centre area centre food turkish phone 01223500005 postcode cb11ln pricerange moderate type restaurant choice many",
+   "1": "name pizza_hut_city_centre address regent_street_city_centre area centre food italian phone 01223323737 postcode cb21ab pricerange cheap type restaurant choice many",
+   "2": "name meze_bar address 196_mill_road_city_centre area centre food turkish postcode cb13nf pricerange expensive type restaurant choice many",
+   "3": "name anatolia address 30_bridge_street_city_centre area centre food turkish phone 01223362372 postcode cb21uj pricerange moderate type restaurant",
+   "4": "name the_missing_sock address finders_corner_newmarket_road area east food international phone 01223812660 postcode cb259aq pricerange cheap type restaurant choice many",
+   "5": "name curry_garden address 106_regent_street_city_centre area centre food indian phone 01223302330 postcode cb21dp pricerange expensive type restaurant choice many",
+   "6": "name anatolia address 30_bridge_street_city_centre area centre food turkish phone 01223362372 postcode cb21uj pricerange moderate type restaurant choice many"
+}

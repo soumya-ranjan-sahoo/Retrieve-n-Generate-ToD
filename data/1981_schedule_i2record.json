@@ -1,0 +1,8 @@
+{
+   "0": "date monday event dentist_appointment time 11am",
+   "1": "date friday event lab_appointment time 10am",
+   "2": "date tuesday event medicine time 10am",
+   "3": "date thursday event doctor_appointment time 1pm",
+   "4": "room conference_room_102 agenda discuss_the_merger time 7pm date thursday party executive_team event conference",
+   "5": "room 100_conference_room agenda go_over_budget time 1pm date monday party hr event meeting"
+}

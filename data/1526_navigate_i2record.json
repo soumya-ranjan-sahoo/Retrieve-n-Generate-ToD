@@ -1,0 +1,9 @@
+{
+   "0": "distance 3_miles traffic_info heavy_traffic poi_type parking_garage address 880_ames_ct poi webster_garage",
+   "1": "distance 3_miles traffic_info moderate_traffic poi_type gas_station address 783_arcadia_pl poi chevron",
+   "2": "distance 5_miles traffic_info no_traffic poi_type rest_stop address 657_ames_ave poi the_clement_hotel",
+   "3": "distance 2_miles traffic_info no_traffic poi_type gas_station address 200_alester_ave poi valero",
+   "4": "distance 2_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 583_alester_ave poi philz",
+   "5": "distance 4_miles traffic_info moderate_traffic poi_type grocery_store address 452_arcadia_pl poi safeway",
+   "6": "distance 5_miles traffic_info no_traffic poi_type grocery_store address 408_university_ave poi trader_joes"
+}

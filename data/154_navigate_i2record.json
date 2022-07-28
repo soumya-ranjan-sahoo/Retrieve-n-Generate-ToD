@@ -1,0 +1,9 @@
+{
+   "0": "distance 4_miles traffic_info no_traffic poi_type gas_station address 783_arcadia_pl poi chevron",
+   "1": "distance 4_miles traffic_info heavy_traffic poi_type chinese_restaurant address 842_arrowhead_way poi panda_express",
+   "2": "distance 4_miles traffic_info heavy_traffic poi_type shopping_center address 383_university_ave poi town_and_country",
+   "3": "distance 3_miles traffic_info no_traffic poi_type coffee_or_tea_place address 394_van_ness_ave poi coupa",
+   "4": "distance 5_miles traffic_info no_traffic poi_type certain_address address 5677_southwest_4th_street poi 5677_southwest_4th_street",
+   "5": "distance 5_miles traffic_info heavy_traffic poi_type grocery_store address 638_amherst_st poi sigona_farmers_market",
+   "6": "distance 2_miles traffic_info heavy_traffic poi_type parking_garage address 880_ames_ct poi webster_garage"
+}

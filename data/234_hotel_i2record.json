@@ -1,0 +1,9 @@
+{
+   "0": "name autumn_house address 710_newmarket_road area east phone 01223575122 postcode cb58rs pricerange cheap stars 4_star type guesthouse",
+   "1": "name warkworth_house address warkworth_terrace area east phone 01223363682 postcode cb11ee pricerange moderate stars 4_star type guesthouse",
+   "2": "name acorn_guest_house address 154_chesterton_road area north phone 01223353888 postcode cb41da pricerange moderate stars 4_star type guesthouse",
+   "3": "name alexander_bed_and_breakfast address 56_saint_barnabas_road area centre phone 01223525725 postcode cb12de pricerange cheap stars 4_star type guesthouse",
+   "4": "name gonville_hotel address gonville_place area centre phone 01223366611 postcode cb11ly pricerange expensive stars 3_star type hotel",
+   "5": "name huntingdon_marriott_hotel address kingfisher_way,_hinchinbrook_business_park,_huntingdon area west phone 01480446000 postcode pe296fl pricerange expensive stars 4_star type hotel",
+   "6": "name aylesbray_lodge_guest_house address 5_mowbray_road area south phone 01223240089 postcode cb17sr pricerange moderate stars 4_star type guesthouse"
+}

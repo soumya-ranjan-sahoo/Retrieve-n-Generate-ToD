@@ -1,0 +1,9 @@
+{
+   "0": "distance 6_miles traffic_info moderate_traffic poi_type parking_garage address 550_alester_ave poi dish_parking",
+   "1": "distance 1_miles traffic_info no_traffic poi_type pizza_restaurant address 776_arastradero_rd poi dominos",
+   "2": "distance 2_miles traffic_info no_traffic poi_type shopping_center address 773_alger_dr poi stanford_shopping_center",
+   "3": "distance 6_miles traffic_info heavy_traffic poi_type friends_house address 580_van_ness_ave poi toms_house",
+   "4": "distance 6_miles traffic_info heavy_traffic poi_type grocery_store address 408_university_ave poi trader_joes",
+   "5": "distance 2_miles traffic_info heavy_traffic poi_type pizza_restaurant address 915_arbol_dr poi pizza_chicago",
+   "6": "distance 1_miles traffic_info no_traffic poi_type coffee_or_tea_place address 436_alger_dr poi palo_alto_cafe"
+}

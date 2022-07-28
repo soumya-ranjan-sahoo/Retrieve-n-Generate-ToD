@@ -1,0 +1,9 @@
+{
+   "0": "name tang_chinese address napier_street_city_centre area centre food chinese phone 01223357187 postcode cb11hr pricerange expensive type restaurant choice 10",
+   "1": "name charlie_chan address regent_street_city_centre area centre food chinese phone 01223361763 postcode cb21db pricerange cheap type restaurant choice 10",
+   "2": "name jinling_noodle_bar address 11_peas_hill_city_centre area centre food chinese phone 01223566188 postcode cb23pp pricerange moderate type restaurant choice 10",
+   "3": "name golden_house address 12_lensfield_road_city_centre area centre food chinese phone 01842753771 postcode cb21eg pricerange cheap type restaurant choice 10",
+   "4": "name rice_house address 88_mill_road_city_centre area centre food chinese phone 01223367755 postcode cb12bd pricerange cheap type restaurant choice 10",
+   "5": "name charlie_chan address regent_street_city_centre area centre food chinese phone 01223361763 postcode cb21db pricerange cheap type restaurant",
+   "6": "name sesame_restaurant_and_bar address 17_hills_road_city_centre area centre food chinese phone 01223358899 postcode cb21nw pricerange expensive type restaurant choice 10"
+}

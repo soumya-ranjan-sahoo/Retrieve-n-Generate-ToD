@@ -1,0 +1,9 @@
+{
+   "0": "distance 2_miles traffic_info moderate_traffic poi_type parking_garage address 270_altaire_walk poi civic_center_garage",
+   "1": "distance 5_miles traffic_info heavy_traffic poi_type hospital address 611_ames_ave poi palo_alto_medical_foundation",
+   "2": "distance 2_miles traffic_info moderate_traffic poi_type pizza_restaurant address 915_arbol_dr poi pizza_chicago",
+   "3": "distance 4_miles traffic_info moderate_traffic poi_type chinese_restaurant address 113_arbol_dr poi jing_jing",
+   "4": "distance 5_miles traffic_info moderate_traffic poi_type shopping_center address 773_alger_dr poi stanford_shopping_center",
+   "5": "distance 6_miles traffic_info no_traffic poi_type parking_garage address 481_amaranta_ave poi palo_alto_garage_r",
+   "6": "distance 2_miles traffic_info heavy_traffic poi_type pizza_restaurant address 113_anton_ct poi round_table"
+}

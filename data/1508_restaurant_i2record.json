@@ -1,0 +1,9 @@
+{
+   "0": "name de_luca_cucina_and_bar address 83_regent_street area centre food modern_european phone 01223356666 postcode cb21aw pricerange moderate type restaurant choice at_least_two ref ivgzlytz",
+   "1": "name de_luca_cucina_and_bar address 83_regent_street area centre food modern_european phone 01223356666 postcode cb21aw pricerange moderate type restaurant",
+   "2": "name riverside_brasserie address doubletree_by_hilton_cambridge_granta_place_mill_lane area centre food modern_european phone 01223259988 postcode cb21rt pricerange moderate type restaurant",
+   "3": "name riverside_brasserie address doubletree_by_hilton_cambridge_granta_place_mill_lane area centre food modern_european phone 01223259988 postcode cb21rt pricerange moderate type restaurant choice at_least_two ref ivgzlytz",
+   "4": "name yippee_noodle_bar address 40428_king_street_city_centre area centre food asian_oriental phone 01223518111 postcode cb11lh pricerange moderate type restaurant",
+   "5": "name the_missing_sock address finders_corner_newmarket_road area east food international phone 01223812660 postcode cb259aq pricerange cheap type restaurant choice at_least_two ref ivgzlytz",
+   "6": "name pizza_hut_city_centre address regent_street_city_centre area centre food italian phone 01223323737 postcode cb21ab pricerange cheap type restaurant choice at_least_two ref ivgzlytz"
+}

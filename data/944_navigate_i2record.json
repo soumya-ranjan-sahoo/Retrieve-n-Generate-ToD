@@ -1,0 +1,9 @@
+{
+   "0": "distance 5_miles traffic_info heavy_traffic poi_type hospital address 611_ames_ave poi palo_alto_medical_foundation",
+   "1": "distance 2_miles traffic_info moderate_traffic poi_type home address 56_cadwell_street poi home",
+   "2": "distance 2_miles traffic_info moderate_traffic poi_type rest_stop address 657_ames_ave poi the_clement_hotel",
+   "3": "distance 5_miles traffic_info heavy_traffic poi_type rest_stop address 753_university_ave poi comfort_inn",
+   "4": "distance 4_miles traffic_info heavy_traffic poi_type grocery_store address 452_arcadia_pl poi safeway",
+   "5": "distance 5_miles traffic_info moderate_traffic poi_type home address 10_ames_street poi home",
+   "6": "distance 6_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 792_bedoin_street poi starbucks"
+}

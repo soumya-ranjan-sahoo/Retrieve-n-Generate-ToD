@@ -1,0 +1,9 @@
+{
+   "0": "distance 3_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 583_alester_ave poi philz",
+   "1": "distance 1_miles traffic_info no_traffic poi_type hospital address 899_ames_ct poi stanford_childrens_health",
+   "2": "distance 1_miles traffic_info moderate_traffic poi_type chinese_restaurant address 113_arbol_dr poi jing_jing",
+   "3": "distance 3_miles traffic_info heavy_traffic poi_type coffee_or_tea_place address 145_amherst_st poi teavana",
+   "4": "distance 3_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 436_alger_dr poi palo_alto_cafe",
+   "5": "distance 1_miles traffic_info no_traffic poi_type shopping_center address 383_university_ave poi town_and_country",
+   "6": "distance 4_miles traffic_info moderate_traffic poi_type chinese_restaurant address 669_el_camino_real poi p_._f_._changs"
+}

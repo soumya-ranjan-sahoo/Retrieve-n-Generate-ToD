@@ -1,0 +1,10 @@
+{
+   "0": "distance 4_miles traffic_info moderate_traffic poi_type chinese_restaurant address 842_arrowhead_way poi panda_express",
+   "1": "distance 2_miles traffic_info car_collision_nearby poi_type chinese_restaurant address 271_springer_street poi mandarin_roots",
+   "2": "distance 4_miles traffic_info car_collision_nearby poi_type grocery_store address 452_arcadia_pl poi safeway",
+   "3": "distance 3_miles traffic_info car_collision_nearby poi_type parking_garage address 270_altaire_walk poi civic_center_garage",
+   "4": "distance 5_miles traffic_info no_traffic poi_type shopping_center address 383_university_ave poi town_and_country",
+   "5": "distance 2_miles traffic_info moderate_traffic poi_type chinese_restaurant address 113_arbol_dr poi jing_jing",
+   "6": "distance 2_miles traffic_info heavy_traffic poi_type chinese_restaurant address 669_el_camino_real poi p_._f_._changs",
+   "7": "distance 5_miles traffic_info car_collision_nearby poi_type chinese_restaurant address 593_arrowhead_way poi chef_chu_s"
+}

@@ -1,0 +1,9 @@
+{
+   "0": "name holy_trinity_church address market_street area centre phone 01223355397 postcode cb23nz pricerange free type architecture choice 5",
+   "1": "name little_saint_mary_'_s_church address little_saint_mary_'_s_lane area centre phone 01223366202 postcode cb21qy pricerange free type architecture choice 5",
+   "2": "name abbey_pool_and_astroturf_pitch address pool_way_,_whitehill_road_,_off_newmarket_road area east phone 01223902088 postcode cb58nt pricerange <dontknow> type swimmingpool choice 5",
+   "3": "name old_schools address trinity_lane area centre phone 01223332320 postcode cb21tt pricerange free type architecture",
+   "4": "name old_schools address trinity_lane area centre phone 01223332320 postcode cb21tt pricerange free type architecture choice 5",
+   "5": "name great_saint_mary_'_s_church address market_square area centre phone 01223350914 postcode cb23pq pricerange cheap type architecture choice 5",
+   "6": "name all_saints_church address jesus_lane area centre phone 01223452587 postcode cb58bs pricerange free type architecture choice 5"
+}

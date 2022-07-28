@@ -1,0 +1,9 @@
+{
+   "0": "distance 4_miles traffic_info no_traffic poi_type rest_stop address 329_el_camino_real poi the_westin",
+   "1": "distance 2_miles traffic_info moderate_traffic poi_type parking_garage address 481_amaranta_ave poi palo_alto_garage_r",
+   "2": "distance 4_miles traffic_info moderate_traffic poi_type chinese_restaurant address 271_springer_street poi mandarin_roots",
+   "3": "distance 4_miles traffic_info no_traffic poi_type grocery_store address 638_amherst_st poi sigona_farmers_market",
+   "4": "distance 2_miles traffic_info heavy_traffic poi_type grocery_store address 819_alma_st poi whole_foods",
+   "5": "distance 2_miles traffic_info moderate_traffic poi_type shopping_center address 773_alger_dr poi stanford_shopping_center",
+   "6": "distance 1_miles traffic_info no_traffic poi_type friends_house address 580_van_ness_ave poi toms_house"
+}

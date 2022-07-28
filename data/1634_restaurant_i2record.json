@@ -1,0 +1,9 @@
+{
+   "0": "name pizza_hut_city_centre address regent_street_city_centre area centre food italian phone 01223323737 postcode cb21ab pricerange cheap type restaurant ref ksfskic1",
+   "1": "name pizza_express address regent_street_city_centre area centre food italian phone 01223324033 postcode cb21db pricerange moderate type restaurant ref ksfskic1",
+   "2": "name pizza_hut_cherry_hinton address g4_cambridge_leisure_park_clifton_way_cherry_hinton area south food italian phone 01223323737 postcode cb17dy pricerange moderate type restaurant ref ksfskic1",
+   "3": "name stazione_restaurant_and_coffee_bar address market_hill_city_centre area centre food italian phone 01223352607 postcode cb23nj pricerange expensive type restaurant ref ksfskic1",
+   "4": "name pizza_hut_fen_ditton address cambridge_retail_park_newmarket_road_fen_ditton area east food italian phone 01223323737 postcode cb58wr pricerange moderate type restaurant ref ksfskic1",
+   "5": "name rajmahal address 7_barnwell_road_fen_ditton area east food indian phone 01223244955 postcode cb58rg pricerange moderate type restaurant",
+   "6": "name pizza_hut_fen_ditton address cambridge_retail_park_newmarket_road_fen_ditton area east food italian phone 01223323737 postcode cb58wr pricerange moderate type restaurant"
+}

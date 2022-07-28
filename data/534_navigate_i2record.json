@@ -1,0 +1,10 @@
+{
+   "0": "distance 3_miles traffic_info moderate_traffic poi_type chinese_restaurant address 113_arbol_dr poi jing_jing",
+   "1": "distance 5_miles traffic_info heavy_traffic poi_type rest_stop address 657_ames_ave poi the_clement_hotel",
+   "2": "distance 2_miles traffic_info heavy_traffic poi_type pizza_restaurant address 113_anton_ct poi round_table",
+   "3": "distance 6_miles traffic_info heavy_traffic poi_type shopping_center address 171_oak_rd poi topanga_mall",
+   "4": "distance 2_miles traffic_info moderate_traffic poi_type shopping_center address 338_alester_ave poi midtown_shopping_center",
+   "5": "distance 4_miles traffic_info moderate_traffic poi_type friends_house address 580_van_ness_ave poi toms_house",
+   "6": "distance 1_miles traffic_info road_block_nearby poi_type pizza_restaurant address 915_arbol_dr poi pizza_chicago",
+   "7": "distance 3_miles traffic_info car_collision_nearby poi_type chinese_restaurant address 271_springer_street poi mandarin_roots"
+}

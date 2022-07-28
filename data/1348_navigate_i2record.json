@@ -1,0 +1,10 @@
+{
+   "0": "distance 4_miles traffic_info car_collision_nearby poi_type chinese_restaurant address 593_arrowhead_way poi chef_chu_s",
+   "1": "distance 6_miles traffic_info heavy_traffic poi_type chinese_restaurant address 113_arbol_dr poi jing_jing",
+   "2": "distance 4_miles traffic_info car_collision_nearby poi_type parking_garage address 880_ames_ct poi webster_garage",
+   "3": "distance 1_miles traffic_info no_traffic poi_type pizza_restaurant address 110_arastradero_rd poi papa_johns",
+   "4": "distance 4_miles traffic_info car_collision_nearby poi_type home address 56_cadwell_street poi home",
+   "5": "distance 2_miles traffic_info car_collision_nearby poi_type rest_stop address 578_arbol_dr poi hotel_keen",
+   "6": "distance 3_miles traffic_info road_block_nearby poi_type gas_station address 783_arcadia_pl poi chevron",
+   "7": "distance 1_miles traffic_info no_traffic poi_type chinese_restaurant address 271_springer_street poi mandarin_roots"
+}

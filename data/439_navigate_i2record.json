@@ -1,0 +1,9 @@
+{
+   "0": "distance 4_miles traffic_info no_traffic poi_type home address 5671_barringer_street poi home",
+   "1": "distance 5_miles traffic_info no_traffic poi_type chinese_restaurant address 593_arrowhead_way poi chef_chu_s",
+   "2": "distance 5_miles traffic_info heavy_traffic poi_type certain_address address 5672_barringer_street poi 5672_barringer_street",
+   "3": "distance 1_miles traffic_info moderate_traffic poi_type pizza_restaurant address 528_anton_ct poi pizza_my_heart",
+   "4": "distance 5_miles traffic_info heavy_traffic poi_type coffee_or_tea_place address 394_van_ness_ave poi coupa",
+   "5": "distance 3_miles traffic_info heavy_traffic poi_type rest_stop address 753_university_ave poi comfort_inn",
+   "6": "distance 1_miles traffic_info heavy_traffic poi_type friends_house address 580_van_ness_ave poi toms_house"
+}

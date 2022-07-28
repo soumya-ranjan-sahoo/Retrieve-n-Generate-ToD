@@ -1,0 +1,9 @@
+{
+   "0": "distance 1_miles traffic_info no_traffic poi_type pizza_restaurant address 113_anton_ct poi round_table",
+   "1": "distance 4_miles traffic_info heavy_traffic poi_type pizza_restaurant address 915_arbol_dr poi pizza_chicago",
+   "2": "distance 5_miles traffic_info no_traffic poi_type rest_stop address 578_arbol_dr poi hotel_keen",
+   "3": "distance 5_miles traffic_info moderate_traffic poi_type gas_station address 783_arcadia_pl poi chevron",
+   "4": "distance 4_miles traffic_info no_traffic poi_type parking_garage address 270_altaire_walk poi civic_center_garage",
+   "5": "distance 6_miles traffic_info heavy_traffic poi_type chinese_restaurant address 271_springer_street poi mandarin_roots",
+   "6": "distance 3_miles traffic_info heavy_traffic poi_type coffee_or_tea_place address 583_alester_ave poi philz"
+}

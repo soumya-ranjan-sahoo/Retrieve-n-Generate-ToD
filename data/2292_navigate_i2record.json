@@ -1,0 +1,10 @@
+{
+   "0": "distance 3_miles traffic_info no_traffic poi_type rest_stop address 333_arbol_dr poi travelers_lodge",
+   "1": "distance 4_miles traffic_info car_collision_nearby poi_type grocery_store address 1313_chester_ave poi hacienda_market",
+   "2": "distance 1_miles traffic_info no_traffic poi_type shopping_center address 383_university_ave poi town_and_country",
+   "3": "distance 4_miles traffic_info no_traffic poi_type shopping_center address 338_alester_ave poi midtown_shopping_center",
+   "4": "distance 1_miles traffic_info car_collision_nearby poi_type grocery_store address 409_bollard_st poi willows_market",
+   "5": "distance 4_miles traffic_info road_block_nearby poi_type gas_station address 53_university_av poi shell",
+   "6": "distance 6_miles traffic_info heavy_traffic poi_type coffee_or_tea_place address 792_bedoin_street poi starbucks",
+   "7": "distance 1_miles traffic_info car_collision_nearby poi_type gas_station address 783_arcadia_pl poi chevron"
+}

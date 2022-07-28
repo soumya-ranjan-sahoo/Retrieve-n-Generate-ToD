@@ -1,0 +1,9 @@
+{
+   "0": "name acorn_guest_house address 154_chesterton_road area north phone 01223353888 postcode cb41da pricerange moderate stars 4_star type guesthouse",
+   "1": "name bridge_guest_house address 151_hills_road area south phone 01223247942 postcode cb28rj pricerange moderate stars 3_star type guesthouse choice several ref ginrz444",
+   "2": "name home_from_home address 78-80_milton_road area north phone 01223323555 postcode cb41la pricerange moderate stars 4_star type guesthouse choice several ref ginrz444",
+   "3": "name acorn_guest_house address 154_chesterton_road area north phone 01223353888 postcode cb41da pricerange moderate stars 4_star type guesthouse choice several ref ginrz444",
+   "4": "name limehouse address 78-80_milton_road area north phone 01223300552 postcode cb42je pricerange moderate stars 4_star type guesthouse choice several ref ginrz444",
+   "5": "name ashley_hotel address 74_chesterton_road area north phone 01223350059 postcode cb41er pricerange moderate stars 2_star type hotel",
+   "6": "name hobsons_house address 96_barton_road area west phone 01223304906 postcode cb39lh pricerange moderate stars 3_star type guesthouse choice several ref ginrz444"
+}

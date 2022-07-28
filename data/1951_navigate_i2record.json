@@ -1,0 +1,10 @@
+{
+   "0": "distance 4_miles traffic_info car_collision_nearby poi_type home address 5671_barringer_street poi home",
+   "1": "distance 5_miles traffic_info road_block_nearby poi_type rest_stop address 333_arbol_dr poi travelers_lodge",
+   "2": "distance 6_miles traffic_info road_block_nearby poi_type grocery_store address 819_alma_st poi whole_foods",
+   "3": "distance 2_miles traffic_info moderate_traffic poi_type gas_station address 200_alester_ave poi valero",
+   "4": "distance 2_miles traffic_info moderate_traffic poi_type pizza_restaurant address 704_el_camino_real poi pizza_hut",
+   "5": "distance 4_miles traffic_info no_traffic poi_type coffee_or_tea_place address 145_amherst_st poi teavana",
+   "6": "distance 5_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 436_alger_dr poi palo_alto_cafe",
+   "7": "distance 5_miles traffic_info road_block_nearby poi_type parking_garage address 610_amarillo_ave poi stanford_oval_parking"
+}

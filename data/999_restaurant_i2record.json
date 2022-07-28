@@ -1,0 +1,9 @@
+{
+   "0": "name restaurant_one_seven address de_vere_university_arms_regent_street_city_centre area centre food british phone 01223337766 postcode cb21ab pricerange moderate type restaurant",
+   "1": "name the_copper_kettle address 4_kings_parade_city_centre area centre food british phone 01223365068 postcode cb21sj pricerange moderate type restaurant",
+   "2": "name meghna address 205_victoria_road_chesterton area west food indian phone 01223727410 postcode cb43lf pricerange moderate type restaurant",
+   "3": "name fitzbillies_restaurant address 51_trumpington_street_city_centre area centre food british phone 01223352500 postcode cb21rg pricerange expensive type restaurant",
+   "4": "name prezzo address 21_-_24_northampton_road area west food italian phone 01799521260 postcode cb30ad pricerange moderate type restaurant",
+   "5": "name the_oak_bistro address 6_lensfield_road area centre food british phone 01223323361 postcode cb21eg pricerange moderate type restaurant",
+   "6": "name saint_johns_chop_house address 21_-_24_northampton_street area west food british phone 01223353110 postcode cb30ad pricerange moderate type restaurant"
+}

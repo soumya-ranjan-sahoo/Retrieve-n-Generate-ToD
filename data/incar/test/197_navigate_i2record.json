@@ -1,0 +1,10 @@
+{
+   "0": "distance 1_miles traffic_info heavy_traffic poi_type coffee_or_tea_place address 145_amherst_st poi teavana",
+   "1": "distance 5_miles traffic_info no_traffic poi_type coffee_or_tea_place address 583_alester_ave poi philz",
+   "2": "distance 5_miles traffic_info car_collision_nearby poi_type rest_stop address 753_university_ave poi comfort_inn",
+   "3": "distance 1_miles traffic_info road_block_nearby poi_type rest_stop address 329_el_camino_real poi the_westin",
+   "4": "distance 3_miles traffic_info no_traffic poi_type certain_address address 5677_springer_street poi 5677_springer_street",
+   "5": "distance 1_miles traffic_info no_traffic poi_type rest_stop address 333_arbol_dr poi travelers_lodge",
+   "6": "distance 3_miles traffic_info moderate_traffic poi_type hospital address 899_ames_ct poi stanford_childrens_health",
+   "7": "distance 1_miles traffic_info moderate_traffic poi_type home address 5671_barringer_street poi home"
+}

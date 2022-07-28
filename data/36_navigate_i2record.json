@@ -1,0 +1,10 @@
+{
+   "0": "distance 3_miles traffic_info road_block_nearby poi_type coffee_or_tea_place address 583_alester_ave poi philz",
+   "1": "distance 4_miles traffic_info heavy_traffic poi_type parking_garage address 550_alester_ave poi dish_parking",
+   "2": "distance 3_miles traffic_info moderate_traffic poi_type gas_station address 783_arcadia_pl poi chevron",
+   "3": "distance 1_miles traffic_info car_collision_nearby poi_type shopping_center address 434_arastradero_rd poi ravenswood_shopping_center",
+   "4": "distance 2_miles traffic_info road_block_nearby poi_type gas_station address 53_university_av poi shell",
+   "5": "distance 1_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 269_alger_dr poi cafe_venetia",
+   "6": "distance 6_miles traffic_info car_collision_nearby poi_type rest_stop address 753_university_ave poi comfort_inn",
+   "7": "distance 3_miles traffic_info road_block_nearby poi_type grocery_store address 1313_chester_ave poi hacienda_market"
+}

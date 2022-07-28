@@ -1,0 +1,10 @@
+{
+   "0": "distance 4_miles traffic_info no_traffic poi_type rest_stop address 578_arbol_dr poi hotel_keen",
+   "1": "distance 2_miles traffic_info no_traffic poi_type home address 56_cadwell_street poi home",
+   "2": "distance 5_miles traffic_info road_block_nearby poi_type parking_garage address 550_alester_ave poi dish_parking",
+   "3": "distance 4_miles traffic_info moderate_traffic poi_type shopping_center address 338_alester_ave poi midtown_shopping_center",
+   "4": "distance 8_miles traffic_info car_collision_nearby poi_type friends_house address 580_van_ness_ave poi toms_house",
+   "5": "distance 5_miles traffic_info no_traffic poi_type certain_address address 5677_southwest_4th_street poi 5677_southwest_4th_street",
+   "6": "distance 3_miles traffic_info car_collision_nearby poi_type grocery_store address 408_university_ave poi trader_joes",
+   "7": "distance 1_miles traffic_info road_block_nearby poi_type parking_garage address 481_amaranta_ave poi palo_alto_garage_r"
+}

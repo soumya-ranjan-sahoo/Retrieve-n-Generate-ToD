@@ -1,0 +1,9 @@
+{
+   "0": "distance 6_miles traffic_info heavy_traffic poi_type hospital address 611_ames_ave poi palo_alto_medical_foundation",
+   "1": "distance 5_miles traffic_info heavy_traffic poi_type shopping_center address 434_arastradero_rd poi ravenswood_shopping_center",
+   "2": "distance 5_miles traffic_info heavy_traffic poi_type pizza_restaurant address 704_el_camino_real poi pizza_hut",
+   "3": "distance 3_miles traffic_info no_traffic poi_type parking_garage address 481_amaranta_ave poi palo_alto_garage_r",
+   "4": "distance 1_miles traffic_info heavy_traffic poi_type pizza_restaurant address 915_arbol_dr poi pizza_chicago",
+   "5": "distance 3_miles traffic_info no_traffic poi_type pizza_restaurant address 528_anton_ct poi pizza_my_heart",
+   "6": "distance 1_miles traffic_info no_traffic poi_type rest_stop address 465_arcadia_pl poi four_seasons"
+}

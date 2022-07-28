@@ -1,0 +1,10 @@
+{
+   "0": "distance 5_miles traffic_info moderate_traffic poi_type chinese_restaurant address 669_el_camino_real poi p_._f_._changs",
+   "1": "distance 3_miles traffic_info road_block_nearby poi_type friends_house address 580_van_ness_ave poi toms_house",
+   "2": "distance 2_miles traffic_info road_block_nearby poi_type coffee_or_tea_place address 394_van_ness_ave poi coupa",
+   "3": "distance 3_miles traffic_info road_block_nearby poi_type shopping_center address 773_alger_dr poi stanford_shopping_center",
+   "4": "distance 2_miles traffic_info no_traffic poi_type home address 56_cadwell_street poi home",
+   "5": "distance 1_miles traffic_info moderate_traffic poi_type shopping_center address 338_alester_ave poi midtown_shopping_center",
+   "6": "distance 6_miles traffic_info no_traffic poi_type certain_address address 5677_springer_street poi 5677_springer_street",
+   "7": "distance 6_miles traffic_info car_collision_nearby poi_type parking_garage address 481_amaranta_ave poi palo_alto_garage_r"
+}

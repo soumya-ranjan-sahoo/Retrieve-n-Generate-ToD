@@ -1,0 +1,9 @@
+{
+   "0": "name all_saints_church address jesus_lane area centre phone 01223452587 postcode cb58bs pricerange free type architecture",
+   "1": "name cherry_hinton_hall_and_grounds address cherry_hinton_road area east phone 01223446104 postcode cb18dw pricerange <dontknow> type entertainment",
+   "2": "name funky_fun_house address 8_mercers_row_,_mercers_row_industrial_estate area east phone 01223304705 postcode cb58hy pricerange <dontknow> type entertainment",
+   "3": "name adc_theatre address park_street area centre phone 01223300085 postcode cb58as pricerange <dontknow> type theatre",
+   "4": "name broughton_house_gallery address 98_king_street area centre phone 01223314960 postcode cb11ln pricerange free type museum",
+   "5": "name ballare address heidelberg_gardens_,_lion_yard area centre phone 01223364222 postcode cb23na pricerange moderate type nightclub",
+   "6": "name abbey_pool_and_astroturf_pitch address pool_way_,_whitehill_road_,_off_newmarket_road area east phone 01223902088 postcode cb58nt pricerange <dontknow> type swimmingpool"
+}

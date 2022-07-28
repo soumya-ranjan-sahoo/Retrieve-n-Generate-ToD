@@ -1,0 +1,9 @@
+{
+   "0": "distance 4_miles traffic_info moderate_traffic poi_type rest_stop address 329_el_camino_real poi the_westin",
+   "1": "distance 5_miles traffic_info no_traffic poi_type rest_stop address 465_arcadia_pl poi four_seasons",
+   "2": "distance 4_miles traffic_info moderate_traffic poi_type parking_garage address 550_alester_ave poi dish_parking",
+   "3": "distance 6_miles traffic_info heavy_traffic poi_type home address 56_cadwell_street poi home",
+   "4": "distance 6_miles traffic_info heavy_traffic poi_type chinese_restaurant address 593_arrowhead_way poi chef_chu_s",
+   "5": "distance 2_miles traffic_info moderate_traffic poi_type coffee_or_tea_place address 436_alger_dr poi palo_alto_cafe",
+   "6": "distance 1_miles traffic_info heavy_traffic poi_type hospital address 899_ames_ct poi stanford_childrens_health"
+}

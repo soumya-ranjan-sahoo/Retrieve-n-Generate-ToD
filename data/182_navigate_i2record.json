@@ -1,0 +1,10 @@
+{
+   "0": "distance 3_miles traffic_info heavy_traffic poi_type hospital address 899_ames_ct poi stanford_childrens_health",
+   "1": "distance 3_miles traffic_info road_block_nearby poi_type certain_address address 5672_barringer_street poi 5672_barringer_street",
+   "2": "distance 3_miles traffic_info car_collision_nearby poi_type gas_station address 53_university_av poi shell",
+   "3": "distance 1_miles traffic_info car_collision_nearby poi_type shopping_center address 171_oak_rd poi topanga_mall",
+   "4": "distance 2_miles traffic_info car_collision_nearby poi_type parking_garage address 880_ames_ct poi webster_garage",
+   "5": "distance 8_miles traffic_info car_collision_nearby poi_type parking_garage address 550_alester_ave poi dish_parking",
+   "6": "distance 4_miles traffic_info heavy_traffic poi_type hospital address 611_ames_ave poi palo_alto_medical_foundation",
+   "7": "distance 5_miles traffic_info road_block_nearby poi_type grocery_store address 408_university_ave poi trader_joes"
+}

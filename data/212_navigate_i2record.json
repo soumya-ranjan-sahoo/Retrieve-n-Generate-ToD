@@ -1,0 +1,10 @@
+{
+   "0": "distance 3_miles traffic_info car_collision_nearby poi_type chinese_restaurant address 113_arbol_dr poi jing_jing",
+   "1": "distance 2_miles traffic_info road_block_nearby poi_type parking_garage address 610_amarillo_ave poi stanford_oval_parking",
+   "2": "distance 1_miles traffic_info heavy_traffic poi_type hospital address 611_ames_ave poi palo_alto_medical_foundation",
+   "3": "distance 5_miles traffic_info heavy_traffic poi_type shopping_center address 338_alester_ave poi midtown_shopping_center",
+   "4": "distance 4_miles traffic_info car_collision_nearby poi_type gas_station address 783_arcadia_pl poi chevron",
+   "5": "distance 5_miles traffic_info car_collision_nearby poi_type friends_house address 347_alta_mesa_ave poi jills_house",
+   "6": "distance 5_miles traffic_info heavy_traffic poi_type hospital address 214_el_camino_real poi stanford_express_care",
+   "7": "distance 3_miles traffic_info heavy_traffic poi_type parking_garage address 550_alester_ave poi dish_parking"
+}

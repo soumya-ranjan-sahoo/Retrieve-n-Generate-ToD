@@ -1,0 +1,9 @@
+{
+   "0": "distance 2_miles traffic_info no_traffic poi_type pizza_restaurant address 704_el_camino_real poi pizza_hut",
+   "1": "distance 2_miles traffic_info heavy_traffic poi_type shopping_center address 773_alger_dr poi stanford_shopping_center",
+   "2": "distance 6_miles traffic_info heavy_traffic poi_type hospital address 214_el_camino_real poi stanford_express_care",
+   "3": "distance 4_miles traffic_info no_traffic poi_type rest_stop address 753_university_ave poi comfort_inn",
+   "4": "distance 5_miles traffic_info moderate_traffic poi_type gas_station address 783_arcadia_pl poi chevron",
+   "5": "distance 5_miles traffic_info heavy_traffic poi_type rest_stop address 465_arcadia_pl poi four_seasons",
+   "6": "distance 5_miles traffic_info moderate_traffic poi_type parking_garage address 270_altaire_walk poi civic_center_garage"
+}

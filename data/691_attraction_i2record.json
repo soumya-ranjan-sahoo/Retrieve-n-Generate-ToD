@@ -1,0 +1,9 @@
+{
+   "0": "name cambridge_museum_of_technology address the_old_pumping_station_,_cheddars_lane area east phone 01223368650 postcode cb58ld pricerange expensive type museum choice 23",
+   "1": "name whipple_museum_of_the_history_of_science address free_school_lane area centre phone 01223330906 postcode cb23rh pricerange free type museum choice 23",
+   "2": "name scott_polar_museum address lensfield_road area centre phone 01223336540 postcode cb21er pricerange free type museum choice 23",
+   "3": "name cambridge_and_county_folk_museum address 2-3_castle_street area west phone 01223355159 postcode cb30aq pricerange moderate type museum choice 23",
+   "4": "name regency_gallery address 39_fitzroy_street area centre phone 01223365454 postcode cb11er pricerange free type museum choice 23",
+   "5": "name ruskin_gallery address anglia_ruskin_university_,_east_road area centre phone 01245493131 postcode cb11pt pricerange free type museum choice 23",
+   "6": "name cafe_jello_gallery address cafe_jello_gallery_,_13_magdalene_street area west phone 01223312112 postcode cb30af pricerange free type museum"
+}

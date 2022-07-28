@@ -1,0 +1,10 @@
+{
+   "0": "distance 4_miles traffic_info no_traffic poi_type hospital address 611_ames_ave poi palo_alto_medical_foundation",
+   "1": "distance 1_miles traffic_info no_traffic poi_type grocery_store address 452_arcadia_pl poi safeway",
+   "2": "distance 5_miles traffic_info road_block_nearby poi_type shopping_center address 338_alester_ave poi midtown_shopping_center",
+   "3": "distance 2_miles traffic_info no_traffic poi_type friends_house address 580_van_ness_ave poi toms_house",
+   "4": "distance 3_miles traffic_info car_collision_nearby poi_type parking_garage address 550_alester_ave poi dish_parking",
+   "5": "distance 2_miles traffic_info road_block_nearby poi_type home address 56_cadwell_street poi home",
+   "6": "distance 6_miles traffic_info road_block_nearby poi_type chinese_restaurant address 669_el_camino_real poi p_._f_._changs",
+   "7": "distance 6_miles traffic_info road_block_nearby poi_type rest_stop address 657_ames_ave poi the_clement_hotel"
+}

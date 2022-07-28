@@ -1,0 +1,9 @@
+{
+   "0": "distance 3_miles traffic_info no_traffic poi_type shopping_center address 338_alester_ave poi midtown_shopping_center",
+   "1": "distance 4_miles traffic_info no_traffic poi_type grocery_store address 638_amherst_st poi sigona_farmers_market",
+   "2": "distance 6_miles traffic_info moderate_traffic poi_type pizza_restaurant address 528_anton_ct poi pizza_my_heart",
+   "3": "distance 4_miles traffic_info heavy_traffic poi_type home address 5671_barringer_street poi home",
+   "4": "distance 5_miles traffic_info heavy_traffic poi_type chinese_restaurant address 113_arbol_dr poi jing_jing",
+   "5": "distance 5_miles traffic_info no_traffic poi_type rest_stop address 753_university_ave poi comfort_inn",
+   "6": "distance 3_miles traffic_info heavy_traffic poi_type rest_stop address 465_arcadia_pl poi four_seasons"
+}

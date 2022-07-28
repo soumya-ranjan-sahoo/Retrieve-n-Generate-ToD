@@ -1,0 +1,9 @@
+{
+   "0": "distance 5_miles traffic_info heavy_traffic poi_type parking_garage address 550_alester_ave poi dish_parking",
+   "1": "distance 5_miles traffic_info heavy_traffic poi_type chinese_restaurant address 113_arbol_dr poi jing_jing",
+   "2": "distance 4_miles traffic_info heavy_traffic poi_type shopping_center address 383_university_ave poi town_and_country",
+   "3": "distance 4_miles traffic_info heavy_traffic poi_type friends_house address 347_alta_mesa_ave poi jills_house",
+   "4": "distance 4_miles traffic_info moderate_traffic poi_type chinese_restaurant address 271_springer_street poi mandarin_roots",
+   "5": "distance 3_miles traffic_info no_traffic poi_type shopping_center address 338_alester_ave poi midtown_shopping_center",
+   "6": "distance 2_miles traffic_info moderate_traffic poi_type parking_garage address 481_amaranta_ave poi palo_alto_garage_r"
+}

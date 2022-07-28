@@ -34,71 +34,58 @@ The program will automatically pick the best model from the directory for the ev
 
 ### Refactored structure of each dialogue
 ```
-{
-      "task": "asian_oriental",
-      "id": 5,
+ {
+      "task": "hotel",
+      "id": 1,
       "history": [
-         "i want somewhere that serves traditional food .",
-         "there are no traditional restaurants in the city . can i help you with a different type of cuisine ?",
-         "how abou asian oriental food",
-         "there are 5 restaurants meeting your criteria . what area and price range did you have in mind ?",
-         "what is the address and phone number ?",
-         "api_call asian_oriental dontcare dontcare",
-         "<silence>",
-         "the dojo_noodle_bar serves asian_oriental food . they are located at 40210_millers_yard_city_centre and their phone number is 01223_363471 .",
-         "thank you . good bye ."
+         "i need to find lodgings on the north side of town .",
+         "we have 13 available lodging areas in the north . any preferences ?",
+         "some place in the north and it does not need to have free parking"
       ],
-      "response": "good bye",
-      "ref_ents": [],
+      "response": "there are 2 locations that match your criteria . the alpha-milton_guest_house with a 3_star rating and the avalon with a 4_star rating . do either of these sound good ?",
+      "ref_ents": [
+         "3_star",
+         "4_star",
+         "alpha-milton_guest_house",
+         "avalon"
+      ],
       "kg": [
          {
-            "name": "dojo_noodle_bar",
-            "address": "40210_millers_yard_city_centre",
-            "area": "centre",
-            "food": "asian_oriental",
-            "phone": "01223_363471",
-            "pricerange": "cheap",
-            "postcode": "cb21rq"
-         },
-         {
-            "name": "yippee_noodle_bar",
-            "address": "40428_king_street_city_centre",
-            "area": "centre",
-            "food": "asian_oriental",
-            "phone": "01223_518111",
-            "pricerange": "moderate",
-            "postcode": "cb11lh"
-         },
-         {
-            "name": "j_restaurant",
-            "address": "86_regent_street_city_centre",
-            "area": "centre",
-            "food": "asian_oriental",
-            "phone": "01223_307581",
-            "pricerange": "cheap",
-            "postcode": "cb21dp"
-         },
-         {
-            "name": "saigon_city",
-            "address": "169_high_street_chesterton_chesterton",
+            "name": "arbury_lodge_guesthouse",
+            "address": "82_arbury_road",
             "area": "north",
-            "food": "asian_oriental",
-            "phone": "01223_356555",
-            "pricerange": "expensive",
-            "postcode": "cb41nl"
+            "phone": "01223364319",
+            "postcode": "cb42je",
+            "pricerange": "moderate",
+            "stars": "4_star",
+            "type": "guesthouse",
+            "choice": "13",
+            "ref": "2asa82vj"
          },
          {
-            "name": "kymmoy",
-            "address": "52_mill_road_city_centre",
-            "area": "centre",
-            "food": "asian_oriental",
-            "phone": "01223_311911",
-            "pricerange": "expensive",
-            "postcode": "cb12as"
+            "name": "kirkwood_house",
+            "address": "172_chesterton_road",
+            "area": "north",
+            "phone": "01223306283",
+            "postcode": "cb41da",
+            "pricerange": "moderate",
+            "stars": "4_star",
+            "type": "guesthouse",
+            "choice": "13",
+            "ref": "2asa82vj"
+         },
+         {
+            "name": "worth_house",
+            "address": "152_chesterton_road",
+            "area": "north",
+            "phone": "01223316074",
+            "postcode": "cb41da",
+            "pricerange": "cheap",
+            "stars": "4_star",
+            "type": "guesthouse",
+            "choice": "13",
+            "ref": "2asa82vj"
          }
-      ]
-   }
-   
 ```
 
 

@@ -24,7 +24,7 @@ For single GPU run:
 ```
 python train.py
 ```
-
+The training parameters can be altered in the config/gpt2/params.json file. 
 
 ### Evaluation
 ```
@@ -87,5 +87,5 @@ The program will automatically pick the best model from the directory for the ev
             "ref": "2asa82vj"
          }]}
 ```
-
+The evaluation (generation) parameters can be altered in the config/gpt2/generation_params.json file. 
 
